@@ -1,0 +1,1501 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1675792477350,428,imdb,403,Forbidden,Thread Group 1-5,text,false,,1258,234,9,9,https://www.imdb.com/,27,0,13
+1675792477549,229,imdb,403,Forbidden,Thread Group 1-7,text,false,,1258,234,9,9,https://www.imdb.com/,29,0,14
+1675792477150,629,imdb,403,Forbidden,Thread Group 1-3,text,false,,1258,234,9,9,https://www.imdb.com/,27,0,14
+1675792477350,27,imdb-0,301,Moved Permanently,Thread Group 1-5,text,true,,592,117,9,9,http://www.imdb.com/,27,0,13
+1675792477549,29,imdb-0,301,Moved Permanently,Thread Group 1-7,text,true,,592,117,9,9,http://www.imdb.com/,29,0,14
+1675792477150,27,imdb-0,301,Moved Permanently,Thread Group 1-3,text,true,,592,117,9,9,http://www.imdb.com/,27,0,14
+1675792477377,401,imdb-1,403,Forbidden,Thread Group 1-5,text,false,,666,117,9,9,https://www.imdb.com/,400,0,269
+1675792477177,602,imdb-1,403,Forbidden,Thread Group 1-3,text,false,,666,117,9,9,https://www.imdb.com/,601,0,469
+1675792477578,200,imdb-1,403,Forbidden,Thread Group 1-7,text,false,,666,117,9,9,https://www.imdb.com/,199,0,68
+1675792477249,529,imdb,403,Forbidden,Thread Group 1-4,text,false,,1258,234,9,9,https://www.imdb.com/,27,0,14
+1675792477050,728,imdb,403,Forbidden,Thread Group 1-2,text,false,,1258,234,9,9,https://www.imdb.com/,56,0,36
+1675792477450,328,imdb,403,Forbidden,Thread Group 1-6,text,false,,1258,234,9,9,https://www.imdb.com/,26,0,13
+1675792477249,27,imdb-0,301,Moved Permanently,Thread Group 1-4,text,true,,592,117,9,9,http://www.imdb.com/,27,0,14
+1675792477050,59,imdb-0,301,Moved Permanently,Thread Group 1-2,text,true,,592,117,9,9,http://www.imdb.com/,56,0,36
+1675792477450,26,imdb-0,301,Moved Permanently,Thread Group 1-6,text,true,,592,117,9,9,http://www.imdb.com/,26,0,13
+1675792477277,501,imdb-1,403,Forbidden,Thread Group 1-4,text,false,,666,117,9,9,https://www.imdb.com/,500,0,369
+1675792477111,667,imdb-1,403,Forbidden,Thread Group 1-2,text,false,,666,117,9,9,https://www.imdb.com/,666,0,535
+1675792477477,301,imdb-1,403,Forbidden,Thread Group 1-6,text,false,,666,117,9,9,https://www.imdb.com/,300,0,169
+1675792477746,196,imdb,403,Forbidden,Thread Group 1-9,text,false,,1258,234,10,10,https://www.imdb.com/,27,0,13
+1675792477746,27,imdb-0,301,Moved Permanently,Thread Group 1-9,text,true,,592,117,10,10,http://www.imdb.com/,27,0,13
+1675792477774,168,imdb-1,403,Forbidden,Thread Group 1-9,text,false,,666,117,10,10,https://www.imdb.com/,168,0,38
+1675792477847,197,imdb,403,Forbidden,Thread Group 1-10,text,false,,1258,234,11,11,https://www.imdb.com/,28,0,13
+1675792477847,28,imdb-0,301,Moved Permanently,Thread Group 1-10,text,true,,592,117,11,11,http://www.imdb.com/,28,0,13
+1675792477875,169,imdb-1,403,Forbidden,Thread Group 1-10,text,false,,666,117,11,11,https://www.imdb.com/,169,0,37
+1675792477037,1066,imdb,403,Forbidden,Thread Group 1-1,text,false,,1258,234,12,12,https://www.imdb.com/,69,0,49
+1675792477037,73,imdb-0,301,Moved Permanently,Thread Group 1-1,text,true,,592,117,12,12,http://www.imdb.com/,69,0,49
+1675792477111,992,imdb-1,403,Forbidden,Thread Group 1-1,text,false,,666,117,12,12,https://www.imdb.com/,992,0,535
+1675792477646,507,imdb,403,Forbidden,Thread Group 1-8,text,false,,1258,234,12,12,https://www.imdb.com/,22,0,11
+1675792477946,207,imdb,403,Forbidden,Thread Group 1-11,text,false,,1258,234,12,12,https://www.imdb.com/,29,0,15
+1675792477946,29,imdb-0,301,Moved Permanently,Thread Group 1-11,text,true,,592,117,12,12,http://www.imdb.com/,29,0,15
+1675792477646,22,imdb-0,301,Moved Permanently,Thread Group 1-8,text,true,,592,117,12,12,http://www.imdb.com/,22,0,11
+1675792477975,178,imdb-1,403,Forbidden,Thread Group 1-11,text,false,,666,117,12,12,https://www.imdb.com/,178,0,36
+1675792477669,484,imdb-1,403,Forbidden,Thread Group 1-8,text,false,,666,117,12,12,https://www.imdb.com/,484,0,34
+1675792477780,433,pinterest,200,OK,Thread Group 1-5,text,true,,216136,244,13,13,https://www.pinterest.com/,69,0,44
+1675792477780,69,pinterest-0,301,Moved Permanently,Thread Group 1-5,,true,,211,122,13,13,http://www.pinterest.com/,69,0,44
+1675792477850,363,pinterest-1,200,OK,Thread Group 1-5,text,true,,215925,122,13,13,https://www.pinterest.com/,272,0,51
+1675792477780,440,pinterest,200,OK,Thread Group 1-3,text,true,,216413,244,13,13,https://www.pinterest.com/,62,0,40
+1675792477780,62,pinterest-0,301,Moved Permanently,Thread Group 1-3,,true,,211,122,13,13,http://www.pinterest.com/,62,0,40
+1675792477842,378,pinterest-1,200,OK,Thread Group 1-3,text,true,,216202,122,13,13,https://www.pinterest.com/,278,0,54
+1675792477780,451,pinterest,200,OK,Thread Group 1-7,text,true,,216679,244,13,13,https://www.pinterest.com/,66,0,40
+1675792477780,66,pinterest-0,301,Moved Permanently,Thread Group 1-7,,true,,211,122,13,13,http://www.pinterest.com/,66,0,40
+1675792477846,385,pinterest-1,200,OK,Thread Group 1-7,text,true,,216468,122,13,13,https://www.pinterest.com/,285,0,50
+1675792478044,214,imdb,403,Forbidden,Thread Group 1-12,text,false,,1258,234,14,14,https://www.imdb.com/,33,0,17
+1675792478044,33,imdb-0,301,Moved Permanently,Thread Group 1-12,text,true,,592,117,14,14,http://www.imdb.com/,33,0,17
+1675792478077,181,imdb-1,403,Forbidden,Thread Group 1-12,text,false,,666,117,14,14,https://www.imdb.com/,181,0,39
+1675792477780,505,pinterest,200,OK,Thread Group 1-4,text,true,,216789,244,14,14,https://www.pinterest.com/,69,0,44
+1675792477780,69,pinterest-0,301,Moved Permanently,Thread Group 1-4,,true,,211,122,14,14,http://www.pinterest.com/,69,0,44
+1675792477850,435,pinterest-1,200,OK,Thread Group 1-4,text,true,,216578,122,14,14,https://www.pinterest.com/,326,0,56
+1675792477780,518,pinterest,200,OK,Thread Group 1-6,text,true,,216179,244,14,14,https://www.pinterest.com/,69,0,44
+1675792477780,69,pinterest-0,301,Moved Permanently,Thread Group 1-6,,true,,211,122,14,14,http://www.pinterest.com/,69,0,44
+1675792477850,448,pinterest-1,200,OK,Thread Group 1-6,text,true,,215968,122,14,14,https://www.pinterest.com/,309,0,58
+1675792477780,577,pinterest,200,OK,Thread Group 1-2,text,true,,215610,244,15,15,https://www.pinterest.com/,69,0,44
+1675792477780,69,pinterest-0,301,Moved Permanently,Thread Group 1-2,,true,,211,122,15,15,http://www.pinterest.com/,69,0,44
+1675792477850,507,pinterest-1,200,OK,Thread Group 1-2,text,true,,215399,122,15,15,https://www.pinterest.com/,383,0,51
+1675792477943,430,pinterest,200,OK,Thread Group 1-9,text,true,,215758,244,15,15,https://www.pinterest.com/,45,0,23
+1675792477943,45,pinterest-0,301,Moved Permanently,Thread Group 1-9,,true,,211,122,15,15,http://www.pinterest.com/,45,0,23
+1675792477989,384,pinterest-1,200,OK,Thread Group 1-9,text,true,,215547,122,15,15,https://www.pinterest.com/,285,0,49
+1675792478154,253,imdb,403,Forbidden,Thread Group 1-13,text,false,,1258,234,15,15,https://www.imdb.com/,66,0,23
+1675792478154,66,imdb-0,301,Moved Permanently,Thread Group 1-13,text,true,,592,117,15,15,http://www.imdb.com/,66,0,23
+1675792478221,186,imdb-1,403,Forbidden,Thread Group 1-13,text,false,,666,117,15,15,https://www.imdb.com/,186,0,46
+1675792478246,236,imdb,403,Forbidden,Thread Group 1-14,text,false,,1258,234,16,16,https://www.imdb.com/,33,0,12
+1675792478246,33,imdb-0,301,Moved Permanently,Thread Group 1-14,text,true,,592,117,16,16,http://www.imdb.com/,33,0,12
+1675792478280,202,imdb-1,403,Forbidden,Thread Group 1-14,text,false,,666,117,16,16,https://www.imdb.com/,202,0,41
+1675792478220,300,djmag,200,OK,Thread Group 1-3,text,true,,93151,232,16,16,https://djmag.com/,86,0,46
+1675792478220,86,djmag-0,301,Moved Permanently,Thread Group 1-3,,true,,656,118,16,16,http://www.djmag.com/,86,0,46
+1675792478306,214,djmag-1,200,OK,Thread Group 1-3,text,true,,92495,114,16,16,https://djmag.com/,155,0,77
+1675792478232,304,djmag,200,OK,Thread Group 1-7,text,true,,93141,232,16,16,https://djmag.com/,74,0,33
+1675792478232,74,djmag-0,301,Moved Permanently,Thread Group 1-7,,true,,662,118,16,16,http://www.djmag.com/,74,0,33
+1675792478307,229,djmag-1,200,OK,Thread Group 1-7,text,true,,92479,114,16,16,https://djmag.com/,165,0,81
+1675792478044,495,pinterest,200,OK,Thread Group 1-10,text,true,,216149,244,16,16,https://www.pinterest.com/,42,0,19
+1675792478044,42,pinterest-0,301,Moved Permanently,Thread Group 1-10,,true,,211,122,16,16,http://www.pinterest.com/,42,0,19
+1675792478086,453,pinterest-1,200,OK,Thread Group 1-10,text,true,,215938,122,16,16,https://www.pinterest.com/,315,0,53
+1675792478285,276,djmag,200,OK,Thread Group 1-4,text,true,,93129,232,17,17,https://djmag.com/,56,0,23
+1675792478285,56,djmag-0,301,Moved Permanently,Thread Group 1-4,,true,,650,118,17,17,http://www.djmag.com/,56,0,23
+1675792478342,219,djmag-1,200,OK,Thread Group 1-4,text,true,,92479,114,17,17,https://djmag.com/,156,0,62
+1675792478346,216,imdb,403,Forbidden,Thread Group 1-15,text,false,,1258,234,17,17,https://www.imdb.com/,30,0,15
+1675792478346,30,imdb-0,301,Moved Permanently,Thread Group 1-15,text,true,,592,117,17,17,http://www.imdb.com/,30,0,15
+1675792478376,186,imdb-1,403,Forbidden,Thread Group 1-15,text,false,,666,117,17,17,https://www.imdb.com/,186,0,41
+1675792478298,271,djmag,200,OK,Thread Group 1-6,text,true,,93143,232,17,17,https://djmag.com/,55,0,20
+1675792478298,55,djmag-0,301,Moved Permanently,Thread Group 1-6,,true,,658,118,17,17,http://www.djmag.com/,55,0,20
+1675792478354,215,djmag-1,200,OK,Thread Group 1-6,text,true,,92485,114,17,17,https://djmag.com/,167,0,67
+1675792478104,471,pinterest,200,OK,Thread Group 1-1,text,true,,216864,244,17,17,https://www.pinterest.com/,49,0,21
+1675792478104,49,pinterest-0,301,Moved Permanently,Thread Group 1-1,,true,,210,122,17,17,http://www.pinterest.com/,49,0,21
+1675792478153,422,pinterest-1,200,OK,Thread Group 1-1,text,true,,216654,122,17,17,https://www.pinterest.com/,321,0,80
+1675792478213,368,djmag,200,OK,Thread Group 1-5,text,true,,93135,232,17,17,https://djmag.com/,88,0,52
+1675792478213,88,djmag-0,301,Moved Permanently,Thread Group 1-5,,true,,656,118,17,17,http://www.djmag.com/,88,0,52
+1675792478301,280,djmag-1,200,OK,Thread Group 1-5,text,true,,92479,114,17,17,https://djmag.com/,225,0,81
+1675792478154,481,pinterest,200,OK,Thread Group 1-11,text,true,,216131,244,17,17,https://www.pinterest.com/,76,0,40
+1675792478154,76,pinterest-0,301,Moved Permanently,Thread Group 1-11,,true,,211,122,17,17,http://www.pinterest.com/,76,0,40
+1675792478230,405,pinterest-1,200,OK,Thread Group 1-11,text,true,,215920,122,17,17,https://www.pinterest.com/,316,0,62
+1675792478154,507,pinterest,200,OK,Thread Group 1-8,text,true,,216848,244,18,18,https://www.pinterest.com/,76,0,40
+1675792478154,76,pinterest-0,301,Moved Permanently,Thread Group 1-8,,true,,211,122,18,18,http://www.pinterest.com/,76,0,40
+1675792478230,431,pinterest-1,200,OK,Thread Group 1-8,text,true,,216637,122,18,18,https://www.pinterest.com/,367,0,60
+1675792478445,219,imdb,403,Forbidden,Thread Group 1-16,text,false,,1258,234,18,18,https://www.imdb.com/,33,0,15
+1675792478445,33,imdb-0,301,Moved Permanently,Thread Group 1-16,text,true,,592,117,18,18,http://www.imdb.com/,33,0,15
+1675792478478,186,imdb-1,403,Forbidden,Thread Group 1-16,text,false,,666,117,18,18,https://www.imdb.com/,186,0,47
+1675792478357,310,djmag,200,OK,Thread Group 1-2,text,true,,93134,232,18,18,https://djmag.com/,57,0,23
+1675792478357,57,djmag-0,301,Moved Permanently,Thread Group 1-2,,true,,654,118,18,18,http://www.djmag.com/,57,0,23
+1675792478414,253,djmag-1,200,OK,Thread Group 1-2,text,true,,92480,114,18,18,https://djmag.com/,210,0,62
+1675792478374,324,djmag,200,OK,Thread Group 1-9,text,true,,93134,232,18,18,https://djmag.com/,63,0,26
+1675792478374,63,djmag-0,301,Moved Permanently,Thread Group 1-9,,true,,654,118,18,18,http://www.djmag.com/,63,0,26
+1675792478438,260,djmag-1,200,OK,Thread Group 1-9,text,true,,92480,114,18,18,https://djmag.com/,207,0,66
+1675792478540,217,djmag,200,OK,Thread Group 1-10,text,true,,93124,232,19,19,https://djmag.com/,67,0,32
+1675792478540,67,djmag-0,301,Moved Permanently,Thread Group 1-10,,true,,648,118,19,19,http://www.djmag.com/,67,0,32
+1675792478607,150,djmag-1,200,OK,Thread Group 1-10,text,true,,92476,114,19,19,https://djmag.com/,117,0,59
+1675792478546,214,imdb,403,Forbidden,Thread Group 1-17,text,false,,1258,234,19,19,https://www.imdb.com/,39,0,26
+1675792478546,39,imdb-0,301,Moved Permanently,Thread Group 1-17,text,true,,592,117,19,19,http://www.imdb.com/,39,0,26
+1675792478585,175,imdb-1,403,Forbidden,Thread Group 1-17,text,false,,666,117,19,19,https://www.imdb.com/,175,0,38
+1675792478408,404,pinterest,200,OK,Thread Group 1-13,text,true,,216324,244,19,19,https://www.pinterest.com/,39,0,15
+1675792478408,39,pinterest-0,301,Moved Permanently,Thread Group 1-13,,true,,211,122,19,19,http://www.pinterest.com/,39,0,15
+1675792478448,364,pinterest-1,200,OK,Thread Group 1-13,text,true,,216113,122,19,19,https://www.pinterest.com/,298,0,58
+1675792478576,293,djmag,200,OK,Thread Group 1-1,text,true,,93142,232,20,20,https://djmag.com/,77,0,26
+1675792478576,77,djmag-0,301,Moved Permanently,Thread Group 1-1,,true,,656,118,20,20,http://www.djmag.com/,77,0,26
+1675792478654,215,djmag-1,200,OK,Thread Group 1-1,text,true,,92486,114,20,20,https://djmag.com/,141,0,51
+1675792478646,237,imdb,403,Forbidden,Thread Group 1-18,text,false,,1258,234,20,20,https://www.imdb.com/,26,0,13
+1675792478646,27,imdb-0,301,Moved Permanently,Thread Group 1-18,text,true,,592,117,20,20,http://www.imdb.com/,26,0,13
+1675792478673,210,imdb-1,403,Forbidden,Thread Group 1-18,text,false,,666,117,20,20,https://www.imdb.com/,210,0,40
+1675792478661,260,djmag,200,OK,Thread Group 1-8,text,true,,93138,232,20,20,https://djmag.com/,64,0,23
+1675792478661,64,djmag-0,301,Moved Permanently,Thread Group 1-8,,true,,660,118,20,20,http://www.djmag.com/,64,0,23
+1675792478725,196,djmag-1,200,OK,Thread Group 1-8,text,true,,92478,114,20,20,https://djmag.com/,142,0,65
+1675792478745,206,imdb,403,Forbidden,Thread Group 1-19,text,false,,1258,234,21,21,https://www.imdb.com/,27,0,13
+1675792478745,27,imdb-0,301,Moved Permanently,Thread Group 1-19,text,true,,592,117,21,21,http://www.imdb.com/,27,0,13
+1675792478773,178,imdb-1,403,Forbidden,Thread Group 1-19,text,false,,666,117,21,21,https://www.imdb.com/,178,0,32
+1675792478636,343,djmag,200,OK,Thread Group 1-11,text,true,,93130,232,21,21,https://djmag.com/,55,0,22
+1675792478636,55,djmag-0,301,Moved Permanently,Thread Group 1-11,,true,,650,118,21,21,http://www.djmag.com/,55,0,22
+1675792478692,287,djmag-1,200,OK,Thread Group 1-11,text,true,,92480,114,21,21,https://djmag.com/,222,0,75
+1675792478482,526,pinterest,200,OK,Thread Group 1-14,text,true,,216614,244,21,21,https://www.pinterest.com/,67,0,28
+1675792478482,67,pinterest-0,301,Moved Permanently,Thread Group 1-14,,true,,211,122,21,21,http://www.pinterest.com/,67,0,28
+1675792478549,459,pinterest-1,200,OK,Thread Group 1-14,text,true,,216403,122,21,21,https://www.pinterest.com/,354,0,55
+1675792478562,455,pinterest,200,OK,Thread Group 1-15,text,true,,216481,244,21,21,https://www.pinterest.com/,48,0,27
+1675792478562,48,pinterest-0,301,Moved Permanently,Thread Group 1-15,,true,,211,122,21,21,http://www.pinterest.com/,48,0,27
+1675792478611,406,pinterest-1,200,OK,Thread Group 1-15,text,true,,216270,122,21,21,https://www.pinterest.com/,305,0,55
+1675792478812,289,djmag,200,OK,Thread Group 1-13,text,true,,93153,232,22,22,https://djmag.com/,89,0,22
+1675792478812,89,djmag-0,301,Moved Permanently,Thread Group 1-13,,true,,658,118,22,22,http://www.djmag.com/,89,0,22
+1675792478902,199,djmag-1,200,OK,Thread Group 1-13,text,true,,92495,114,22,22,https://djmag.com/,166,0,87
+1675792478846,270,imdb,403,Forbidden,Thread Group 1-20,text,false,,1258,234,22,22,https://www.imdb.com/,74,0,55
+1675792478846,74,imdb-0,301,Moved Permanently,Thread Group 1-20,text,true,,592,117,22,22,http://www.imdb.com/,74,0,55
+1675792478920,196,imdb-1,403,Forbidden,Thread Group 1-20,text,false,,666,117,22,22,https://www.imdb.com/,196,0,59
+1675792478664,478,pinterest,200,OK,Thread Group 1-16,text,true,,216106,244,22,22,https://www.pinterest.com/,44,0,22
+1675792478664,44,pinterest-0,301,Moved Permanently,Thread Group 1-16,,true,,211,122,22,22,http://www.pinterest.com/,44,0,22
+1675792478708,434,pinterest-1,200,OK,Thread Group 1-16,text,true,,215895,122,22,22,https://www.pinterest.com/,334,0,49
+1675792478946,210,imdb,403,Forbidden,Thread Group 1-21,text,false,,1258,234,23,23,https://www.imdb.com/,39,0,24
+1675792478946,39,imdb-0,301,Moved Permanently,Thread Group 1-21,text,true,,592,117,23,23,http://www.imdb.com/,39,0,24
+1675792478985,171,imdb-1,403,Forbidden,Thread Group 1-21,text,false,,666,117,23,23,https://www.imdb.com/,171,0,35
+1675792478761,405,pinterest,200,OK,Thread Group 1-17,text,true,,215967,244,23,23,https://www.pinterest.com/,39,0,16
+1675792478761,39,pinterest-0,301,Moved Permanently,Thread Group 1-17,,true,,211,122,23,23,http://www.pinterest.com/,39,0,16
+1675792478801,365,pinterest-1,200,OK,Thread Group 1-17,text,true,,215756,122,23,23,https://www.pinterest.com/,302,0,53
+1675792479008,220,djmag,200,OK,Thread Group 1-14,text,true,,93130,232,23,23,https://djmag.com/,43,0,19
+1675792479008,43,djmag-0,301,Moved Permanently,Thread Group 1-14,,true,,648,118,23,23,http://www.djmag.com/,43,0,19
+1675792479052,176,djmag-1,200,OK,Thread Group 1-14,text,true,,92482,114,23,23,https://djmag.com/,144,0,64
+1675792479044,204,imdb,403,Forbidden,Thread Group 1-22,text,false,,1258,234,24,24,https://www.imdb.com/,31,0,13
+1675792479044,31,imdb-0,301,Moved Permanently,Thread Group 1-22,text,true,,592,117,24,24,http://www.imdb.com/,31,0,13
+1675792479076,172,imdb-1,403,Forbidden,Thread Group 1-22,text,false,,666,117,24,24,https://www.imdb.com/,172,0,38
+1675792479017,234,djmag,200,OK,Thread Group 1-15,text,true,,93151,232,24,24,https://djmag.com/,59,0,21
+1675792479017,59,djmag-0,301,Moved Permanently,Thread Group 1-15,,true,,656,118,24,24,http://www.djmag.com/,59,0,21
+1675792479077,174,djmag-1,200,OK,Thread Group 1-15,text,true,,92495,114,24,24,https://djmag.com/,142,0,63
+1675792478883,447,pinterest,200,OK,Thread Group 1-18,text,true,,215463,244,24,24,https://www.pinterest.com/,78,0,46
+1675792478883,78,pinterest-0,301,Moved Permanently,Thread Group 1-18,,true,,210,122,24,24,http://www.pinterest.com/,78,0,46
+1675792478962,368,pinterest-1,200,OK,Thread Group 1-18,text,true,,215253,122,24,24,https://www.pinterest.com/,302,0,55
+1675792479145,200,imdb,403,Forbidden,Thread Group 1-23,text,false,,1258,234,24,24,https://www.imdb.com/,24,0,9
+1675792479145,24,imdb-0,301,Moved Permanently,Thread Group 1-23,text,true,,592,117,24,24,http://www.imdb.com/,24,0,9
+1675792479169,176,imdb-1,403,Forbidden,Thread Group 1-23,text,false,,666,117,24,24,https://www.imdb.com/,175,0,44
+1675792479142,222,djmag,200,OK,Thread Group 1-16,text,true,,93153,232,25,25,https://djmag.com/,49,0,17
+1675792479142,49,djmag-0,301,Moved Permanently,Thread Group 1-16,,true,,650,118,25,25,http://www.djmag.com/,49,0,17
+1675792479191,173,djmag-1,200,OK,Thread Group 1-16,text,true,,92503,114,25,25,https://djmag.com/,141,0,54
+1675792478952,426,pinterest,200,OK,Thread Group 1-19,text,true,,215860,244,25,25,https://www.pinterest.com/,51,0,26
+1675792478952,51,pinterest-0,301,Moved Permanently,Thread Group 1-19,,true,,211,122,25,25,http://www.pinterest.com/,51,0,26
+1675792479003,375,pinterest-1,200,OK,Thread Group 1-19,text,true,,215649,122,25,25,https://www.pinterest.com/,308,0,50
+1675792479246,195,imdb,403,Forbidden,Thread Group 1-24,text,false,,1258,234,25,25,https://www.imdb.com/,26,0,12
+1675792479246,26,imdb-0,301,Moved Permanently,Thread Group 1-24,text,true,,592,117,25,25,http://www.imdb.com/,26,0,12
+1675792479272,169,imdb-1,403,Forbidden,Thread Group 1-24,text,false,,666,117,25,25,https://www.imdb.com/,169,0,35
+1675792479167,303,djmag,200,OK,Thread Group 1-17,text,true,,93150,232,26,26,https://djmag.com/,72,0,24
+1675792479167,72,djmag-0,301,Moved Permanently,Thread Group 1-17,,true,,654,118,26,26,http://www.djmag.com/,72,0,24
+1675792479240,230,djmag-1,200,OK,Thread Group 1-17,text,true,,92496,114,26,26,https://djmag.com/,182,0,53
+1675792479345,194,imdb,403,Forbidden,Thread Group 1-25,text,false,,1258,234,26,26,https://www.imdb.com/,30,0,15
+1675792479345,30,imdb-0,301,Moved Permanently,Thread Group 1-25,text,true,,592,117,26,26,http://www.imdb.com/,30,0,15
+1675792479375,164,imdb-1,403,Forbidden,Thread Group 1-25,text,false,,666,117,26,26,https://www.imdb.com/,164,0,34
+1675792479117,432,pinterest,200,OK,Thread Group 1-20,text,true,,215765,244,27,27,https://www.pinterest.com/,42,0,20
+1675792479117,42,pinterest-0,301,Moved Permanently,Thread Group 1-20,,true,,209,122,27,27,http://www.pinterest.com/,42,0,20
+1675792479159,390,pinterest-1,200,OK,Thread Group 1-20,text,true,,215556,122,27,27,https://www.pinterest.com/,274,0,53
+1675792479331,258,djmag,200,OK,Thread Group 1-18,text,true,,93128,232,27,27,https://djmag.com/,96,0,23
+1675792479331,96,djmag-0,301,Moved Permanently,Thread Group 1-18,,true,,654,118,27,27,http://www.djmag.com/,96,0,23
+1675792479427,162,djmag-1,200,OK,Thread Group 1-18,text,true,,92474,114,27,27,https://djmag.com/,123,0,54
+1675792479444,200,imdb,403,Forbidden,Thread Group 1-26,text,false,,1258,234,27,27,https://www.imdb.com/,28,0,12
+1675792479444,28,imdb-0,301,Moved Permanently,Thread Group 1-26,text,true,,592,117,27,27,http://www.imdb.com/,28,0,12
+1675792479472,172,imdb-1,403,Forbidden,Thread Group 1-26,text,false,,666,117,27,27,https://www.imdb.com/,172,0,33
+1675792479379,267,djmag,200,OK,Thread Group 1-19,text,true,,93139,232,28,28,https://djmag.com/,112,0,19
+1675792479379,112,djmag-0,301,Moved Permanently,Thread Group 1-19,,true,,650,118,28,28,http://www.djmag.com/,112,0,19
+1675792479491,155,djmag-1,200,OK,Thread Group 1-19,text,true,,92489,114,28,28,https://djmag.com/,106,0,55
+1675792479248,420,pinterest,200,OK,Thread Group 1-22,text,true,,216276,244,28,28,https://www.pinterest.com/,40,0,19
+1675792479248,40,pinterest-0,301,Moved Permanently,Thread Group 1-22,,true,,211,122,28,28,http://www.pinterest.com/,40,0,19
+1675792479289,379,pinterest-1,200,OK,Thread Group 1-22,text,true,,216065,122,28,28,https://www.pinterest.com/,285,0,51
+1675792479157,517,pinterest,200,OK,Thread Group 1-21,text,true,,216283,244,28,28,https://www.pinterest.com/,45,0,18
+1675792479157,45,pinterest-0,301,Moved Permanently,Thread Group 1-21,,true,,211,122,28,28,http://www.pinterest.com/,45,0,18
+1675792479202,472,pinterest-1,200,OK,Thread Group 1-21,text,true,,216072,122,28,28,https://www.pinterest.com/,389,0,53
+1675792479545,217,imdb,403,Forbidden,Thread Group 1-27,text,false,,1258,234,29,29,https://www.imdb.com/,41,0,13
+1675792479545,41,imdb-0,301,Moved Permanently,Thread Group 1-27,text,true,,592,117,29,29,http://www.imdb.com/,41,0,13
+1675792479587,175,imdb-1,403,Forbidden,Thread Group 1-27,text,false,,666,117,29,29,https://www.imdb.com/,175,0,37
+1675792479345,461,pinterest,200,OK,Thread Group 1-23,text,true,,216206,244,29,29,https://www.pinterest.com/,43,0,22
+1675792479345,43,pinterest-0,301,Moved Permanently,Thread Group 1-23,,true,,211,122,29,29,http://www.pinterest.com/,43,0,22
+1675792479388,418,pinterest-1,200,OK,Thread Group 1-23,text,true,,215995,122,29,29,https://www.pinterest.com/,329,0,51
+1675792479549,304,djmag,200,OK,Thread Group 1-20,text,true,,93135,232,30,30,https://djmag.com/,105,0,23
+1675792479549,105,djmag-0,301,Moved Permanently,Thread Group 1-20,,true,,654,118,30,30,http://www.djmag.com/,105,0,23
+1675792479654,199,djmag-1,200,OK,Thread Group 1-20,text,true,,92481,114,30,30,https://djmag.com/,136,0,58
+1675792479441,419,pinterest,200,OK,Thread Group 1-24,text,true,,216574,244,30,30,https://www.pinterest.com/,39,0,18
+1675792479441,39,pinterest-0,301,Moved Permanently,Thread Group 1-24,,true,,211,122,30,30,http://www.pinterest.com/,39,0,18
+1675792479481,379,pinterest-1,200,OK,Thread Group 1-24,text,true,,216363,122,30,30,https://www.pinterest.com/,292,0,47
+1675792479645,217,imdb,403,Forbidden,Thread Group 1-28,text,false,,1258,234,30,30,https://www.imdb.com/,31,0,13
+1675792479645,31,imdb-0,301,Moved Permanently,Thread Group 1-28,text,true,,592,117,30,30,http://www.imdb.com/,31,0,13
+1675792479677,185,imdb-1,403,Forbidden,Thread Group 1-28,text,false,,666,117,30,30,https://www.imdb.com/,185,0,42
+1675792479229,706,wikipedia,200,OK,Thread Group 1-14,text,true,,77212,244,30,30,https://www.wikipedia.org/,440,0,389
+1675792479229,440,wikipedia-0,301,TLS Redirect,Thread Group 1-14,,true,,595,122,30,30,http://www.wikipedia.org/,440,0,389
+1675792479669,266,wikipedia-1,200,OK,Thread Group 1-14,text,true,,76617,122,30,30,https://www.wikipedia.org/,178,0,116
+1675792479364,595,wikipedia,200,OK,Thread Group 1-16,text,true,,77212,244,31,31,https://www.wikipedia.org/,305,0,254
+1675792479364,305,wikipedia-0,301,TLS Redirect,Thread Group 1-16,,true,,595,122,31,31,http://www.wikipedia.org/,305,0,254
+1675792479669,290,wikipedia-1,200,OK,Thread Group 1-16,text,true,,76617,122,31,31,https://www.wikipedia.org/,182,0,120
+1675792479668,317,djmag,200,OK,Thread Group 1-22,text,true,,93135,232,31,31,https://djmag.com/,56,0,20
+1675792479668,56,djmag-0,301,Moved Permanently,Thread Group 1-22,,true,,650,118,31,31,http://www.djmag.com/,56,0,20
+1675792479725,260,djmag-1,200,OK,Thread Group 1-22,text,true,,92485,114,31,31,https://djmag.com/,189,0,120
+1675792479471,522,wikipedia,200,OK,Thread Group 1-17,text,true,,77212,244,31,31,https://www.wikipedia.org/,198,0,147
+1675792479471,198,wikipedia-0,301,TLS Redirect,Thread Group 1-17,,true,,595,122,31,31,http://www.wikipedia.org/,198,0,147
+1675792479669,324,wikipedia-1,200,OK,Thread Group 1-17,text,true,,76617,122,31,31,https://www.wikipedia.org/,201,0,141
+1675792479101,901,wikipedia,200,OK,Thread Group 1-13,text,true,,77212,244,31,31,https://www.wikipedia.org/,568,0,517
+1675792479101,568,wikipedia-0,301,TLS Redirect,Thread Group 1-13,,true,,595,122,31,31,http://www.wikipedia.org/,568,0,517
+1675792479669,333,wikipedia-1,200,OK,Thread Group 1-13,text,true,,76617,122,31,31,https://www.wikipedia.org/,201,0,147
+1675792479589,419,wikipedia,200,OK,Thread Group 1-18,text,true,,77212,244,31,31,https://www.wikipedia.org/,99,0,57
+1675792479589,99,wikipedia-0,301,TLS Redirect,Thread Group 1-18,,true,,595,122,31,31,http://www.wikipedia.org/,99,0,57
+1675792479688,320,wikipedia-1,200,OK,Thread Group 1-18,text,true,,76617,122,31,31,https://www.wikipedia.org/,186,0,130
+1675792478582,1459,wikipedia,200,OK,Thread Group 1-5,text,true,,77212,244,31,31,https://www.wikipedia.org/,1096,0,1047
+1675792478582,1096,wikipedia-0,301,TLS Redirect,Thread Group 1-5,,true,,595,122,31,31,http://www.wikipedia.org/,1096,0,1047
+1675792479679,362,wikipedia-1,200,OK,Thread Group 1-5,text,true,,76617,122,31,31,https://www.wikipedia.org/,217,0,157
+1675792479252,816,wikipedia,200,OK,Thread Group 1-15,text,true,,77212,244,32,32,https://www.wikipedia.org/,417,0,366
+1675792479252,417,wikipedia-0,301,TLS Redirect,Thread Group 1-15,,true,,595,122,32,32,http://www.wikipedia.org/,417,0,366
+1675792479669,399,wikipedia-1,200,OK,Thread Group 1-15,text,true,,76617,122,32,32,https://www.wikipedia.org/,207,0,149
+1675792478922,1147,wikipedia,200,OK,Thread Group 1-8,text,true,,77212,244,32,32,https://www.wikipedia.org/,756,0,707
+1675792478922,756,wikipedia-0,301,TLS Redirect,Thread Group 1-8,,true,,595,122,32,32,http://www.wikipedia.org/,756,0,707
+1675792479679,390,wikipedia-1,200,OK,Thread Group 1-8,text,true,,76617,122,32,32,https://www.wikipedia.org/,200,0,143
+1675792479851,221,imdb,403,Forbidden,Thread Group 1-30,text,false,,1258,234,32,32,https://www.imdb.com/,26,0,13
+1675792479851,26,imdb-0,301,Moved Permanently,Thread Group 1-30,text,true,,592,117,32,32,http://www.imdb.com/,26,0,13
+1675792479877,195,imdb-1,403,Forbidden,Thread Group 1-30,text,false,,666,117,32,32,https://www.imdb.com/,195,0,51
+1675792478757,1322,wikipedia,200,OK,Thread Group 1-10,text,true,,77212,244,32,32,https://www.wikipedia.org/,914,0,862
+1675792478757,914,wikipedia-0,301,TLS Redirect,Thread Group 1-10,,true,,595,122,32,32,http://www.wikipedia.org/,914,0,862
+1675792479671,408,wikipedia-1,200,OK,Thread Group 1-10,text,true,,76617,122,32,32,https://www.wikipedia.org/,275,0,178
+1675792479745,338,imdb,403,Forbidden,Thread Group 1-29,text,false,,1258,234,32,32,https://www.imdb.com/,31,0,15
+1675792479745,31,imdb-0,301,Moved Permanently,Thread Group 1-29,text,true,,592,117,32,32,http://www.imdb.com/,31,0,15
+1675792479777,306,imdb-1,403,Forbidden,Thread Group 1-29,text,false,,666,117,32,32,https://www.imdb.com/,306,0,50
+1675792478562,1522,wikipedia,200,OK,Thread Group 1-4,text,true,,77212,244,32,32,https://www.wikipedia.org/,1116,0,1067
+1675792478562,1116,wikipedia-0,301,TLS Redirect,Thread Group 1-4,,true,,595,122,32,32,http://www.wikipedia.org/,1116,0,1067
+1675792479679,405,wikipedia-1,200,OK,Thread Group 1-4,text,true,,76617,122,32,32,https://www.wikipedia.org/,195,0,138
+1675792478699,1389,wikipedia,200,OK,Thread Group 1-9,text,true,,77212,244,32,32,https://www.wikipedia.org/,979,0,930
+1675792478699,979,wikipedia-0,301,TLS Redirect,Thread Group 1-9,,true,,595,122,32,32,http://www.wikipedia.org/,979,0,930
+1675792479679,409,wikipedia-1,200,OK,Thread Group 1-9,text,true,,76617,122,32,32,https://www.wikipedia.org/,216,0,150
+1675792478570,1521,wikipedia,200,OK,Thread Group 1-6,text,true,,77212,244,32,32,https://www.wikipedia.org/,1118,0,1060
+1675792478570,1118,wikipedia-0,301,TLS Redirect,Thread Group 1-6,,true,,595,122,32,32,http://www.wikipedia.org/,1118,0,1060
+1675792479688,403,wikipedia-1,200,OK,Thread Group 1-6,text,true,,76617,122,32,32,https://www.wikipedia.org/,276,0,166
+1675792478979,1115,wikipedia,200,OK,Thread Group 1-11,text,true,,77212,244,32,32,https://www.wikipedia.org/,697,0,640
+1675792478979,697,wikipedia-0,301,TLS Redirect,Thread Group 1-11,,true,,595,122,32,32,http://www.wikipedia.org/,697,0,640
+1675792479677,417,wikipedia-1,200,OK,Thread Group 1-11,text,true,,76617,122,32,32,https://www.wikipedia.org/,219,0,163
+1675792478520,1575,wikipedia,200,OK,Thread Group 1-3,text,true,,77212,244,32,32,https://www.wikipedia.org/,1149,0,1098
+1675792478520,1149,wikipedia-0,301,TLS Redirect,Thread Group 1-3,,true,,595,122,32,32,http://www.wikipedia.org/,1149,0,1098
+1675792479670,425,wikipedia-1,200,OK,Thread Group 1-3,text,true,,76617,122,32,32,https://www.wikipedia.org/,235,0,170
+1675792479674,423,djmag,200,OK,Thread Group 1-21,text,true,,93141,232,32,32,https://djmag.com/,70,0,28
+1675792479674,70,djmag-0,301,Moved Permanently,Thread Group 1-21,,true,,650,118,32,32,http://www.djmag.com/,70,0,28
+1675792479745,352,djmag-1,200,OK,Thread Group 1-21,text,true,,92491,114,32,32,https://djmag.com/,226,0,109
+1675792478870,1229,wikipedia,200,OK,Thread Group 1-1,text,true,,77212,244,32,32,https://www.wikipedia.org/,806,0,749
+1675792478870,806,wikipedia-0,301,TLS Redirect,Thread Group 1-1,,true,,595,122,32,32,http://www.wikipedia.org/,806,0,749
+1675792479677,422,wikipedia-1,200,OK,Thread Group 1-1,text,true,,76617,122,32,32,https://www.wikipedia.org/,228,0,164
+1675792479807,294,djmag,200,OK,Thread Group 1-23,text,true,,93138,232,32,32,https://djmag.com/,63,0,34
+1675792479807,63,djmag-0,301,Moved Permanently,Thread Group 1-23,,true,,654,118,32,32,http://www.djmag.com/,63,0,34
+1675792479870,231,djmag-1,200,OK,Thread Group 1-23,text,true,,92484,114,32,32,https://djmag.com/,174,0,81
+1675792479539,564,pinterest,200,OK,Thread Group 1-25,text,true,,216448,244,32,32,https://www.pinterest.com/,48,0,22
+1675792479539,48,pinterest-0,301,Moved Permanently,Thread Group 1-25,,true,,211,122,32,32,http://www.pinterest.com/,48,0,22
+1675792479588,515,pinterest-1,200,OK,Thread Group 1-25,text,true,,216237,122,32,32,https://www.pinterest.com/,319,0,67
+1675792478537,1568,wikipedia,200,OK,Thread Group 1-7,text,true,,77212,244,32,32,https://www.wikipedia.org/,1147,0,1092
+1675792478537,1147,wikipedia-0,301,TLS Redirect,Thread Group 1-7,,true,,595,122,32,32,http://www.wikipedia.org/,1147,0,1092
+1675792479685,420,wikipedia-1,200,OK,Thread Group 1-7,text,true,,76617,122,32,32,https://www.wikipedia.org/,265,0,162
+1675792478668,1444,wikipedia,200,OK,Thread Group 1-2,text,true,,77212,244,32,32,https://www.wikipedia.org/,1010,0,961
+1675792478668,1010,wikipedia-0,301,TLS Redirect,Thread Group 1-2,,true,,595,122,32,32,http://www.wikipedia.org/,1010,0,961
+1675792479679,433,wikipedia-1,200,OK,Thread Group 1-2,text,true,,76617,122,32,32,https://www.wikipedia.org/,271,0,170
+1675792479647,466,wikipedia,200,OK,Thread Group 1-19,text,true,,77212,244,32,32,https://www.wikipedia.org/,97,0,43
+1675792479647,97,wikipedia-0,301,TLS Redirect,Thread Group 1-19,,true,,595,122,32,32,http://www.wikipedia.org/,97,0,43
+1675792479745,368,wikipedia-1,200,OK,Thread Group 1-19,text,true,,76617,122,32,32,https://www.wikipedia.org/,207,0,115
+1675792479645,527,pinterest,200,OK,Thread Group 1-26,text,true,,216017,244,33,33,https://www.pinterest.com/,45,0,20
+1675792479645,45,pinterest-0,301,Moved Permanently,Thread Group 1-26,,true,,211,122,33,33,http://www.pinterest.com/,45,0,20
+1675792479691,481,pinterest-1,200,OK,Thread Group 1-26,text,true,,215806,122,33,33,https://www.pinterest.com/,355,0,71
+1675792479861,336,djmag,200,OK,Thread Group 1-24,text,true,,93131,232,33,33,https://djmag.com/,66,0,20
+1675792479861,66,djmag-0,301,Moved Permanently,Thread Group 1-24,,true,,652,118,33,33,http://www.djmag.com/,66,0,20
+1675792479928,269,djmag-1,200,OK,Thread Group 1-24,text,true,,92479,114,33,33,https://djmag.com/,217,0,136
+1675792479944,299,imdb,403,Forbidden,Thread Group 1-31,text,false,,1258,234,33,33,https://www.imdb.com/,109,0,62
+1675792479944,109,imdb-0,301,Moved Permanently,Thread Group 1-31,text,true,,592,117,33,33,http://www.imdb.com/,109,0,62
+1675792480054,189,imdb-1,403,Forbidden,Thread Group 1-31,text,false,,666,117,33,33,https://www.imdb.com/,189,0,53
+1675792480044,218,imdb,403,Forbidden,Thread Group 1-32,text,false,,1258,234,34,34,https://www.imdb.com/,47,0,30
+1675792480044,48,imdb-0,301,Moved Permanently,Thread Group 1-32,text,true,,592,117,34,34,http://www.imdb.com/,47,0,30
+1675792480092,170,imdb-1,403,Forbidden,Thread Group 1-32,text,false,,666,117,34,34,https://www.imdb.com/,170,0,33
+1675792479854,417,wikipedia,200,OK,Thread Group 1-20,text,true,,77212,244,34,34,https://www.wikipedia.org/,111,0,38
+1675792479854,111,wikipedia-0,301,TLS Redirect,Thread Group 1-20,,true,,595,122,34,34,http://www.wikipedia.org/,111,0,38
+1675792479965,306,wikipedia-1,200,OK,Thread Group 1-20,text,true,,76617,122,34,34,https://www.wikipedia.org/,203,0,141
+1675792479763,555,pinterest,200,OK,Thread Group 1-27,text,true,,216443,244,34,34,https://www.pinterest.com/,50,0,20
+1675792479763,50,pinterest-0,301,Moved Permanently,Thread Group 1-27,,true,,210,122,34,34,http://www.pinterest.com/,50,0,20
+1675792479814,504,pinterest-1,200,OK,Thread Group 1-27,text,true,,216233,122,34,34,https://www.pinterest.com/,430,0,64
+1675792480104,223,djmag,200,OK,Thread Group 1-25,text,true,,93135,232,34,34,https://djmag.com/,59,0,24
+1675792480104,59,djmag-0,301,Moved Permanently,Thread Group 1-25,,true,,652,118,34,34,http://www.djmag.com/,59,0,24
+1675792480163,164,djmag-1,200,OK,Thread Group 1-25,text,true,,92483,114,34,34,https://djmag.com/,137,0,85
+1675792479986,345,wikipedia,200,OK,Thread Group 1-22,text,true,,77212,244,34,34,https://www.wikipedia.org/,110,0,70
+1675792479986,110,wikipedia-0,301,TLS Redirect,Thread Group 1-22,,true,,595,122,34,34,http://www.wikipedia.org/,110,0,70
+1675792480096,235,wikipedia-1,200,OK,Thread Group 1-22,text,true,,76617,122,34,34,https://www.wikipedia.org/,144,0,92
+1675792479862,513,pinterest,200,OK,Thread Group 1-28,text,true,,216788,244,35,35,https://www.pinterest.com/,71,0,28
+1675792479862,71,pinterest-0,301,Moved Permanently,Thread Group 1-28,,true,,210,122,35,35,http://www.pinterest.com/,71,0,28
+1675792479934,441,pinterest-1,200,OK,Thread Group 1-28,text,true,,216578,122,35,35,https://www.pinterest.com/,376,0,123
+1675792480146,239,imdb,403,Forbidden,Thread Group 1-33,text,false,,1258,234,35,35,https://www.imdb.com/,30,0,14
+1675792480146,30,imdb-0,301,Moved Permanently,Thread Group 1-33,text,true,,592,117,35,35,http://www.imdb.com/,30,0,14
+1675792480176,209,imdb-1,403,Forbidden,Thread Group 1-33,text,false,,666,117,35,35,https://www.imdb.com/,209,0,75
+1675792480173,240,djmag,200,OK,Thread Group 1-26,text,true,,93128,232,35,35,https://djmag.com/,88,0,23
+1675792480173,88,djmag-0,301,Moved Permanently,Thread Group 1-26,,true,,652,118,35,35,http://www.djmag.com/,88,0,23
+1675792480261,152,djmag-1,200,OK,Thread Group 1-26,text,true,,92476,114,35,35,https://djmag.com/,119,0,63
+1675792480097,339,wikipedia,200,OK,Thread Group 1-21,text,true,,77212,244,35,35,https://www.wikipedia.org/,79,0,37
+1675792480097,79,wikipedia-0,301,TLS Redirect,Thread Group 1-21,,true,,595,122,35,35,http://www.wikipedia.org/,79,0,37
+1675792480176,260,wikipedia-1,200,OK,Thread Group 1-21,text,true,,76617,122,35,35,https://www.wikipedia.org/,168,0,115
+1675792480102,336,wikipedia,200,OK,Thread Group 1-23,text,true,,77212,244,35,35,https://www.wikipedia.org/,78,0,40
+1675792480102,78,wikipedia-0,301,TLS Redirect,Thread Group 1-23,,true,,595,122,35,35,http://www.wikipedia.org/,78,0,40
+1675792480180,258,wikipedia-1,200,OK,Thread Group 1-23,text,true,,76617,122,35,35,https://www.wikipedia.org/,174,0,118
+1675792480246,203,imdb,403,Forbidden,Thread Group 1-34,text,false,,1258,234,36,36,https://www.imdb.com/,26,0,10
+1675792480246,27,imdb-0,301,Moved Permanently,Thread Group 1-34,text,true,,592,117,36,36,http://www.imdb.com/,26,0,10
+1675792480273,176,imdb-1,403,Forbidden,Thread Group 1-34,text,false,,666,117,36,36,https://www.imdb.com/,176,0,43
+1675792480073,415,pinterest,200,OK,Thread Group 1-30,text,true,,216047,244,36,36,https://www.pinterest.com/,41,0,21
+1675792480073,41,pinterest-0,301,Moved Permanently,Thread Group 1-30,,true,,210,122,36,36,http://www.pinterest.com/,41,0,21
+1675792480114,374,pinterest-1,200,OK,Thread Group 1-30,text,true,,215837,122,36,36,https://www.pinterest.com/,300,0,44
+1675792480318,213,djmag,200,OK,Thread Group 1-27,text,true,,93125,232,36,36,https://djmag.com/,53,0,21
+1675792480318,53,djmag-0,301,Moved Permanently,Thread Group 1-27,,true,,652,118,36,36,http://www.djmag.com/,53,0,21
+1675792480371,160,djmag-1,200,OK,Thread Group 1-27,text,true,,92473,114,36,36,https://djmag.com/,130,0,71
+1675792480345,212,imdb,403,Forbidden,Thread Group 1-35,text,false,,1258,234,37,37,https://www.imdb.com/,30,0,15
+1675792480345,30,imdb-0,301,Moved Permanently,Thread Group 1-35,text,true,,592,117,37,37,http://www.imdb.com/,30,0,15
+1675792480375,182,imdb-1,403,Forbidden,Thread Group 1-35,text,false,,666,117,37,37,https://www.imdb.com/,182,0,37
+1675792480197,361,wikipedia,200,OK,Thread Group 1-24,text,true,,77212,244,37,37,https://www.wikipedia.org/,118,0,72
+1675792480197,118,wikipedia-0,301,TLS Redirect,Thread Group 1-24,,true,,595,122,37,37,http://www.wikipedia.org/,118,0,72
+1675792480315,243,wikipedia-1,200,OK,Thread Group 1-24,text,true,,76617,122,37,37,https://www.wikipedia.org/,150,0,96
+1675792480083,478,pinterest,200,OK,Thread Group 1-29,text,true,,216838,244,37,37,https://www.pinterest.com/,47,0,25
+1675792480083,47,pinterest-0,301,Moved Permanently,Thread Group 1-29,,true,,211,122,37,37,http://www.pinterest.com/,47,0,25
+1675792480131,430,pinterest-1,200,OK,Thread Group 1-29,text,true,,216627,122,37,37,https://www.pinterest.com/,310,0,52
+1675792478259,2360,pinterest,200,OK,Thread Group 1-12,text,true,,216264,244,37,37,https://www.pinterest.com/,49,0,25
+1675792478259,49,pinterest-0,301,Moved Permanently,Thread Group 1-12,,true,,211,122,37,37,http://www.pinterest.com/,49,0,25
+1675792478308,2311,pinterest-1,200,OK,Thread Group 1-12,text,true,,216053,122,37,37,https://www.pinterest.com/,2238,0,50
+1675792480376,267,djmag,200,OK,Thread Group 1-28,text,true,,93140,232,37,37,https://djmag.com/,58,0,24
+1675792480376,58,djmag-0,301,Moved Permanently,Thread Group 1-28,,true,,656,118,37,37,http://www.djmag.com/,58,0,24
+1675792480435,208,djmag-1,200,OK,Thread Group 1-28,text,true,,92484,114,37,37,https://djmag.com/,153,0,74
+1675792480444,207,imdb,403,Forbidden,Thread Group 1-36,text,false,,1258,234,38,38,https://www.imdb.com/,28,0,15
+1675792480444,28,imdb-0,301,Moved Permanently,Thread Group 1-36,text,true,,592,117,38,38,http://www.imdb.com/,28,0,15
+1675792480473,178,imdb-1,403,Forbidden,Thread Group 1-36,text,false,,666,117,38,38,https://www.imdb.com/,178,0,46
+1675792480327,338,wikipedia,200,OK,Thread Group 1-25,text,true,,77212,244,38,38,https://www.wikipedia.org/,80,0,39
+1675792480327,80,wikipedia-0,301,TLS Redirect,Thread Group 1-25,,true,,595,122,38,38,http://www.wikipedia.org/,80,0,39
+1675792480408,257,wikipedia-1,200,OK,Thread Group 1-25,text,true,,76617,122,38,38,https://www.wikipedia.org/,155,0,103
+1675792480243,426,pinterest,200,OK,Thread Group 1-31,text,true,,216073,244,38,38,https://www.pinterest.com/,39,0,18
+1675792480243,39,pinterest-0,301,Moved Permanently,Thread Group 1-31,,true,,211,122,38,38,http://www.pinterest.com/,39,0,18
+1675792480282,387,pinterest-1,200,OK,Thread Group 1-31,text,true,,215862,122,38,38,https://www.pinterest.com/,289,0,56
+1675792480414,331,wikipedia,200,OK,Thread Group 1-26,text,true,,77212,244,38,38,https://www.wikipedia.org/,82,0,36
+1675792480414,82,wikipedia-0,301,TLS Redirect,Thread Group 1-26,,true,,595,122,38,38,http://www.wikipedia.org/,82,0,36
+1675792480496,249,wikipedia-1,200,OK,Thread Group 1-26,text,true,,76617,122,38,38,https://www.wikipedia.org/,149,0,98
+1675792480545,219,imdb,403,Forbidden,Thread Group 1-37,text,false,,1258,234,39,39,https://www.imdb.com/,36,0,21
+1675792480545,36,imdb-0,301,Moved Permanently,Thread Group 1-37,text,true,,592,117,39,39,http://www.imdb.com/,36,0,21
+1675792480581,183,imdb-1,403,Forbidden,Thread Group 1-37,text,false,,666,117,39,39,https://www.imdb.com/,183,0,48
+1675792480489,278,djmag,200,OK,Thread Group 1-30,text,true,,93131,232,39,39,https://djmag.com/,68,0,25
+1675792480489,68,djmag-0,301,Moved Permanently,Thread Group 1-30,,true,,656,118,39,39,http://www.djmag.com/,68,0,25
+1675792480557,210,djmag-1,200,OK,Thread Group 1-30,text,true,,92475,114,39,39,https://djmag.com/,158,0,70
+1675792480561,223,djmag,200,OK,Thread Group 1-29,text,true,,93139,232,39,39,https://djmag.com/,59,0,20
+1675792480561,59,djmag-0,301,Moved Permanently,Thread Group 1-29,,true,,658,118,39,39,http://www.djmag.com/,59,0,20
+1675792480620,164,djmag-1,200,OK,Thread Group 1-29,text,true,,92481,114,39,39,https://djmag.com/,121,0,58
+1675792480386,459,pinterest,200,OK,Thread Group 1-33,text,true,,215273,244,40,40,https://www.pinterest.com/,48,0,22
+1675792480386,48,pinterest-0,301,Moved Permanently,Thread Group 1-33,,true,,210,122,40,40,http://www.pinterest.com/,48,0,22
+1675792480435,410,pinterest-1,200,OK,Thread Group 1-33,text,true,,215063,122,40,40,https://www.pinterest.com/,326,0,50
+1675792480262,583,pinterest,200,OK,Thread Group 1-32,text,true,,216734,244,40,40,https://www.pinterest.com/,51,0,24
+1675792480262,51,pinterest-0,301,Moved Permanently,Thread Group 1-32,,true,,211,122,40,40,http://www.pinterest.com/,51,0,24
+1675792480314,531,pinterest-1,200,OK,Thread Group 1-32,text,true,,216523,122,40,40,https://www.pinterest.com/,428,0,53
+1675792480450,423,pinterest,200,OK,Thread Group 1-34,text,true,,221916,244,40,40,https://www.pinterest.com/,46,0,24
+1675792480450,46,pinterest-0,301,Moved Permanently,Thread Group 1-34,,true,,211,122,40,40,http://www.pinterest.com/,46,0,24
+1675792480496,377,pinterest-1,200,OK,Thread Group 1-34,text,true,,221705,122,40,40,https://www.pinterest.com/,299,0,63
+1675792480532,379,wikipedia,200,OK,Thread Group 1-27,text,true,,77212,244,40,40,https://www.wikipedia.org/,84,0,41
+1675792480532,84,wikipedia-0,301,TLS Redirect,Thread Group 1-27,,true,,595,122,40,40,http://www.wikipedia.org/,84,0,41
+1675792480616,295,wikipedia-1,200,OK,Thread Group 1-27,text,true,,76617,122,40,40,https://www.wikipedia.org/,214,0,135
+1675792480646,270,imdb,403,Forbidden,Thread Group 1-38,text,false,,1258,234,40,40,https://www.imdb.com/,28,0,15
+1675792480646,28,imdb-0,301,Moved Permanently,Thread Group 1-38,text,true,,592,117,40,40,http://www.imdb.com/,28,0,15
+1675792480675,241,imdb-1,403,Forbidden,Thread Group 1-38,text,false,,666,117,40,40,https://www.imdb.com/,241,0,103
+1675792480619,327,djmag,200,OK,Thread Group 1-12,text,true,,93135,232,41,41,https://djmag.com/,95,0,26
+1675792480619,95,djmag-0,301,Moved Permanently,Thread Group 1-12,,true,,658,118,41,41,http://www.djmag.com/,95,0,26
+1675792480715,231,djmag-1,200,OK,Thread Group 1-12,text,true,,92477,114,41,41,https://djmag.com/,181,0,91
+1675792480745,221,imdb,403,Forbidden,Thread Group 1-39,text,false,,1258,234,41,41,https://www.imdb.com/,43,0,24
+1675792480745,43,imdb-0,301,Moved Permanently,Thread Group 1-39,text,true,,592,117,41,41,http://www.imdb.com/,43,0,24
+1675792480789,177,imdb-1,403,Forbidden,Thread Group 1-39,text,false,,666,117,41,41,https://www.imdb.com/,177,0,42
+1675792480558,427,pinterest,200,OK,Thread Group 1-35,text,true,,216304,244,41,41,https://www.pinterest.com/,51,0,22
+1675792480558,51,pinterest-0,301,Moved Permanently,Thread Group 1-35,,true,,209,122,41,41,http://www.pinterest.com/,51,0,22
+1675792480609,376,pinterest-1,200,OK,Thread Group 1-35,text,true,,216095,122,41,41,https://www.pinterest.com/,277,0,52
+1675792480643,395,wikipedia,200,OK,Thread Group 1-28,text,true,,77212,244,41,41,https://www.wikipedia.org/,153,0,97
+1675792480643,153,wikipedia-0,301,TLS Redirect,Thread Group 1-28,,true,,595,122,41,41,http://www.wikipedia.org/,153,0,97
+1675792480796,242,wikipedia-1,200,OK,Thread Group 1-28,text,true,,76617,122,41,41,https://www.wikipedia.org/,167,0,114
+1675792480670,376,djmag,200,OK,Thread Group 1-31,text,true,,93142,232,42,42,https://djmag.com/,123,0,70
+1675792480670,123,djmag-0,301,Moved Permanently,Thread Group 1-31,,true,,652,118,42,42,http://www.djmag.com/,123,0,70
+1675792480793,253,djmag-1,200,OK,Thread Group 1-31,text,true,,92490,114,42,42,https://djmag.com/,206,0,61
+1675792480844,208,imdb,403,Forbidden,Thread Group 1-40,text,false,,1258,234,42,42,https://www.imdb.com/,35,0,19
+1675792480844,35,imdb-0,301,Moved Permanently,Thread Group 1-40,text,true,,592,117,42,42,http://www.imdb.com/,35,0,19
+1675792480879,173,imdb-1,403,Forbidden,Thread Group 1-40,text,false,,666,117,42,42,https://www.imdb.com/,172,0,35
+1675792480845,242,djmag,200,OK,Thread Group 1-33,text,true,,93140,232,42,42,https://djmag.com/,56,0,24
+1675792480845,56,djmag-0,301,Moved Permanently,Thread Group 1-33,,true,,660,118,42,42,http://www.djmag.com/,56,0,24
+1675792480901,186,djmag-1,200,OK,Thread Group 1-33,text,true,,92480,114,42,42,https://djmag.com/,150,0,55
+1675792480767,323,wikipedia,200,OK,Thread Group 1-30,text,true,,77212,244,42,42,https://www.wikipedia.org/,84,0,43
+1675792480767,84,wikipedia-0,301,TLS Redirect,Thread Group 1-30,,true,,595,122,42,42,http://www.wikipedia.org/,84,0,43
+1675792480851,239,wikipedia-1,200,OK,Thread Group 1-30,text,true,,76617,122,42,42,https://www.wikipedia.org/,144,0,93
+1675792480784,308,wikipedia,200,OK,Thread Group 1-29,text,true,,77212,244,42,42,https://www.wikipedia.org/,88,0,47
+1675792480784,88,wikipedia-0,301,TLS Redirect,Thread Group 1-29,,true,,595,122,42,42,http://www.wikipedia.org/,88,0,47
+1675792480872,220,wikipedia-1,200,OK,Thread Group 1-29,text,true,,76617,122,42,42,https://www.wikipedia.org/,140,0,92
+1675792480874,268,djmag,200,OK,Thread Group 1-34,text,true,,93131,232,42,42,https://djmag.com/,45,0,17
+1675792480874,45,djmag-0,301,Moved Permanently,Thread Group 1-34,,true,,650,118,42,42,http://www.djmag.com/,45,0,17
+1675792480920,222,djmag-1,200,OK,Thread Group 1-34,text,true,,92481,114,42,42,https://djmag.com/,167,0,64
+1675792480652,496,pinterest,200,OK,Thread Group 1-36,text,true,,216886,244,43,43,https://www.pinterest.com/,62,0,18
+1675792480652,62,pinterest-0,301,Moved Permanently,Thread Group 1-36,,true,,211,122,43,43,http://www.pinterest.com/,62,0,18
+1675792480715,433,pinterest-1,200,OK,Thread Group 1-36,text,true,,216675,122,43,43,https://www.pinterest.com/,339,0,82
+1675792480944,212,imdb,403,Forbidden,Thread Group 1-41,text,false,,1258,234,43,43,https://www.imdb.com/,29,0,13
+1675792480944,29,imdb-0,301,Moved Permanently,Thread Group 1-41,text,true,,592,117,43,43,http://www.imdb.com/,29,0,13
+1675792480973,183,imdb-1,403,Forbidden,Thread Group 1-41,text,false,,666,117,43,43,https://www.imdb.com/,183,0,39
+1675792480846,328,djmag,200,OK,Thread Group 1-32,text,true,,93145,232,43,43,https://djmag.com/,59,0,26
+1675792480846,59,djmag-0,301,Moved Permanently,Thread Group 1-32,,true,,658,118,43,43,http://www.djmag.com/,59,0,26
+1675792480905,269,djmag-1,200,OK,Thread Group 1-32,text,true,,92487,114,43,43,https://djmag.com/,154,0,59
+1675792480765,463,pinterest,200,OK,Thread Group 1-37,text,true,,216358,244,43,43,https://www.pinterest.com/,46,0,23
+1675792480765,46,pinterest-0,301,Moved Permanently,Thread Group 1-37,,true,,211,122,43,43,http://www.pinterest.com/,46,0,23
+1675792480812,416,pinterest-1,200,OK,Thread Group 1-37,text,true,,216147,122,43,43,https://www.pinterest.com/,284,0,61
+1675792481045,228,imdb,403,Forbidden,Thread Group 1-42,text,false,,1258,234,44,44,https://www.imdb.com/,24,0,14
+1675792481045,24,imdb-0,301,Moved Permanently,Thread Group 1-42,text,true,,592,117,44,44,http://www.imdb.com/,24,0,14
+1675792481070,203,imdb-1,403,Forbidden,Thread Group 1-42,text,false,,666,117,44,44,https://www.imdb.com/,203,0,41
+1675792480986,291,djmag,200,OK,Thread Group 1-35,text,true,,93126,232,44,44,https://djmag.com/,53,0,17
+1675792480986,53,djmag-0,301,Moved Permanently,Thread Group 1-35,,true,,650,118,44,44,http://www.djmag.com/,53,0,17
+1675792481040,237,djmag-1,200,OK,Thread Group 1-35,text,true,,92476,114,44,44,https://djmag.com/,156,0,60
+1675792480947,384,wikipedia,200,OK,Thread Group 1-12,text,true,,77212,244,44,44,https://www.wikipedia.org/,76,0,36
+1675792480947,76,wikipedia-0,301,TLS Redirect,Thread Group 1-12,,true,,595,122,44,44,http://www.wikipedia.org/,76,0,36
+1675792481023,308,wikipedia-1,200,OK,Thread Group 1-12,text,true,,76617,122,44,44,https://www.wikipedia.org/,172,0,96
+1675792480916,440,pinterest,200,OK,Thread Group 1-38,text,true,,217155,244,45,45,https://www.pinterest.com/,43,0,19
+1675792480916,43,pinterest-0,301,Moved Permanently,Thread Group 1-38,,true,,211,122,45,45,http://www.pinterest.com/,43,0,19
+1675792480959,397,pinterest-1,200,OK,Thread Group 1-38,text,true,,216944,122,45,45,https://www.pinterest.com/,295,0,50
+1675792480967,403,pinterest,200,OK,Thread Group 1-39,text,true,,216026,244,45,45,https://www.pinterest.com/,40,0,17
+1675792480967,40,pinterest-0,301,Moved Permanently,Thread Group 1-39,,true,,211,122,45,45,http://www.pinterest.com/,40,0,17
+1675792481008,362,pinterest-1,200,OK,Thread Group 1-39,text,true,,215815,122,45,45,https://www.pinterest.com/,314,0,56
+1675792481046,387,wikipedia,200,OK,Thread Group 1-31,text,true,,77212,244,45,45,https://www.wikipedia.org/,95,0,40
+1675792481046,95,wikipedia-0,301,TLS Redirect,Thread Group 1-31,,true,,595,122,45,45,http://www.wikipedia.org/,95,0,40
+1675792481142,291,wikipedia-1,200,OK,Thread Group 1-31,text,true,,76617,122,45,45,https://www.wikipedia.org/,209,0,148
+1675792481144,324,imdb,403,Forbidden,Thread Group 1-43,text,false,,1258,234,46,46,https://www.imdb.com/,79,0,49
+1675792481144,79,imdb-0,301,Moved Permanently,Thread Group 1-43,text,true,,592,117,46,46,http://www.imdb.com/,79,0,49
+1675792481224,244,imdb-1,403,Forbidden,Thread Group 1-43,text,false,,666,117,46,46,https://www.imdb.com/,243,0,107
+1675792481149,327,djmag,200,OK,Thread Group 1-36,text,true,,93129,232,46,46,https://djmag.com/,82,0,44
+1675792481149,82,djmag-0,301,Moved Permanently,Thread Group 1-36,,true,,648,118,46,46,http://www.djmag.com/,82,0,44
+1675792481231,245,djmag-1,200,OK,Thread Group 1-36,text,true,,92481,114,46,46,https://djmag.com/,214,0,121
+1675792481088,394,wikipedia,200,OK,Thread Group 1-33,text,true,,77212,244,46,46,https://www.wikipedia.org/,104,0,53
+1675792481088,104,wikipedia-0,301,TLS Redirect,Thread Group 1-33,,true,,595,122,46,46,http://www.wikipedia.org/,104,0,53
+1675792481194,288,wikipedia-1,200,OK,Thread Group 1-33,text,true,,76617,122,46,46,https://www.wikipedia.org/,206,0,146
+1675792481246,265,imdb,403,Forbidden,Thread Group 1-44,text,false,,1258,234,46,46,https://www.imdb.com/,85,0,58
+1675792481246,85,imdb-0,301,Moved Permanently,Thread Group 1-44,text,true,,592,117,46,46,http://www.imdb.com/,85,0,58
+1675792481332,179,imdb-1,403,Forbidden,Thread Group 1-44,text,false,,666,117,46,46,https://www.imdb.com/,179,0,42
+1675792481143,401,wikipedia,200,OK,Thread Group 1-34,text,true,,77212,244,46,46,https://www.wikipedia.org/,130,0,65
+1675792481143,130,wikipedia-0,301,TLS Redirect,Thread Group 1-34,,true,,595,122,46,46,http://www.wikipedia.org/,130,0,65
+1675792481273,271,wikipedia-1,200,OK,Thread Group 1-34,text,true,,76617,122,46,46,https://www.wikipedia.org/,176,0,124
+1675792481174,370,wikipedia,200,OK,Thread Group 1-32,text,true,,77212,244,46,46,https://www.wikipedia.org/,129,0,54
+1675792481174,129,wikipedia-0,301,TLS Redirect,Thread Group 1-32,,true,,595,122,46,46,http://www.wikipedia.org/,129,0,54
+1675792481303,241,wikipedia-1,200,OK,Thread Group 1-32,text,true,,76617,122,46,46,https://www.wikipedia.org/,152,0,99
+1675792481053,493,pinterest,200,OK,Thread Group 1-40,text,true,,215746,244,47,47,https://www.pinterest.com/,55,0,33
+1675792481053,55,pinterest-0,301,Moved Permanently,Thread Group 1-40,,true,,211,122,47,47,http://www.pinterest.com/,55,0,33
+1675792481108,438,pinterest-1,200,OK,Thread Group 1-40,text,true,,215535,122,47,47,https://www.pinterest.com/,358,0,107
+1675792481229,323,djmag,200,OK,Thread Group 1-37,text,true,,93143,232,47,47,https://djmag.com/,111,0,72
+1675792481229,111,djmag-0,301,Moved Permanently,Thread Group 1-37,,true,,654,118,47,47,http://www.djmag.com/,111,0,72
+1675792481341,211,djmag-1,200,OK,Thread Group 1-37,text,true,,92489,114,47,47,https://djmag.com/,155,0,66
+1675792481346,208,imdb,403,Forbidden,Thread Group 1-45,text,false,,1258,234,47,47,https://www.imdb.com/,27,0,11
+1675792481346,27,imdb-0,301,Moved Permanently,Thread Group 1-45,text,true,,592,117,47,47,http://www.imdb.com/,27,0,11
+1675792481374,180,imdb-1,403,Forbidden,Thread Group 1-45,text,false,,666,117,47,47,https://www.imdb.com/,180,0,41
+1675792481357,229,djmag,200,OK,Thread Group 1-38,text,true,,93140,232,47,47,https://djmag.com/,63,0,26
+1675792481357,63,djmag-0,301,Moved Permanently,Thread Group 1-38,,true,,650,118,47,47,http://www.djmag.com/,63,0,26
+1675792481420,166,djmag-1,200,OK,Thread Group 1-38,text,true,,92490,114,47,47,https://djmag.com/,125,0,63
+1675792481370,235,djmag,200,OK,Thread Group 1-39,text,true,,93150,232,47,47,https://djmag.com/,59,0,23
+1675792481370,59,djmag-0,301,Moved Permanently,Thread Group 1-39,,true,,662,118,47,47,http://www.djmag.com/,59,0,23
+1675792481430,175,djmag-1,200,OK,Thread Group 1-39,text,true,,92488,114,47,47,https://djmag.com/,134,0,74
+1675792481277,338,wikipedia,200,OK,Thread Group 1-35,text,true,,77212,244,47,47,https://www.wikipedia.org/,98,0,55
+1675792481277,98,wikipedia-0,301,TLS Redirect,Thread Group 1-35,,true,,595,122,47,47,http://www.wikipedia.org/,98,0,55
+1675792481376,239,wikipedia-1,200,OK,Thread Group 1-35,text,true,,76617,122,47,47,https://www.wikipedia.org/,152,0,99
+1675792481445,227,imdb,403,Forbidden,Thread Group 1-46,text,false,,1258,234,48,48,https://www.imdb.com/,30,0,13
+1675792481445,30,imdb-0,301,Moved Permanently,Thread Group 1-46,text,true,,592,117,48,48,http://www.imdb.com/,30,0,13
+1675792481476,196,imdb-1,403,Forbidden,Thread Group 1-46,text,false,,666,117,48,48,https://www.imdb.com/,196,0,41
+1675792481157,529,pinterest,200,OK,Thread Group 1-41,text,true,,216210,244,48,48,https://www.pinterest.com/,116,0,66
+1675792481157,116,pinterest-0,301,Moved Permanently,Thread Group 1-41,,true,,211,122,48,48,http://www.pinterest.com/,116,0,66
+1675792481274,412,pinterest-1,200,OK,Thread Group 1-41,text,true,,215999,122,48,48,https://www.pinterest.com/,327,0,76
+1675792480911,827,topgear,200,OK,Thread Group 1-27,text,true,,388755,240,48,48,https://www.topgear.com/,274,0,230
+1675792480911,274,topgear-0,301,Moved Permanently,Thread Group 1-27,,true,,319,120,48,48,http://www.topgear.com/,274,0,230
+1675792481185,553,topgear-1,200,OK,Thread Group 1-27,text,true,,388436,120,48,48,https://www.topgear.com/,415,0,103
+1675792481545,213,imdb,403,Forbidden,Thread Group 1-47,text,false,,1258,234,48,48,https://www.imdb.com/,37,0,22
+1675792481545,37,imdb-0,301,Moved Permanently,Thread Group 1-47,text,true,,592,117,48,48,http://www.imdb.com/,37,0,22
+1675792481583,175,imdb-1,403,Forbidden,Thread Group 1-47,text,false,,666,117,48,48,https://www.imdb.com/,175,0,39
+1675792481273,485,pinterest,200,OK,Thread Group 1-42,text,true,,216287,244,48,48,https://www.pinterest.com/,68,0,40
+1675792481273,68,pinterest-0,301,Moved Permanently,Thread Group 1-42,,true,,211,122,48,48,http://www.pinterest.com/,68,0,40
+1675792481342,416,pinterest-1,200,OK,Thread Group 1-42,text,true,,216076,122,48,48,https://www.pinterest.com/,307,0,52
+1675792480665,1180,topgear,200,OK,Thread Group 1-25,text,true,,388755,240,48,48,https://www.topgear.com/,527,0,477
+1675792480665,527,topgear-0,301,Moved Permanently,Thread Group 1-25,,true,,319,120,48,48,http://www.topgear.com/,527,0,477
+1675792481193,652,topgear-1,200,OK,Thread Group 1-25,text,true,,388436,120,48,48,https://www.topgear.com/,480,0,108
+1675792481547,315,djmag,200,OK,Thread Group 1-40,text,true,,93143,232,48,48,https://djmag.com/,65,0,30
+1675792481547,65,djmag-0,301,Moved Permanently,Thread Group 1-40,,true,,658,118,48,48,http://www.djmag.com/,65,0,30
+1675792481612,250,djmag-1,200,OK,Thread Group 1-40,text,true,,92485,114,48,48,https://djmag.com/,164,0,80
+1675792481477,390,wikipedia,200,OK,Thread Group 1-36,text,true,,77212,244,48,48,https://www.wikipedia.org/,86,0,44
+1675792481477,86,wikipedia-0,301,TLS Redirect,Thread Group 1-36,,true,,595,122,48,48,http://www.wikipedia.org/,86,0,44
+1675792481563,304,wikipedia-1,200,OK,Thread Group 1-36,text,true,,76617,122,48,48,https://www.wikipedia.org/,187,0,121
+1675792480114,1754,topgear,200,OK,Thread Group 1-19,text,true,,388755,240,48,48,https://www.topgear.com/,1079,0,1028
+1675792480114,1079,topgear-0,301,Moved Permanently,Thread Group 1-19,,true,,319,120,48,48,http://www.topgear.com/,1079,0,1028
+1675792481194,674,topgear-1,200,OK,Thread Group 1-19,text,true,,388436,120,48,48,https://www.topgear.com/,508,0,109
+1675792481645,259,imdb,403,Forbidden,Thread Group 1-48,text,false,,1258,234,47,47,https://www.imdb.com/,54,0,29
+1675792481645,54,imdb-0,301,Moved Permanently,Thread Group 1-48,text,true,,592,117,47,47,http://www.imdb.com/,54,0,29
+1675792481699,205,imdb-1,403,Forbidden,Thread Group 1-48,text,false,,666,117,47,47,https://www.imdb.com/,205,0,65
+1675792479936,1992,topgear,200,OK,Thread Group 1-14,text,true,,388755,240,47,47,https://www.topgear.com/,1249,0,1205
+1675792479936,1249,topgear-0,301,Moved Permanently,Thread Group 1-14,,true,,319,120,47,47,http://www.topgear.com/,1249,0,1205
+1675792481185,743,topgear-1,200,OK,Thread Group 1-14,text,true,,388436,120,47,47,https://www.topgear.com/,545,0,109
+1675792481553,388,wikipedia,200,OK,Thread Group 1-37,text,true,,77212,244,46,46,https://www.wikipedia.org/,84,0,45
+1675792481553,84,wikipedia-0,301,TLS Redirect,Thread Group 1-37,,true,,595,122,46,46,http://www.wikipedia.org/,84,0,45
+1675792481637,304,wikipedia-1,200,OK,Thread Group 1-37,text,true,,76617,122,46,46,https://www.wikipedia.org/,205,0,120
+1675792481605,404,wikipedia,200,OK,Thread Group 1-39,text,true,,77212,244,47,47,https://www.wikipedia.org/,86,0,40
+1675792481586,423,wikipedia,200,OK,Thread Group 1-38,text,true,,77212,244,47,47,https://www.wikipedia.org/,103,0,47
+1675792481605,86,wikipedia-0,301,TLS Redirect,Thread Group 1-39,,true,,595,122,47,47,http://www.wikipedia.org/,86,0,40
+1675792481586,103,wikipedia-0,301,TLS Redirect,Thread Group 1-38,,true,,595,122,47,47,http://www.wikipedia.org/,103,0,47
+1675792481691,318,wikipedia-1,200,OK,Thread Group 1-39,text,true,,76617,122,47,47,https://www.wikipedia.org/,198,0,129
+1675792481689,320,wikipedia-1,200,OK,Thread Group 1-38,text,true,,76617,122,47,47,https://www.wikipedia.org/,203,0,132
+1675792481468,556,pinterest,200,OK,Thread Group 1-43,text,true,,215919,244,47,47,https://www.pinterest.com/,44,0,22
+1675792481468,44,pinterest-0,301,Moved Permanently,Thread Group 1-43,,true,,211,122,47,47,http://www.pinterest.com/,44,0,22
+1675792481512,512,pinterest-1,200,OK,Thread Group 1-43,text,true,,215708,122,47,47,https://www.pinterest.com/,374,0,62
+1675792481746,301,imdb,403,Forbidden,Thread Group 1-49,text,false,,1258,234,48,48,https://www.imdb.com/,49,0,20
+1675792481746,49,imdb-0,301,Moved Permanently,Thread Group 1-49,text,true,,592,117,48,48,http://www.imdb.com/,49,0,20
+1675792481796,251,imdb-1,403,Forbidden,Thread Group 1-49,text,false,,666,117,48,48,https://www.imdb.com/,251,0,78
+1675792480559,1528,topgear,200,OK,Thread Group 1-24,text,true,,388762,240,48,48,https://www.topgear.com/,633,0,582
+1675792480559,633,topgear-0,301,Moved Permanently,Thread Group 1-24,,true,,319,120,48,48,http://www.topgear.com/,633,0,582
+1675792481193,894,topgear-1,200,OK,Thread Group 1-24,text,true,,388443,120,48,48,https://www.topgear.com/,644,0,109
+1675792481687,401,djmag,200,OK,Thread Group 1-41,text,true,,93130,232,47,47,https://djmag.com/,72,0,26
+1675792481687,72,djmag-0,301,Moved Permanently,Thread Group 1-41,,true,,654,118,47,47,http://www.djmag.com/,72,0,26
+1675792481759,329,djmag-1,200,OK,Thread Group 1-41,text,true,,92476,114,47,47,https://djmag.com/,185,0,93
+1675792481846,278,imdb,403,Forbidden,Thread Group 1-50,text,false,,1258,234,47,47,https://www.imdb.com/,54,0,31
+1675792481846,54,imdb-0,301,Moved Permanently,Thread Group 1-50,text,true,,592,117,47,47,http://www.imdb.com/,54,0,31
+1675792481901,223,imdb-1,403,Forbidden,Thread Group 1-50,text,false,,666,117,47,47,https://www.imdb.com/,223,0,66
+1675792481759,379,djmag,200,OK,Thread Group 1-42,text,true,,93151,232,47,47,https://djmag.com/,92,0,30
+1675792481759,92,djmag-0,301,Moved Permanently,Thread Group 1-42,,true,,656,118,47,47,http://www.djmag.com/,92,0,30
+1675792481851,287,djmag-1,200,OK,Thread Group 1-42,text,true,,92495,114,47,47,https://djmag.com/,201,0,85
+1675792480331,1813,topgear,200,OK,Thread Group 1-22,text,true,,388755,240,48,48,https://www.topgear.com/,862,0,811
+1675792480331,862,topgear-0,301,Moved Permanently,Thread Group 1-22,,true,,319,120,48,48,http://www.topgear.com/,862,0,811
+1675792481194,950,topgear-1,200,OK,Thread Group 1-22,text,true,,388436,120,48,48,https://www.topgear.com/,681,0,114
+1675792481945,352,imdb,403,Forbidden,Thread Group 1-51,text,false,,1258,234,48,48,https://www.imdb.com/,92,0,42
+1675792481945,92,imdb-0,301,Moved Permanently,Thread Group 1-51,text,true,,592,117,48,48,http://www.imdb.com/,92,0,42
+1675792482037,260,imdb-1,403,Forbidden,Thread Group 1-51,text,false,,666,117,48,48,https://www.imdb.com/,259,0,91
+1675792481863,529,wikipedia,200,OK,Thread Group 1-40,text,true,,77212,244,49,49,https://www.wikipedia.org/,102,0,46
+1675792481863,102,wikipedia-0,301,TLS Redirect,Thread Group 1-40,,true,,595,122,49,49,http://www.wikipedia.org/,102,0,46
+1675792481965,427,wikipedia-1,200,OK,Thread Group 1-40,text,true,,76617,122,49,49,https://www.wikipedia.org/,259,0,161
+1675792482044,368,imdb,403,Forbidden,Thread Group 1-52,text,false,,1258,234,49,49,https://www.imdb.com/,90,0,45
+1675792482044,90,imdb-0,301,Moved Permanently,Thread Group 1-52,text,true,,592,117,49,49,http://www.imdb.com/,90,0,45
+1675792482134,278,imdb-1,403,Forbidden,Thread Group 1-52,text,false,,666,117,49,49,https://www.imdb.com/,278,0,110
+1675792480095,2320,topgear,200,OK,Thread Group 1-11,text,true,,388755,240,49,49,https://www.topgear.com/,1101,0,1047
+1675792480095,1101,topgear-0,301,Moved Permanently,Thread Group 1-11,,true,,319,120,49,49,http://www.topgear.com/,1101,0,1047
+1675792481196,1219,topgear-1,200,OK,Thread Group 1-11,text,true,,388436,120,49,49,https://www.topgear.com/,792,0,122
+1675792480112,2327,topgear,200,OK,Thread Group 1-2,text,true,,388755,240,48,48,https://www.topgear.com/,1080,0,1030
+1675792480112,1080,topgear-0,301,Moved Permanently,Thread Group 1-2,,true,,319,120,48,48,http://www.topgear.com/,1080,0,1030
+1675792481193,1246,topgear-1,200,OK,Thread Group 1-2,text,true,,388436,120,48,48,https://www.topgear.com/,791,0,106
+1675792481673,784,pinterest,200,OK,Thread Group 1-46,text,true,,215841,244,48,48,https://www.pinterest.com/,63,0,26
+1675792481673,63,pinterest-0,301,Moved Permanently,Thread Group 1-46,,true,,211,122,48,48,http://www.pinterest.com/,63,0,26
+1675792481737,720,pinterest-1,200,OK,Thread Group 1-46,text,true,,215630,122,48,48,https://www.pinterest.com/,373,0,66
+1675792482025,492,djmag,200,OK,Thread Group 1-43,text,true,,93139,232,48,48,https://djmag.com/,114,0,52
+1675792482025,114,djmag-0,301,Moved Permanently,Thread Group 1-43,,true,,652,118,48,48,http://www.djmag.com/,114,0,52
+1675792482140,377,djmag-1,200,OK,Thread Group 1-43,text,true,,92487,114,48,48,https://djmag.com/,238,0,124
+1675792480439,2105,topgear,200,OK,Thread Group 1-23,text,true,,388762,240,48,48,https://www.topgear.com/,753,0,703
+1675792480439,753,topgear-0,301,Moved Permanently,Thread Group 1-23,,true,,319,120,48,48,http://www.topgear.com/,753,0,703
+1675792481193,1351,topgear-1,200,OK,Thread Group 1-23,text,true,,388443,120,48,48,https://www.topgear.com/,853,0,99
+1675792481555,1008,pinterest,200,OK,Thread Group 1-45,text,true,,216982,244,48,48,https://www.pinterest.com/,45,0,22
+1675792481555,45,pinterest-0,301,Moved Permanently,Thread Group 1-45,,true,,211,122,48,48,http://www.pinterest.com/,45,0,22
+1675792481600,963,pinterest-1,200,OK,Thread Group 1-45,text,true,,216771,122,48,48,https://www.pinterest.com/,362,0,59
+1675792481512,1076,pinterest,200,OK,Thread Group 1-44,text,true,,216922,244,48,48,https://www.pinterest.com/,48,0,25
+1675792481512,48,pinterest-0,301,Moved Permanently,Thread Group 1-44,,true,,211,122,48,48,http://www.pinterest.com/,48,0,25
+1675792481560,1028,pinterest-1,200,OK,Thread Group 1-44,text,true,,216711,122,48,48,https://www.pinterest.com/,398,0,55
+1675792482245,390,imdb,403,Forbidden,Thread Group 1-54,text,false,,1258,234,48,48,https://www.imdb.com/,103,0,48
+1675792482245,103,imdb-0,301,Moved Permanently,Thread Group 1-54,text,true,,592,117,48,48,http://www.imdb.com/,103,0,48
+1675792482348,287,imdb-1,403,Forbidden,Thread Group 1-54,text,false,,666,117,48,48,https://www.imdb.com/,286,0,118
+1675792480099,2615,topgear,200,OK,Thread Group 1-1,text,true,,388820,240,49,49,https://www.topgear.com/,1097,0,1058
+1675792480099,1097,topgear-0,301,Moved Permanently,Thread Group 1-1,,true,,319,120,49,49,http://www.topgear.com/,1097,0,1058
+1675792481196,1518,topgear-1,200,OK,Thread Group 1-1,text,true,,388501,120,49,49,https://www.topgear.com/,836,0,117
+1675792480745,2005,topgear,200,OK,Thread Group 1-26,text,true,,388762,240,49,49,https://www.topgear.com/,447,0,397
+1675792480745,447,topgear-0,301,Moved Permanently,Thread Group 1-26,,true,,319,120,49,49,http://www.topgear.com/,447,0,397
+1675792481194,1556,topgear-1,200,OK,Thread Group 1-26,text,true,,388443,120,49,49,https://www.topgear.com/,986,0,106
+1675792481905,851,pinterest,200,OK,Thread Group 1-48,text,true,,216532,244,48,48,https://www.pinterest.com/,77,0,29
+1675792481905,77,pinterest-0,301,Moved Permanently,Thread Group 1-48,,true,,211,122,48,48,http://www.pinterest.com/,77,0,29
+1675792481983,773,pinterest-1,200,OK,Thread Group 1-48,text,true,,216321,122,48,48,https://www.pinterest.com/,451,0,114
+1675792481758,1046,pinterest,200,OK,Thread Group 1-47,text,true,,215668,244,48,48,https://www.pinterest.com/,77,0,29
+1675792481758,77,pinterest-0,301,Moved Permanently,Thread Group 1-47,,true,,211,122,48,48,http://www.pinterest.com/,77,0,29
+1675792481836,968,pinterest-1,200,OK,Thread Group 1-47,text,true,,215457,122,48,48,https://www.pinterest.com/,547,0,76
+1675792481482,1355,topgear,200,OK,Thread Group 1-33,text,true,,388755,240,48,48,https://www.topgear.com/,59,0,24
+1675792481482,59,topgear-0,301,Moved Permanently,Thread Group 1-33,,true,,319,120,48,48,http://www.topgear.com/,59,0,24
+1675792481542,1295,topgear-1,200,OK,Thread Group 1-33,text,true,,388436,120,48,48,https://www.topgear.com/,539,0,61
+1675792482145,848,imdb,403,Forbidden,Thread Group 1-53,text,false,,1258,234,49,49,https://www.imdb.com/,92,0,56
+1675792482145,92,imdb-0,301,Moved Permanently,Thread Group 1-53,text,true,,592,117,49,49,http://www.imdb.com/,92,0,56
+1675792482237,756,imdb-1,403,Forbidden,Thread Group 1-53,text,false,,666,117,49,49,https://www.imdb.com/,368,0,199
+1675792480091,2928,topgear,200,OK,Thread Group 1-6,text,true,,388820,240,49,49,https://www.topgear.com/,1132,0,1066
+1675792480091,1132,topgear-0,301,Moved Permanently,Thread Group 1-6,,true,,319,120,49,49,http://www.topgear.com/,1132,0,1066
+1675792481232,1787,topgear-1,200,OK,Thread Group 1-6,text,true,,388501,120,49,49,https://www.topgear.com/,1046,0,106
+1675792480437,2589,topgear,200,OK,Thread Group 1-21,text,true,,388755,240,48,48,https://www.topgear.com/,756,0,705
+1675792480437,756,topgear-0,301,Moved Permanently,Thread Group 1-21,,true,,319,120,48,48,http://www.topgear.com/,756,0,705
+1675792481193,1833,topgear-1,200,OK,Thread Group 1-21,text,true,,388436,120,48,48,https://www.topgear.com/,1140,0,101
+1675792482089,951,wikipedia,200,OK,Thread Group 1-41,text,true,,77212,244,47,47,https://www.wikipedia.org/,144,0,76
+1675792482089,144,wikipedia-0,301,TLS Redirect,Thread Group 1-41,,true,,595,122,47,47,http://www.wikipedia.org/,144,0,76
+1675792482234,806,wikipedia-1,200,OK,Thread Group 1-41,text,true,,76617,122,47,47,https://www.wikipedia.org/,373,0,182
+1675792480105,2971,topgear,200,OK,Thread Group 1-7,text,true,,388762,240,48,48,https://www.topgear.com/,1091,0,1037
+1675792480105,1091,topgear-0,301,Moved Permanently,Thread Group 1-7,,true,,319,120,48,48,http://www.topgear.com/,1091,0,1037
+1675792481196,1880,topgear-1,200,OK,Thread Group 1-7,text,true,,388443,120,48,48,https://www.topgear.com/,944,0,121
+1675792481093,2021,topgear,200,OK,Thread Group 1-29,text,true,,388755,240,47,47,https://www.topgear.com/,92,0,48
+1675792481093,92,topgear-0,301,Moved Permanently,Thread Group 1-29,,true,,319,120,47,47,http://www.topgear.com/,92,0,48
+1675792481185,1929,topgear-1,200,OK,Thread Group 1-29,text,true,,388436,120,47,47,https://www.topgear.com/,1136,0,109
+1675792481867,1306,topgear,200,OK,Thread Group 1-36,text,true,,388755,240,47,47,https://www.topgear.com/,63,0,29
+1675792481867,63,topgear-0,301,Moved Permanently,Thread Group 1-36,,true,,319,120,47,47,http://www.topgear.com/,63,0,29
+1675792481930,1243,topgear-1,200,OK,Thread Group 1-36,text,true,,388436,120,47,47,https://www.topgear.com/,542,0,113
+1675792479993,3219,topgear,200,OK,Thread Group 1-17,text,true,,388755,240,46,46,https://www.topgear.com/,1230,0,1164
+1675792479993,1230,topgear-0,301,Moved Permanently,Thread Group 1-17,,true,,319,120,46,46,http://www.topgear.com/,1230,0,1164
+1675792481224,1988,topgear-1,200,OK,Thread Group 1-17,text,true,,388436,120,46,46,https://www.topgear.com/,975,0,95
+1675792482588,635,djmag,200,OK,Thread Group 1-44,text,true,,93139,232,45,45,https://djmag.com/,141,0,59
+1675792482588,141,djmag-0,301,Moved Permanently,Thread Group 1-44,,true,,652,118,45,45,http://www.djmag.com/,141,0,59
+1675792482730,493,djmag-1,200,OK,Thread Group 1-44,text,true,,92487,114,45,45,https://djmag.com/,246,0,131
+1675792482297,990,pinterest,200,OK,Thread Group 1-51,text,true,,216193,244,46,46,https://www.pinterest.com/,115,0,61
+1675792482297,115,pinterest-0,301,Moved Permanently,Thread Group 1-51,,true,,210,122,46,46,http://www.pinterest.com/,115,0,61
+1675792482412,875,pinterest-1,200,OK,Thread Group 1-51,text,true,,215983,122,46,46,https://www.pinterest.com/,501,0,121
+1675792482346,957,imdb,403,Forbidden,Thread Group 1-55,text,false,,1258,234,46,46,https://www.imdb.com/,109,0,55
+1675792482346,109,imdb-0,301,Moved Permanently,Thread Group 1-55,text,true,,592,117,46,46,http://www.imdb.com/,109,0,55
+1675792482455,848,imdb-1,403,Forbidden,Thread Group 1-55,text,false,,666,117,46,46,https://www.imdb.com/,848,0,621
+1675792482048,1262,pinterest,200,OK,Thread Group 1-49,text,true,,216932,244,46,46,https://www.pinterest.com/,99,0,46
+1675792482048,99,pinterest-0,301,Moved Permanently,Thread Group 1-49,,true,,211,122,46,46,http://www.pinterest.com/,99,0,46
+1675792482147,1163,pinterest-1,200,OK,Thread Group 1-49,text,true,,216721,122,46,46,https://www.pinterest.com/,489,0,112
+1675792482457,866,djmag,200,OK,Thread Group 1-46,text,true,,93138,232,46,46,https://djmag.com/,137,0,59
+1675792482457,137,djmag-0,301,Moved Permanently,Thread Group 1-46,,true,,650,118,46,46,http://www.djmag.com/,137,0,59
+1675792482594,729,djmag-1,200,OK,Thread Group 1-46,text,true,,92488,114,46,46,https://djmag.com/,488,0,330
+1675792482756,594,djmag,200,OK,Thread Group 1-48,text,true,,93133,232,47,47,https://djmag.com/,140,0,62
+1675792482756,140,djmag-0,301,Moved Permanently,Thread Group 1-48,,true,,654,118,47,47,http://www.djmag.com/,140,0,62
+1675792482896,454,djmag-1,200,OK,Thread Group 1-48,text,true,,92479,114,47,47,https://djmag.com/,263,0,150
+1675792482805,624,djmag,200,OK,Thread Group 1-47,text,true,,93128,232,47,47,https://djmag.com/,150,0,66
+1675792482805,150,djmag-0,301,Moved Permanently,Thread Group 1-47,,true,,648,118,47,47,http://www.djmag.com/,150,0,66
+1675792482955,474,djmag-1,200,OK,Thread Group 1-47,text,true,,92480,114,47,47,https://djmag.com/,275,0,149
+1675792482946,484,imdb,403,Forbidden,Thread Group 1-61,text,false,,1258,234,47,47,https://www.imdb.com/,106,0,57
+1675792482946,106,imdb-0,301,Moved Permanently,Thread Group 1-61,text,true,,592,117,47,47,http://www.imdb.com/,106,0,57
+1675792483052,378,imdb-1,403,Forbidden,Thread Group 1-61,text,false,,666,117,47,47,https://www.imdb.com/,378,0,207
+1675792483044,388,imdb,403,Forbidden,Thread Group 1-62,text,false,,1258,234,47,47,https://www.imdb.com/,104,0,50
+1675792483044,104,imdb-0,301,Moved Permanently,Thread Group 1-62,text,true,,592,117,47,47,http://www.imdb.com/,104,0,50
+1675792483148,284,imdb-1,403,Forbidden,Thread Group 1-62,text,false,,666,117,47,47,https://www.imdb.com/,284,0,112
+1675792481942,1491,topgear,200,OK,Thread Group 1-37,text,true,,388755,240,47,47,https://www.topgear.com/,110,0,58
+1675792481942,110,topgear-0,301,Moved Permanently,Thread Group 1-37,,true,,319,120,47,47,http://www.topgear.com/,110,0,58
+1675792482053,1380,topgear-1,200,OK,Thread Group 1-37,text,true,,388436,120,47,47,https://www.topgear.com/,603,0,108
+1675792480041,3397,topgear,200,OK,Thread Group 1-5,text,true,,388762,240,46,46,https://www.topgear.com/,1182,0,1116
+1675792480041,1182,topgear-0,301,Moved Permanently,Thread Group 1-5,,true,,319,120,46,46,http://www.topgear.com/,1182,0,1116
+1675792481232,2206,topgear-1,200,OK,Thread Group 1-5,text,true,,388443,120,46,46,https://www.topgear.com/,1463,0,105
+1675792481038,2437,topgear,200,OK,Thread Group 1-28,text,true,,388755,240,46,46,https://www.topgear.com/,154,0,103
+1675792481038,154,topgear-0,301,Moved Permanently,Thread Group 1-28,,true,,319,120,46,46,http://www.topgear.com/,154,0,103
+1675792481193,2282,topgear-1,200,OK,Thread Group 1-28,text,true,,388436,120,46,46,https://www.topgear.com/,1416,0,110
+1675792482846,656,imdb,403,Forbidden,Thread Group 1-60,text,false,,1258,234,45,45,https://www.imdb.com/,375,0,56
+1675792482846,375,imdb-0,301,Moved Permanently,Thread Group 1-60,text,true,,592,117,45,45,http://www.imdb.com/,375,0,56
+1675792483221,281,imdb-1,403,Forbidden,Thread Group 1-60,text,false,,666,117,45,45,https://www.imdb.com/,281,0,115
+1675792482564,966,djmag,200,OK,Thread Group 1-45,text,true,,93148,232,45,45,https://djmag.com/,142,0,61
+1675792482564,142,djmag-0,301,Moved Permanently,Thread Group 1-45,,true,,656,118,45,45,http://www.djmag.com/,142,0,61
+1675792482706,824,djmag-1,200,OK,Thread Group 1-45,text,true,,92492,114,45,45,https://djmag.com/,692,0,607
+1675792483144,386,imdb,403,Forbidden,Thread Group 1-63,text,false,,1258,234,45,45,https://www.imdb.com/,108,0,52
+1675792483144,108,imdb-0,301,Moved Permanently,Thread Group 1-63,text,true,,592,117,45,45,http://www.imdb.com/,108,0,52
+1675792483253,277,imdb-1,403,Forbidden,Thread Group 1-63,text,false,,666,117,45,45,https://www.imdb.com/,277,0,110
+1675792480003,3531,topgear,200,OK,Thread Group 1-13,text,true,,388762,240,45,45,https://www.topgear.com/,1220,0,1154
+1675792480003,1220,topgear-0,301,Moved Permanently,Thread Group 1-13,,true,,319,120,45,45,http://www.topgear.com/,1220,0,1154
+1675792481232,2302,topgear-1,200,OK,Thread Group 1-13,text,true,,388443,120,45,45,https://www.topgear.com/,1201,0,93
+1675792480089,3500,topgear,200,OK,Thread Group 1-9,text,true,,388755,240,45,45,https://www.topgear.com/,1134,0,1068
+1675792480089,1134,topgear-0,301,Moved Permanently,Thread Group 1-9,,true,,319,120,45,45,http://www.topgear.com/,1134,0,1068
+1675792481232,2357,topgear-1,200,OK,Thread Group 1-9,text,true,,388436,120,45,45,https://www.topgear.com/,926,0,93
+1675792480008,3586,topgear,200,OK,Thread Group 1-18,text,true,,388762,240,44,44,https://www.topgear.com/,1215,0,1149
+1675792480008,1215,topgear-0,301,Moved Permanently,Thread Group 1-18,,true,,319,120,44,44,http://www.topgear.com/,1215,0,1149
+1675792481224,2370,topgear-1,200,OK,Thread Group 1-18,text,true,,388443,120,44,44,https://www.topgear.com/,1320,0,102
+1675792480079,3533,topgear,200,OK,Thread Group 1-10,text,true,,388762,240,43,43,https://www.topgear.com/,1144,0,1078
+1675792480079,1144,topgear-0,301,Moved Permanently,Thread Group 1-10,,true,,319,120,43,43,http://www.topgear.com/,1144,0,1078
+1675792481228,2384,topgear-1,200,OK,Thread Group 1-10,text,true,,388443,120,43,43,https://www.topgear.com/,1592,0,118
+1675792480068,3551,topgear,200,OK,Thread Group 1-15,text,true,,388755,240,42,42,https://www.topgear.com/,1155,0,1089
+1675792480068,1155,topgear-0,301,Moved Permanently,Thread Group 1-15,,true,,319,120,42,42,http://www.topgear.com/,1155,0,1089
+1675792481232,2387,topgear-1,200,OK,Thread Group 1-15,text,true,,388436,120,42,42,https://www.topgear.com/,1257,0,113
+1675792481616,2015,topgear,200,OK,Thread Group 1-35,text,true,,388755,240,41,41,https://www.topgear.com/,58,0,18
+1675792481616,58,topgear-0,301,Moved Permanently,Thread Group 1-35,,true,,319,120,41,41,http://www.topgear.com/,58,0,18
+1675792481674,1957,topgear-1,200,OK,Thread Group 1-35,text,true,,388436,120,41,41,https://www.topgear.com/,1383,0,80
+1675792481545,2097,topgear,200,OK,Thread Group 1-32,text,true,,388755,240,40,40,https://www.topgear.com/,54,0,28
+1675792481545,54,topgear-0,301,Moved Permanently,Thread Group 1-32,,true,,319,120,40,40,http://www.topgear.com/,54,0,28
+1675792481599,2043,topgear-1,200,OK,Thread Group 1-32,text,true,,388436,120,40,40,https://www.topgear.com/,1681,0,59
+1675792482010,1642,topgear,200,OK,Thread Group 1-38,text,true,,388755,240,40,40,https://www.topgear.com/,104,0,54
+1675792482010,104,topgear-0,301,Moved Permanently,Thread Group 1-38,,true,,319,120,40,40,http://www.topgear.com/,104,0,54
+1675792482114,1538,topgear-1,200,OK,Thread Group 1-38,text,true,,388436,120,40,40,https://www.topgear.com/,441,0,126
+1675792483244,434,imdb,403,Forbidden,Thread Group 1-64,text,false,,1258,234,39,39,https://www.imdb.com/,110,0,54
+1675792483244,110,imdb-0,301,Moved Permanently,Thread Group 1-64,text,true,,592,117,39,39,http://www.imdb.com/,110,0,54
+1675792483354,324,imdb-1,403,Forbidden,Thread Group 1-64,text,false,,666,117,39,39,https://www.imdb.com/,324,0,112
+1675792481332,2421,topgear,200,OK,Thread Group 1-12,text,true,,388755,240,39,39,https://www.topgear.com/,49,0,22
+1675792481332,49,topgear-0,301,Moved Permanently,Thread Group 1-12,,true,,319,120,39,39,http://www.topgear.com/,49,0,22
+1675792481382,2371,topgear-1,200,OK,Thread Group 1-12,text,true,,388436,120,39,39,https://www.topgear.com/,1408,0,52
+1675792482518,1236,wikipedia,200,OK,Thread Group 1-43,text,true,,77212,244,39,39,https://www.wikipedia.org/,154,0,78
+1675792482518,154,wikipedia-0,301,TLS Redirect,Thread Group 1-43,,true,,595,122,39,39,http://www.wikipedia.org/,154,0,78
+1675792482673,1081,wikipedia-1,200,OK,Thread Group 1-43,text,true,,76617,122,39,39,https://www.wikipedia.org/,924,0,764
+1675792481091,2666,topgear,200,OK,Thread Group 1-30,text,true,,388755,240,39,39,https://www.topgear.com/,101,0,50
+1675792481091,101,topgear-0,301,Moved Permanently,Thread Group 1-30,,true,,319,120,39,39,http://www.topgear.com/,101,0,50
+1675792481194,2563,topgear-1,200,OK,Thread Group 1-30,text,true,,388436,120,39,39,https://www.topgear.com/,1624,0,112
+1675792483288,485,djmag,200,OK,Thread Group 1-51,text,true,,93130,232,38,38,https://djmag.com/,122,0,59
+1675792483288,122,djmag-0,301,Moved Permanently,Thread Group 1-51,,true,,650,118,38,38,http://www.djmag.com/,122,0,59
+1675792483411,362,djmag-1,200,OK,Thread Group 1-51,text,true,,92480,114,38,38,https://djmag.com/,232,0,140
+1675792483311,473,djmag,200,OK,Thread Group 1-49,text,true,,93133,232,38,38,https://djmag.com/,139,0,62
+1675792483311,139,djmag-0,301,Moved Permanently,Thread Group 1-49,,true,,656,118,38,38,http://www.djmag.com/,139,0,62
+1675792483450,334,djmag-1,200,OK,Thread Group 1-49,text,true,,92477,114,38,38,https://djmag.com/,233,0,121
+1675792479959,3825,topgear,200,OK,Thread Group 1-16,text,true,,388755,240,38,38,https://www.topgear.com/,1264,0,1198
+1675792479959,1264,topgear-0,301,Moved Permanently,Thread Group 1-16,,true,,319,120,38,38,http://www.topgear.com/,1264,0,1198
+1675792481228,2556,topgear-1,200,OK,Thread Group 1-16,text,true,,388436,120,38,38,https://www.topgear.com/,1993,0,115
+1675792483224,562,wikipedia,200,OK,Thread Group 1-44,text,true,,77212,244,37,37,https://www.wikipedia.org/,153,0,78
+1675792483224,153,wikipedia-0,301,TLS Redirect,Thread Group 1-44,,true,,595,122,37,37,http://www.wikipedia.org/,153,0,78
+1675792483377,409,wikipedia-1,200,OK,Thread Group 1-44,text,true,,76617,122,37,37,https://www.wikipedia.org/,255,0,165
+1675792483446,352,imdb,403,Forbidden,Thread Group 1-66,text,false,,1258,234,37,37,https://www.imdb.com/,96,0,48
+1675792483446,96,imdb-0,301,Moved Permanently,Thread Group 1-66,text,true,,592,117,37,37,http://www.imdb.com/,96,0,48
+1675792483543,255,imdb-1,403,Forbidden,Thread Group 1-66,text,false,,666,117,37,37,https://www.imdb.com/,255,0,98
+1675792480271,3543,topgear,200,OK,Thread Group 1-20,text,true,,388755,240,37,37,https://www.topgear.com/,921,0,870
+1675792480271,921,topgear-0,301,Moved Permanently,Thread Group 1-20,,true,,319,120,37,37,http://www.topgear.com/,921,0,870
+1675792481194,2620,topgear-1,200,OK,Thread Group 1-20,text,true,,388436,120,37,37,https://www.topgear.com/,2113,0,136
+1675792482446,1423,imdb,403,Forbidden,Thread Group 1-56,text,false,,1258,234,37,37,https://www.imdb.com/,1111,0,1067
+1675792482446,1111,imdb-0,301,Moved Permanently,Thread Group 1-56,text,true,,592,117,37,37,http://www.imdb.com/,1111,0,1067
+1675792483558,311,imdb-1,403,Forbidden,Thread Group 1-56,text,false,,666,117,37,37,https://www.imdb.com/,310,0,99
+1675792481545,2390,topgear,200,OK,Thread Group 1-34,text,true,,388820,240,37,37,https://www.topgear.com/,52,0,26
+1675792481545,52,topgear-0,301,Moved Permanently,Thread Group 1-34,,true,,319,120,37,37,http://www.topgear.com/,52,0,26
+1675792481598,2337,topgear-1,200,OK,Thread Group 1-34,text,true,,388501,120,37,37,https://www.topgear.com/,1058,0,59
+1675792483345,601,imdb,403,Forbidden,Thread Group 1-65,text,false,,1258,234,36,36,https://www.imdb.com/,346,0,46
+1675792483345,346,imdb-0,301,Moved Permanently,Thread Group 1-65,text,true,,592,117,36,36,http://www.imdb.com/,346,0,46
+1675792483692,254,imdb-1,403,Forbidden,Thread Group 1-65,text,false,,666,117,36,36,https://www.imdb.com/,253,0,95
+1675792483323,624,wikipedia,200,OK,Thread Group 1-46,text,true,,77212,244,37,37,https://www.wikipedia.org/,157,0,77
+1675792483323,157,wikipedia-0,301,TLS Redirect,Thread Group 1-46,,true,,595,122,37,37,http://www.wikipedia.org/,157,0,77
+1675792483481,466,wikipedia-1,200,OK,Thread Group 1-46,text,true,,76617,122,37,37,https://www.wikipedia.org/,262,0,167
+1675792483645,383,imdb,403,Forbidden,Thread Group 1-68,text,false,,1258,234,37,37,https://www.imdb.com/,89,0,46
+1675792483645,89,imdb-0,301,Moved Permanently,Thread Group 1-68,text,true,,592,117,37,37,http://www.imdb.com/,89,0,46
+1675792483734,294,imdb-1,403,Forbidden,Thread Group 1-68,text,false,,666,117,37,37,https://www.imdb.com/,294,0,118
+1675792483545,530,imdb,403,Forbidden,Thread Group 1-67,text,false,,1258,234,38,38,https://www.imdb.com/,89,0,41
+1675792483545,89,imdb-0,301,Moved Permanently,Thread Group 1-67,text,true,,592,117,38,38,http://www.imdb.com/,89,0,41
+1675792483635,440,imdb-1,403,Forbidden,Thread Group 1-67,text,false,,666,117,38,38,https://www.imdb.com/,440,0,98
+1675792483351,766,wikipedia,200,OK,Thread Group 1-48,text,true,,77212,244,38,38,https://www.wikipedia.org/,156,0,80
+1675792483351,156,wikipedia-0,301,TLS Redirect,Thread Group 1-48,,true,,595,122,38,38,http://www.wikipedia.org/,156,0,80
+1675792483508,609,wikipedia-1,200,OK,Thread Group 1-48,text,true,,76617,122,38,38,https://www.wikipedia.org/,414,0,287
+1675792482645,1492,imdb,403,Forbidden,Thread Group 1-58,text,false,,1258,234,38,38,https://www.imdb.com/,112,0,59
+1675792482645,112,imdb-0,301,Moved Permanently,Thread Group 1-58,text,true,,592,117,38,38,http://www.imdb.com/,112,0,59
+1675792482757,1380,imdb-1,403,Forbidden,Thread Group 1-58,text,false,,666,117,38,38,https://www.imdb.com/,1380,0,1113
+1675792483757,380,imdb,403,Forbidden,Thread Group 1-69,text,false,,1258,234,38,38,https://www.imdb.com/,99,0,41
+1675792483757,99,imdb-0,301,Moved Permanently,Thread Group 1-69,text,true,,592,117,38,38,http://www.imdb.com/,99,0,41
+1675792483856,281,imdb-1,403,Forbidden,Thread Group 1-69,text,false,,666,117,38,38,https://www.imdb.com/,281,0,112
+1675792482745,1399,imdb,403,Forbidden,Thread Group 1-59,text,false,,1258,234,38,38,https://www.imdb.com/,1111,0,1048
+1675792482745,1111,imdb-0,301,Moved Permanently,Thread Group 1-59,text,true,,592,117,38,38,http://www.imdb.com/,1111,0,1048
+1675792483856,288,imdb-1,403,Forbidden,Thread Group 1-59,text,false,,666,117,38,38,https://www.imdb.com/,288,0,119
+1675792480070,4132,topgear,200,OK,Thread Group 1-8,text,true,,388755,240,39,39,https://www.topgear.com/,1138,0,1087
+1675792480070,1138,topgear-0,301,Moved Permanently,Thread Group 1-8,,true,,319,120,39,39,http://www.topgear.com/,1138,0,1087
+1675792481209,2993,topgear-1,200,OK,Thread Group 1-8,text,true,,388436,120,39,39,https://www.topgear.com/,1355,0,110
+1675792483851,371,imdb,403,Forbidden,Thread Group 1-70,text,false,,1258,234,38,38,https://www.imdb.com/,90,0,48
+1675792483851,90,imdb-0,301,Moved Permanently,Thread Group 1-70,text,true,,592,117,38,38,http://www.imdb.com/,90,0,48
+1675792483941,281,imdb-1,403,Forbidden,Thread Group 1-70,text,false,,666,117,38,38,https://www.imdb.com/,281,0,103
+1675792480084,4170,topgear,200,OK,Thread Group 1-4,text,true,,388755,240,39,39,https://www.topgear.com/,1124,0,1073
+1675792480084,1124,topgear-0,301,Moved Permanently,Thread Group 1-4,,true,,319,120,39,39,http://www.topgear.com/,1124,0,1073
+1675792481209,3045,topgear-1,200,OK,Thread Group 1-4,text,true,,388436,120,39,39,https://www.topgear.com/,1847,0,109
+1675792483303,1001,pinterest,200,OK,Thread Group 1-55,text,true,,216207,244,38,38,https://www.pinterest.com/,125,0,63
+1675792483303,125,pinterest-0,301,Moved Permanently,Thread Group 1-55,,true,,210,122,38,38,http://www.pinterest.com/,125,0,63
+1675792483428,876,pinterest-1,200,OK,Thread Group 1-55,text,true,,215997,122,38,38,https://www.pinterest.com/,422,0,122
+1675792482412,1898,pinterest,200,OK,Thread Group 1-52,text,true,,216045,244,38,38,https://www.pinterest.com/,1119,0,1068
+1675792482412,1119,pinterest-0,301,Moved Permanently,Thread Group 1-52,,true,,210,122,38,38,http://www.pinterest.com/,1119,0,1068
+1675792483531,779,pinterest-1,200,OK,Thread Group 1-52,text,true,,215835,122,38,38,https://www.pinterest.com/,400,0,116
+1675792481434,2881,topgear,200,OK,Thread Group 1-31,text,true,,388762,240,38,38,https://www.topgear.com/,50,0,23
+1675792483041,1274,topgear,200,OK,Thread Group 1-41,text,true,,388820,240,38,38,https://www.topgear.com/,117,0,59
+1675792481434,50,topgear-0,301,Moved Permanently,Thread Group 1-31,,true,,319,120,38,38,http://www.topgear.com/,50,0,23
+1675792483041,117,topgear-0,301,Moved Permanently,Thread Group 1-41,,true,,319,120,38,38,http://www.topgear.com/,117,0,59
+1675792481484,2831,topgear-1,200,OK,Thread Group 1-31,text,true,,388443,120,38,38,https://www.topgear.com/,2116,0,61
+1675792483158,1157,topgear-1,200,OK,Thread Group 1-41,text,true,,388501,120,38,38,https://www.topgear.com/,523,0,127
+1675792483530,789,pinterest,200,OK,Thread Group 1-63,text,true,,216989,244,36,36,https://www.pinterest.com/,105,0,55
+1675792483530,105,pinterest-0,301,Moved Permanently,Thread Group 1-63,,true,,211,122,36,36,http://www.pinterest.com/,105,0,55
+1675792483636,683,pinterest-1,200,OK,Thread Group 1-63,text,true,,216778,122,36,36,https://www.pinterest.com/,385,0,112
+1675792482125,2194,pinterest,200,OK,Thread Group 1-50,text,true,,216750,244,36,36,https://www.pinterest.com/,1335,0,1070
+1675792482125,1335,pinterest-0,301,Moved Permanently,Thread Group 1-50,,true,,210,122,36,36,http://www.pinterest.com/,1335,0,1070
+1675792483461,858,pinterest-1,200,OK,Thread Group 1-50,text,true,,216540,122,36,36,https://www.pinterest.com/,597,0,111
+1675792483432,893,pinterest,200,OK,Thread Group 1-62,text,true,,216486,244,36,36,https://www.pinterest.com/,116,0,62
+1675792483432,116,pinterest-0,301,Moved Permanently,Thread Group 1-62,,true,,211,122,36,36,http://www.pinterest.com/,116,0,62
+1675792483549,776,pinterest-1,200,OK,Thread Group 1-62,text,true,,216275,122,36,36,https://www.pinterest.com/,555,0,118
+1675792480096,4240,topgear,200,OK,Thread Group 1-3,text,true,,388762,240,36,36,https://www.topgear.com/,1100,0,1061
+1675792480096,1100,topgear-0,301,Moved Permanently,Thread Group 1-3,,true,,319,120,36,36,http://www.topgear.com/,1100,0,1061
+1675792481196,3140,topgear-1,200,OK,Thread Group 1-3,text,true,,388443,120,36,36,https://www.topgear.com/,1774,0,133
+1675792483430,937,pinterest,200,OK,Thread Group 1-61,text,true,,216312,244,36,36,https://www.pinterest.com/,111,0,61
+1675792483430,111,pinterest-0,301,Moved Permanently,Thread Group 1-61,,true,,211,122,36,36,http://www.pinterest.com/,111,0,61
+1675792483541,826,pinterest-1,200,OK,Thread Group 1-61,text,true,,216101,122,36,36,https://www.pinterest.com/,687,0,245
+1675792482139,2237,wikipedia,200,OK,Thread Group 1-42,text,true,,77212,244,36,36,https://www.wikipedia.org/,1164,0,1093
+1675792482139,1164,wikipedia-0,301,TLS Redirect,Thread Group 1-42,,true,,595,122,36,36,http://www.wikipedia.org/,1164,0,1093
+1675792483304,1072,wikipedia-1,200,OK,Thread Group 1-42,text,true,,76617,122,36,36,https://www.wikipedia.org/,946,0,703
+1675792482010,2377,topgear,200,OK,Thread Group 1-39,text,true,,388762,240,36,36,https://www.topgear.com/,104,0,54
+1675792482010,104,topgear-0,301,Moved Permanently,Thread Group 1-39,,true,,319,120,36,36,http://www.topgear.com/,104,0,54
+1675792482114,2273,topgear-1,200,OK,Thread Group 1-39,text,true,,388443,120,36,36,https://www.topgear.com/,1871,0,123
+1675792484046,365,imdb,403,Forbidden,Thread Group 1-72,text,false,,1258,234,35,35,https://www.imdb.com/,113,0,50
+1675792484046,113,imdb-0,301,Moved Permanently,Thread Group 1-72,text,true,,592,117,35,35,http://www.imdb.com/,113,0,50
+1675792484159,252,imdb-1,403,Forbidden,Thread Group 1-72,text,false,,666,117,35,35,https://www.imdb.com/,251,0,112
+1675792482635,1783,pinterest,200,OK,Thread Group 1-54,text,true,,216439,244,35,35,https://www.pinterest.com/,1111,0,1065
+1675792482635,1111,pinterest-0,301,Moved Permanently,Thread Group 1-54,,true,,211,122,35,35,http://www.pinterest.com/,1111,0,1065
+1675792483746,672,pinterest-1,200,OK,Thread Group 1-54,text,true,,216228,122,35,35,https://www.pinterest.com/,539,0,242
+1675792482393,2043,topgear,200,OK,Thread Group 1-40,text,true,,388755,240,35,35,https://www.topgear.com/,118,0,58
+1675792482393,118,topgear-0,301,Moved Permanently,Thread Group 1-40,,true,,319,120,35,35,http://www.topgear.com/,118,0,58
+1675792482511,1925,topgear-1,200,OK,Thread Group 1-40,text,true,,388436,120,35,35,https://www.topgear.com/,1738,0,175
+1675792484145,327,imdb,403,Forbidden,Thread Group 1-73,text,false,,1258,234,35,35,https://www.imdb.com/,105,0,51
+1675792484145,105,imdb-0,301,Moved Permanently,Thread Group 1-73,text,true,,592,117,35,35,http://www.imdb.com/,105,0,51
+1675792484250,222,imdb-1,403,Forbidden,Thread Group 1-73,text,false,,666,117,35,35,https://www.imdb.com/,221,0,81
+1675792483869,607,pinterest,200,OK,Thread Group 1-56,text,true,,216295,244,35,35,https://www.pinterest.com/,115,0,64
+1675792483869,115,pinterest-0,301,Moved Permanently,Thread Group 1-56,,true,,210,122,35,35,http://www.pinterest.com/,115,0,64
+1675792483984,492,pinterest-1,200,OK,Thread Group 1-56,text,true,,216085,122,35,35,https://www.pinterest.com/,393,0,129
+1675792484245,285,imdb,403,Forbidden,Thread Group 1-74,text,false,,1258,234,35,35,https://www.imdb.com/,72,0,44
+1675792484245,72,imdb-0,301,Moved Permanently,Thread Group 1-74,text,true,,592,117,35,35,http://www.imdb.com/,72,0,44
+1675792484317,213,imdb-1,403,Forbidden,Thread Group 1-74,text,false,,666,117,35,35,https://www.imdb.com/,213,0,66
+1675792483946,599,pinterest,200,OK,Thread Group 1-65,text,true,,216313,244,35,35,https://www.pinterest.com/,102,0,44
+1675792483946,102,pinterest-0,301,Moved Permanently,Thread Group 1-65,,true,,209,122,35,35,http://www.pinterest.com/,102,0,44
+1675792484048,497,pinterest-1,200,OK,Thread Group 1-65,text,true,,216104,122,35,35,https://www.pinterest.com/,410,0,138
+1675792483755,797,topgear,200,OK,Thread Group 1-43,text,true,,388755,240,36,36,https://www.topgear.com/,119,0,59
+1675792483755,119,topgear-0,301,Moved Permanently,Thread Group 1-43,,true,,319,120,36,36,http://www.topgear.com/,119,0,59
+1675792483874,678,topgear-1,200,OK,Thread Group 1-43,text,true,,388436,120,36,36,https://www.topgear.com/,532,0,124
+1675792483530,1025,wikipedia,200,OK,Thread Group 1-45,text,true,,77212,244,35,35,https://www.wikipedia.org/,144,0,70
+1675792483530,144,wikipedia-0,301,TLS Redirect,Thread Group 1-45,,true,,595,122,35,35,http://www.wikipedia.org/,144,0,70
+1675792483675,880,wikipedia-1,200,OK,Thread Group 1-45,text,true,,76617,122,35,35,https://www.wikipedia.org/,464,0,154
+1675792483502,1107,pinterest,200,OK,Thread Group 1-60,text,true,,215968,244,35,35,https://www.pinterest.com/,105,0,52
+1675792483502,105,pinterest-0,301,Moved Permanently,Thread Group 1-60,,true,,211,122,35,35,http://www.pinterest.com/,105,0,52
+1675792483608,1001,pinterest-1,200,OK,Thread Group 1-60,text,true,,215757,122,35,35,https://www.pinterest.com/,615,0,147
+1675792484345,270,imdb,403,Forbidden,Thread Group 1-75,text,false,,1258,234,35,35,https://www.imdb.com/,47,0,23
+1675792484345,47,imdb-0,301,Moved Permanently,Thread Group 1-75,text,true,,592,117,35,35,http://www.imdb.com/,47,0,23
+1675792484392,223,imdb-1,403,Forbidden,Thread Group 1-75,text,false,,666,117,35,35,https://www.imdb.com/,223,0,56
+1675792484311,385,djmag,200,OK,Thread Group 1-52,text,true,,93141,232,36,36,https://djmag.com/,80,0,39
+1675792484311,80,djmag-0,301,Moved Permanently,Thread Group 1-52,,true,,660,118,36,36,http://www.djmag.com/,80,0,39
+1675792484391,305,djmag-1,200,OK,Thread Group 1-52,text,true,,92481,114,36,36,https://djmag.com/,164,0,70
+1675792484320,387,djmag,200,OK,Thread Group 1-50,text,true,,93141,232,36,36,https://djmag.com/,90,0,37
+1675792484320,90,djmag-0,301,Moved Permanently,Thread Group 1-50,,true,,662,118,36,36,http://www.djmag.com/,90,0,37
+1675792484410,297,djmag-1,200,OK,Thread Group 1-50,text,true,,92479,114,36,36,https://djmag.com/,181,0,76
+1675792484445,282,imdb,403,Forbidden,Thread Group 1-76,text,false,,1258,234,36,36,https://www.imdb.com/,35,0,17
+1675792484445,35,imdb-0,301,Moved Permanently,Thread Group 1-76,text,true,,592,117,36,36,http://www.imdb.com/,35,0,17
+1675792484480,247,imdb-1,403,Forbidden,Thread Group 1-76,text,false,,666,117,36,36,https://www.imdb.com/,247,0,71
+1675792483678,1052,pinterest,200,OK,Thread Group 1-64,text,true,,216011,244,36,36,https://www.pinterest.com/,102,0,56
+1675792483678,102,pinterest-0,301,Moved Permanently,Thread Group 1-64,,true,,211,122,36,36,http://www.pinterest.com/,102,0,56
+1675792483780,950,pinterest-1,200,OK,Thread Group 1-64,text,true,,215800,122,36,36,https://www.pinterest.com/,733,0,484
+1675792483798,936,pinterest,200,OK,Thread Group 1-66,text,true,,216643,244,36,36,https://www.pinterest.com/,329,0,64
+1675792483798,329,pinterest-0,301,Moved Permanently,Thread Group 1-66,,true,,211,122,36,36,http://www.pinterest.com/,329,0,64
+1675792484127,607,pinterest-1,200,OK,Thread Group 1-66,text,true,,216432,122,36,36,https://www.pinterest.com/,399,0,149
+1675792484326,414,djmag,200,OK,Thread Group 1-62,text,true,,93133,232,36,36,https://djmag.com/,73,0,31
+1675792484326,73,djmag-0,301,Moved Permanently,Thread Group 1-62,,true,,654,118,36,36,http://www.djmag.com/,73,0,31
+1675792484400,340,djmag-1,200,OK,Thread Group 1-62,text,true,,92479,114,36,36,https://djmag.com/,177,0,72
+1675792484029,718,pinterest,200,OK,Thread Group 1-68,text,true,,216002,244,37,37,https://www.pinterest.com/,122,0,56
+1675792484029,122,pinterest-0,301,Moved Permanently,Thread Group 1-68,,true,,211,122,37,37,http://www.pinterest.com/,122,0,56
+1675792484152,595,pinterest-1,200,OK,Thread Group 1-68,text,true,,215791,122,37,37,https://www.pinterest.com/,347,0,122
+1675792484305,448,djmag,200,OK,Thread Group 1-55,text,true,,93132,232,37,37,https://djmag.com/,89,0,38
+1675792484305,89,djmag-0,301,Moved Permanently,Thread Group 1-55,,true,,650,118,37,37,http://www.djmag.com/,89,0,38
+1675792484394,359,djmag-1,200,OK,Thread Group 1-55,text,true,,92482,114,37,37,https://djmag.com/,173,0,69
+1675792484419,341,djmag,200,OK,Thread Group 1-54,text,true,,93126,232,37,37,https://djmag.com/,64,0,24
+1675792484419,64,djmag-0,301,Moved Permanently,Thread Group 1-54,,true,,652,118,37,37,http://www.djmag.com/,64,0,24
+1675792484483,277,djmag-1,200,OK,Thread Group 1-54,text,true,,92474,114,37,37,https://djmag.com/,201,0,88
+1675792484076,714,pinterest,200,OK,Thread Group 1-67,text,true,,216590,244,37,37,https://www.pinterest.com/,119,0,57
+1675792484076,119,pinterest-0,301,Moved Permanently,Thread Group 1-67,,true,,210,122,37,37,http://www.pinterest.com/,119,0,57
+1675792484195,595,pinterest-1,200,OK,Thread Group 1-67,text,true,,216380,122,37,37,https://www.pinterest.com/,397,0,124
+1675792484367,460,djmag,200,OK,Thread Group 1-61,text,true,,93140,232,37,37,https://djmag.com/,75,0,36
+1675792484367,75,djmag-0,301,Moved Permanently,Thread Group 1-61,,true,,652,118,37,37,http://www.djmag.com/,75,0,36
+1675792484443,384,djmag-1,200,OK,Thread Group 1-61,text,true,,92488,114,37,37,https://djmag.com/,193,0,66
+1675792484320,518,djmag,200,OK,Thread Group 1-63,text,true,,93129,232,37,37,https://djmag.com/,101,0,37
+1675792484320,101,djmag-0,301,Moved Permanently,Thread Group 1-63,,true,,650,118,37,37,http://www.djmag.com/,101,0,37
+1675792484421,417,djmag-1,200,OK,Thread Group 1-63,text,true,,92479,114,37,37,https://djmag.com/,272,0,74
+1675792484546,347,imdb,403,Forbidden,Thread Group 1-77,text,false,,1258,234,38,38,https://www.imdb.com/,86,0,37
+1675792484546,86,imdb-0,301,Moved Permanently,Thread Group 1-77,text,true,,592,117,38,38,http://www.imdb.com/,86,0,37
+1675792484633,260,imdb-1,403,Forbidden,Thread Group 1-77,text,false,,666,117,38,38,https://www.imdb.com/,260,0,107
+1675792484145,752,pinterest,200,OK,Thread Group 1-59,text,true,,215305,244,38,38,https://www.pinterest.com/,119,0,57
+1675792484145,119,pinterest-0,301,Moved Permanently,Thread Group 1-59,,true,,210,122,38,38,http://www.pinterest.com/,119,0,57
+1675792484264,633,pinterest-1,200,OK,Thread Group 1-59,text,true,,215095,122,38,38,https://www.pinterest.com/,339,0,84
+1675792484137,766,pinterest,200,OK,Thread Group 1-58,text,true,,216633,244,38,38,https://www.pinterest.com/,127,0,65
+1675792484137,127,pinterest-0,301,Moved Permanently,Thread Group 1-58,,true,,210,122,38,38,http://www.pinterest.com/,127,0,65
+1675792484264,639,pinterest-1,200,OK,Thread Group 1-58,text,true,,216423,122,38,38,https://www.pinterest.com/,365,0,85
+1675792484138,772,pinterest,200,OK,Thread Group 1-69,text,true,,216295,244,38,38,https://www.pinterest.com/,123,0,64
+1675792484138,123,pinterest-0,301,Moved Permanently,Thread Group 1-69,,true,,211,122,38,38,http://www.pinterest.com/,123,0,64
+1675792484261,649,pinterest-1,200,OK,Thread Group 1-69,text,true,,216084,122,38,38,https://www.pinterest.com/,434,0,82
+1675792484223,692,pinterest,200,OK,Thread Group 1-70,text,true,,216515,244,38,38,https://www.pinterest.com/,93,0,56
+1675792484223,93,pinterest-0,301,Moved Permanently,Thread Group 1-70,,true,,211,122,38,38,http://www.pinterest.com/,93,0,56
+1675792484317,598,pinterest-1,200,OK,Thread Group 1-70,text,true,,216304,122,38,38,https://www.pinterest.com/,395,0,78
+1675792483787,1144,topgear,200,OK,Thread Group 1-44,text,true,,388755,240,38,38,https://www.topgear.com/,146,0,75
+1675792483787,146,topgear-0,301,Moved Permanently,Thread Group 1-44,,true,,319,120,38,38,http://www.topgear.com/,146,0,75
+1675792483934,997,topgear-1,200,OK,Thread Group 1-44,text,true,,388436,120,38,38,https://www.topgear.com/,635,0,344
+1675792484545,411,djmag,200,OK,Thread Group 1-65,text,true,,93133,232,38,38,https://djmag.com/,111,0,45
+1675792484545,111,djmag-0,301,Moved Permanently,Thread Group 1-65,,true,,652,118,38,38,http://www.djmag.com/,111,0,45
+1675792484656,300,djmag-1,200,OK,Thread Group 1-65,text,true,,92481,114,38,38,https://djmag.com/,236,0,127
+1675792484476,488,djmag,200,OK,Thread Group 1-56,text,true,,93127,232,38,38,https://djmag.com/,78,0,26
+1675792484476,78,djmag-0,301,Moved Permanently,Thread Group 1-56,,true,,650,118,38,38,http://www.djmag.com/,78,0,26
+1675792484554,410,djmag-1,200,OK,Thread Group 1-56,text,true,,92477,114,38,38,https://djmag.com/,349,0,275
+1675792483430,1554,wikipedia,200,OK,Thread Group 1-47,text,true,,77212,244,38,38,https://www.wikipedia.org/,146,0,76
+1675792483430,146,wikipedia-0,301,TLS Redirect,Thread Group 1-47,,true,,595,122,38,38,http://www.wikipedia.org/,146,0,76
+1675792483576,1408,wikipedia-1,200,OK,Thread Group 1-47,text,true,,76617,122,38,38,https://www.wikipedia.org/,1264,0,1174
+1675792484647,369,imdb,403,Forbidden,Thread Group 1-78,text,false,,1258,234,38,38,https://www.imdb.com/,93,0,46
+1675792484647,93,imdb-0,301,Moved Permanently,Thread Group 1-78,text,true,,592,117,38,38,http://www.imdb.com/,93,0,46
+1675792484740,276,imdb-1,403,Forbidden,Thread Group 1-78,text,false,,666,117,38,38,https://www.imdb.com/,276,0,111
+1675792482993,2025,pinterest,200,OK,Thread Group 1-53,text,true,,216946,244,38,38,https://www.pinterest.com/,115,0,61
+1675792482993,115,pinterest-0,301,Moved Permanently,Thread Group 1-53,,true,,211,122,38,38,http://www.pinterest.com/,115,0,61
+1675792483109,1909,pinterest-1,200,OK,Thread Group 1-53,text,true,,216735,122,38,38,https://www.pinterest.com/,1719,0,1131
+1675792482545,2508,imdb,403,Forbidden,Thread Group 1-57,text,false,,1258,234,39,39,https://www.imdb.com/,106,0,55
+1675792482545,106,imdb-0,301,Moved Permanently,Thread Group 1-57,text,true,,592,117,39,39,http://www.imdb.com/,106,0,55
+1675792482652,2401,imdb-1,403,Forbidden,Thread Group 1-57,text,false,,666,117,39,39,https://www.imdb.com/,2401,0,2232
+1675792484610,445,djmag,200,OK,Thread Group 1-60,text,true,,93137,232,39,39,https://djmag.com/,127,0,61
+1675792484610,127,djmag-0,301,Moved Permanently,Thread Group 1-60,,true,,658,118,39,39,http://www.djmag.com/,127,0,61
+1675792484737,318,djmag-1,200,OK,Thread Group 1-60,text,true,,92479,114,39,39,https://djmag.com/,219,0,127
+1675792484746,334,imdb,403,Forbidden,Thread Group 1-79,text,false,,1258,234,39,39,https://www.imdb.com/,99,0,42
+1675792484746,99,imdb-0,301,Moved Permanently,Thread Group 1-79,text,true,,592,117,39,39,http://www.imdb.com/,99,0,42
+1675792484845,235,imdb-1,403,Forbidden,Thread Group 1-79,text,false,,666,117,39,39,https://www.imdb.com/,235,0,82
+1675792484472,628,pinterest,200,OK,Thread Group 1-73,text,true,,216724,244,39,39,https://www.pinterest.com/,64,0,22
+1675792484118,982,topgear,200,OK,Thread Group 1-48,text,true,,388762,240,39,39,https://www.topgear.com/,153,0,97
+1675792484472,64,pinterest-0,301,Moved Permanently,Thread Group 1-73,,true,,211,122,39,39,http://www.pinterest.com/,64,0,22
+1675792484118,153,topgear-0,301,Moved Permanently,Thread Group 1-48,,true,,319,120,39,39,http://www.topgear.com/,153,0,97
+1675792484536,564,pinterest-1,200,OK,Thread Group 1-73,text,true,,216513,122,39,39,https://www.pinterest.com/,350,0,110
+1675792484271,829,topgear-1,200,OK,Thread Group 1-48,text,true,,388443,120,39,39,https://www.topgear.com/,527,0,93
+1675792484735,378,djmag,200,OK,Thread Group 1-66,text,true,,93138,232,38,38,https://djmag.com/,112,0,41
+1675792484735,112,djmag-0,301,Moved Permanently,Thread Group 1-66,,true,,654,118,38,38,http://www.djmag.com/,112,0,41
+1675792484847,266,djmag-1,200,OK,Thread Group 1-66,text,true,,92484,114,38,38,https://djmag.com/,178,0,93
+1675792484411,710,pinterest,200,OK,Thread Group 1-72,text,true,,216162,244,38,38,https://www.pinterest.com/,57,0,27
+1675792484411,57,pinterest-0,301,Moved Permanently,Thread Group 1-72,,true,,210,122,38,38,http://www.pinterest.com/,57,0,27
+1675792484468,653,pinterest-1,200,OK,Thread Group 1-72,text,true,,215952,122,38,38,https://www.pinterest.com/,398,0,72
+1675792484748,374,djmag,200,OK,Thread Group 1-68,text,true,,93140,232,38,38,https://djmag.com/,122,0,55
+1675792484748,122,djmag-0,301,Moved Permanently,Thread Group 1-68,,true,,660,118,38,38,http://www.djmag.com/,122,0,55
+1675792484871,251,djmag-1,200,OK,Thread Group 1-68,text,true,,92480,114,38,38,https://djmag.com/,200,0,90
+1675792483947,1192,topgear,200,OK,Thread Group 1-46,text,true,,388755,240,38,38,https://www.topgear.com/,106,0,45
+1675792483947,106,topgear-0,301,Moved Permanently,Thread Group 1-46,,true,,319,120,38,38,http://www.topgear.com/,106,0,45
+1675792484054,1085,topgear-1,200,OK,Thread Group 1-46,text,true,,388436,120,38,38,https://www.topgear.com/,808,0,133
+1675792484791,368,djmag,200,OK,Thread Group 1-67,text,true,,93147,232,38,38,https://djmag.com/,114,0,61
+1675792484791,114,djmag-0,301,Moved Permanently,Thread Group 1-67,,true,,660,118,38,38,http://www.djmag.com/,114,0,61
+1675792484905,254,djmag-1,200,OK,Thread Group 1-67,text,true,,92487,114,38,38,https://djmag.com/,203,0,114
+1675792484730,441,djmag,200,OK,Thread Group 1-64,text,true,,93135,232,38,38,https://djmag.com/,124,0,56
+1675792484730,124,djmag-0,301,Moved Permanently,Thread Group 1-64,,true,,652,118,38,38,http://www.djmag.com/,124,0,56
+1675792484855,316,djmag-1,200,OK,Thread Group 1-64,text,true,,92483,114,38,38,https://djmag.com/,242,0,88
+1675792484855,339,imdb,403,Forbidden,Thread Group 1-80,text,false,,1258,234,38,38,https://www.imdb.com/,67,0,37
+1675792484855,67,imdb-0,301,Moved Permanently,Thread Group 1-80,text,true,,592,117,38,38,http://www.imdb.com/,67,0,37
+1675792484922,272,imdb-1,403,Forbidden,Thread Group 1-80,text,false,,666,117,38,38,https://www.imdb.com/,272,0,89
+1675792484697,528,wikipedia,200,OK,Thread Group 1-52,text,true,,77212,244,38,38,https://www.wikipedia.org/,147,0,66
+1675792484697,147,wikipedia-0,301,TLS Redirect,Thread Group 1-52,,true,,595,122,38,38,http://www.wikipedia.org/,147,0,66
+1675792484845,380,wikipedia-1,200,OK,Thread Group 1-52,text,true,,76617,122,38,38,https://www.wikipedia.org/,233,0,149
+1675792484616,628,pinterest,200,OK,Thread Group 1-75,text,true,,216410,244,38,38,https://www.pinterest.com/,113,0,56
+1675792484616,113,pinterest-0,301,Moved Permanently,Thread Group 1-75,,true,,211,122,38,38,http://www.pinterest.com/,113,0,56
+1675792484730,514,pinterest-1,200,OK,Thread Group 1-75,text,true,,216199,122,38,38,https://www.pinterest.com/,369,0,118
+1675792484740,509,wikipedia,200,OK,Thread Group 1-62,text,true,,77212,244,39,39,https://www.wikipedia.org/,144,0,77
+1675792484740,144,wikipedia-0,301,TLS Redirect,Thread Group 1-62,,true,,595,122,39,39,http://www.wikipedia.org/,144,0,77
+1675792484885,364,wikipedia-1,200,OK,Thread Group 1-62,text,true,,76617,122,39,39,https://www.wikipedia.org/,215,0,147
+1675792483946,1339,imdb,403,Forbidden,Thread Group 1-71,text,false,,1258,234,39,39,https://www.imdb.com/,88,0,38
+1675792483946,88,imdb-0,301,Moved Permanently,Thread Group 1-71,text,true,,592,117,39,39,http://www.imdb.com/,88,0,38
+1675792484034,1251,imdb-1,403,Forbidden,Thread Group 1-71,text,false,,666,117,39,39,https://www.imdb.com/,1251,0,1087
+1675792484949,344,imdb,403,Forbidden,Thread Group 1-81,text,false,,1258,234,39,39,https://www.imdb.com/,95,0,41
+1675792484949,95,imdb-0,301,Moved Permanently,Thread Group 1-81,text,true,,592,117,39,39,http://www.imdb.com/,95,0,41
+1675792485044,249,imdb-1,403,Forbidden,Thread Group 1-81,text,false,,666,117,39,39,https://www.imdb.com/,249,0,82
+1675792484377,957,topgear,200,OK,Thread Group 1-42,text,true,,388762,240,39,39,https://www.topgear.com/,65,0,40
+1675792484377,65,topgear-0,301,Moved Permanently,Thread Group 1-42,,true,,319,120,39,39,http://www.topgear.com/,65,0,40
+1675792484443,891,topgear-1,200,OK,Thread Group 1-42,text,true,,388443,120,39,39,https://www.topgear.com/,627,0,60
+1675792484897,438,djmag,200,OK,Thread Group 1-59,text,true,,93133,232,38,38,https://djmag.com/,105,0,36
+1675792484897,105,djmag-0,301,Moved Permanently,Thread Group 1-59,,true,,652,118,38,38,http://www.djmag.com/,105,0,36
+1675792485002,333,djmag-1,200,OK,Thread Group 1-59,text,true,,92481,114,38,38,https://djmag.com/,194,0,112
+1675792483784,1559,wikipedia,200,OK,Thread Group 1-49,text,true,,77212,244,38,38,https://www.wikipedia.org/,1140,0,1086
+1675792483784,1140,wikipedia-0,301,TLS Redirect,Thread Group 1-49,,true,,595,122,38,38,http://www.wikipedia.org/,1140,0,1086
+1675792484924,419,wikipedia-1,200,OK,Thread Group 1-49,text,true,,76617,122,38,38,https://www.wikipedia.org/,230,0,149
+1675792484760,590,wikipedia,200,OK,Thread Group 1-54,text,true,,77212,244,39,39,https://www.wikipedia.org/,143,0,78
+1675792484760,143,wikipedia-0,301,TLS Redirect,Thread Group 1-54,,true,,595,122,39,39,http://www.wikipedia.org/,143,0,78
+1675792484903,447,wikipedia-1,200,OK,Thread Group 1-54,text,true,,76617,122,39,39,https://www.wikipedia.org/,236,0,162
+1675792483776,1577,wikipedia,200,OK,Thread Group 1-51,text,true,,77212,244,39,39,https://www.wikipedia.org/,1148,0,1094
+1675792483776,1148,wikipedia-0,301,TLS Redirect,Thread Group 1-51,,true,,595,122,39,39,http://www.wikipedia.org/,1148,0,1094
+1675792484924,429,wikipedia-1,200,OK,Thread Group 1-51,text,true,,76617,122,39,39,https://www.wikipedia.org/,260,0,153
+1675792484915,442,djmag,200,OK,Thread Group 1-70,text,true,,93135,232,39,39,https://djmag.com/,109,0,47
+1675792484915,109,djmag-0,301,Moved Permanently,Thread Group 1-70,,true,,656,118,39,39,http://www.djmag.com/,109,0,47
+1675792485025,332,djmag-1,200,OK,Thread Group 1-70,text,true,,92479,114,39,39,https://djmag.com/,216,0,100
+1675792485044,313,imdb,403,Forbidden,Thread Group 1-82,text,false,,1258,234,39,39,https://www.imdb.com/,70,0,41
+1675792485044,70,imdb-0,301,Moved Permanently,Thread Group 1-82,text,true,,592,117,39,39,http://www.imdb.com/,70,0,41
+1675792485115,242,imdb-1,403,Forbidden,Thread Group 1-82,text,false,,666,117,39,39,https://www.imdb.com/,242,0,79
+1675792485018,341,djmag,200,OK,Thread Group 1-53,text,true,,93156,232,39,39,https://djmag.com/,96,0,51
+1675792485018,96,djmag-0,301,Moved Permanently,Thread Group 1-53,,true,,664,118,39,39,http://www.djmag.com/,96,0,51
+1675792485114,245,djmag-1,200,OK,Thread Group 1-53,text,true,,92492,114,39,39,https://djmag.com/,181,0,98
+1675792484828,531,wikipedia,200,OK,Thread Group 1-61,text,true,,77212,244,39,39,https://www.wikipedia.org/,120,0,64
+1675792484828,120,wikipedia-0,301,TLS Redirect,Thread Group 1-61,,true,,595,122,39,39,http://www.wikipedia.org/,120,0,64
+1675792484948,411,wikipedia-1,200,OK,Thread Group 1-61,text,true,,76617,122,39,39,https://www.wikipedia.org/,234,0,152
+1675792484903,458,djmag,200,OK,Thread Group 1-58,text,true,,93132,232,39,39,https://djmag.com/,104,0,45
+1675792484903,104,djmag-0,301,Moved Permanently,Thread Group 1-58,,true,,650,118,39,39,http://www.djmag.com/,104,0,45
+1675792485007,354,djmag-1,200,OK,Thread Group 1-58,text,true,,92482,114,39,39,https://djmag.com/,187,0,106
+1675792484839,526,wikipedia,200,OK,Thread Group 1-63,text,true,,77212,244,39,39,https://www.wikipedia.org/,125,0,64
+1675792484839,125,wikipedia-0,301,TLS Redirect,Thread Group 1-63,,true,,595,122,39,39,http://www.wikipedia.org/,125,0,64
+1675792484964,401,wikipedia-1,200,OK,Thread Group 1-63,text,true,,76617,122,39,39,https://www.wikipedia.org/,247,0,158
+1675792484910,462,djmag,200,OK,Thread Group 1-69,text,true,,93144,232,39,39,https://djmag.com/,125,0,44
+1675792484910,125,djmag-0,301,Moved Permanently,Thread Group 1-69,,true,,654,118,39,39,http://www.djmag.com/,125,0,44
+1675792485036,336,djmag-1,200,OK,Thread Group 1-69,text,true,,92490,114,39,39,https://djmag.com/,216,0,102
+1675792484531,882,pinterest,200,OK,Thread Group 1-74,text,true,,216266,244,39,39,https://www.pinterest.com/,340,0,40
+1675792484531,340,pinterest-0,301,Moved Permanently,Thread Group 1-74,,true,,211,122,39,39,http://www.pinterest.com/,340,0,40
+1675792484871,542,pinterest-1,200,OK,Thread Group 1-74,text,true,,216055,122,39,39,https://www.pinterest.com/,380,0,91
+1675792484727,692,pinterest,200,OK,Thread Group 1-76,text,true,,217309,244,39,39,https://www.pinterest.com/,111,0,50
+1675792484727,111,pinterest-0,301,Moved Permanently,Thread Group 1-76,,true,,211,122,39,39,http://www.pinterest.com/,111,0,50
+1675792484838,581,pinterest-1,200,OK,Thread Group 1-76,text,true,,217098,122,39,39,https://www.pinterest.com/,370,0,92
+1675792484956,498,wikipedia,200,OK,Thread Group 1-65,text,true,,77212,244,40,40,https://www.wikipedia.org/,136,0,87
+1675792484956,136,wikipedia-0,301,TLS Redirect,Thread Group 1-65,,true,,595,122,40,40,http://www.wikipedia.org/,136,0,87
+1675792485093,361,wikipedia-1,200,OK,Thread Group 1-65,text,true,,76617,122,40,40,https://www.wikipedia.org/,226,0,142
+1675792484965,500,wikipedia,200,OK,Thread Group 1-56,text,true,,77212,244,40,40,https://www.wikipedia.org/,132,0,79
+1675792484965,132,wikipedia-0,301,TLS Redirect,Thread Group 1-56,,true,,595,122,40,40,http://www.wikipedia.org/,132,0,79
+1675792485097,368,wikipedia-1,200,OK,Thread Group 1-56,text,true,,76617,122,40,40,https://www.wikipedia.org/,239,0,149
+1675792484707,788,wikipedia,200,OK,Thread Group 1-50,text,true,,77212,244,40,40,https://www.wikipedia.org/,400,0,62
+1675792484707,400,wikipedia-0,301,TLS Redirect,Thread Group 1-50,,true,,595,122,40,40,http://www.wikipedia.org/,400,0,62
+1675792485107,388,wikipedia-1,200,OK,Thread Group 1-50,text,true,,76617,122,40,40,https://www.wikipedia.org/,241,0,160
+1675792485146,350,imdb,403,Forbidden,Thread Group 1-83,text,false,,1258,234,40,40,https://www.imdb.com/,79,0,34
+1675792485146,79,imdb-0,301,Moved Permanently,Thread Group 1-83,text,true,,592,117,40,40,http://www.imdb.com/,79,0,34
+1675792485225,271,imdb-1,403,Forbidden,Thread Group 1-83,text,false,,666,117,40,40,https://www.imdb.com/,271,0,110
+1675792485100,399,djmag,200,OK,Thread Group 1-73,text,true,,93143,232,40,40,https://djmag.com/,124,0,39
+1675792485100,124,djmag-0,301,Moved Permanently,Thread Group 1-73,,true,,654,118,40,40,http://www.djmag.com/,124,0,39
+1675792485225,274,djmag-1,200,OK,Thread Group 1-73,text,true,,92489,114,40,40,https://djmag.com/,201,0,133
+1675792484894,608,pinterest,200,OK,Thread Group 1-77,text,true,,215466,244,40,40,https://www.pinterest.com/,84,0,38
+1675792484894,84,pinterest-0,301,Moved Permanently,Thread Group 1-77,,true,,210,122,40,40,http://www.pinterest.com/,84,0,38
+1675792484978,524,pinterest-1,200,OK,Thread Group 1-77,text,true,,215256,122,40,40,https://www.pinterest.com/,377,0,109
+1675792485122,387,djmag,200,OK,Thread Group 1-72,text,true,,93144,232,40,40,https://djmag.com/,105,0,42
+1675792485122,105,djmag-0,301,Moved Permanently,Thread Group 1-72,,true,,656,118,40,40,http://www.djmag.com/,105,0,42
+1675792485227,282,djmag-1,200,OK,Thread Group 1-72,text,true,,92488,114,40,40,https://djmag.com/,208,0,135
+1675792484555,958,topgear,200,OK,Thread Group 1-45,text,true,,388762,240,40,40,https://www.topgear.com/,112,0,53
+1675792484555,112,topgear-0,301,Moved Permanently,Thread Group 1-45,,true,,319,120,40,40,http://www.topgear.com/,112,0,53
+1675792484668,845,topgear-1,200,OK,Thread Group 1-45,text,true,,388443,120,40,40,https://www.topgear.com/,637,0,113
+1675792485055,487,wikipedia,200,OK,Thread Group 1-60,text,true,,77212,244,39,39,https://www.wikipedia.org/,117,0,52
+1675792485055,117,wikipedia-0,301,TLS Redirect,Thread Group 1-60,,true,,595,122,39,39,http://www.wikipedia.org/,117,0,52
+1675792485172,370,wikipedia-1,200,OK,Thread Group 1-60,text,true,,76617,122,39,39,https://www.wikipedia.org/,256,0,172
+1675792485245,312,imdb,403,Forbidden,Thread Group 1-84,text,false,,1258,234,40,40,https://www.imdb.com/,92,0,48
+1675792485245,92,imdb-0,301,Moved Permanently,Thread Group 1-84,text,true,,592,117,40,40,http://www.imdb.com/,92,0,48
+1675792485338,219,imdb-1,403,Forbidden,Thread Group 1-84,text,false,,666,117,40,40,https://www.imdb.com/,219,0,82
+1675792485244,358,djmag,200,OK,Thread Group 1-75,text,true,,93151,232,40,40,https://djmag.com/,133,0,52
+1675792485244,133,djmag-0,301,Moved Permanently,Thread Group 1-75,,true,,656,118,40,40,http://www.djmag.com/,133,0,52
+1675792485378,224,djmag-1,200,OK,Thread Group 1-75,text,true,,92495,114,40,40,https://djmag.com/,163,0,110
+1675792485016,605,pinterest,200,OK,Thread Group 1-78,text,true,,215443,244,40,40,https://www.pinterest.com/,90,0,53
+1675792485016,90,pinterest-0,301,Moved Permanently,Thread Group 1-78,,true,,211,122,40,40,http://www.pinterest.com/,90,0,53
+1675792485106,515,pinterest-1,200,OK,Thread Group 1-78,text,true,,215232,122,40,40,https://www.pinterest.com/,397,0,110
+1675792485080,555,pinterest,200,OK,Thread Group 1-79,text,true,,215827,244,40,40,https://www.pinterest.com/,90,0,41
+1675792485080,90,pinterest-0,301,Moved Permanently,Thread Group 1-79,,true,,211,122,40,40,http://www.pinterest.com/,90,0,41
+1675792485170,465,pinterest-1,200,OK,Thread Group 1-79,text,true,,215616,122,40,40,https://www.pinterest.com/,357,0,116
+1675792485114,534,wikipedia,200,OK,Thread Group 1-66,text,true,,77212,244,41,41,https://www.wikipedia.org/,137,0,58
+1675792485114,137,wikipedia-0,301,TLS Redirect,Thread Group 1-66,,true,,595,122,41,41,http://www.wikipedia.org/,137,0,58
+1675792485251,397,wikipedia-1,200,OK,Thread Group 1-66,text,true,,76617,122,41,41,https://www.wikipedia.org/,260,0,172
+1675792485054,594,pinterest,200,OK,Thread Group 1-57,text,true,,216663,244,41,41,https://www.pinterest.com/,73,0,38
+1675792485054,73,pinterest-0,301,Moved Permanently,Thread Group 1-57,,true,,210,122,41,41,http://www.pinterest.com/,73,0,38
+1675792485128,520,pinterest-1,200,OK,Thread Group 1-57,text,true,,216453,122,41,41,https://www.pinterest.com/,388,0,101
+1675792485171,479,wikipedia,200,OK,Thread Group 1-64,text,true,,77212,244,41,41,https://www.wikipedia.org/,148,0,79
+1675792485171,148,wikipedia-0,301,TLS Redirect,Thread Group 1-64,,true,,595,122,41,41,http://www.wikipedia.org/,148,0,79
+1675792485319,331,wikipedia-1,200,OK,Thread Group 1-64,text,true,,76617,122,41,41,https://www.wikipedia.org/,204,0,135
+1675792485159,491,wikipedia,200,OK,Thread Group 1-67,text,true,,77212,244,41,41,https://www.wikipedia.org/,144,0,74
+1675792485159,144,wikipedia-0,301,TLS Redirect,Thread Group 1-67,,true,,595,122,41,41,http://www.wikipedia.org/,144,0,74
+1675792485303,347,wikipedia-1,200,OK,Thread Group 1-67,text,true,,76617,122,41,41,https://www.wikipedia.org/,220,0,148
+1675792485345,306,imdb,403,Forbidden,Thread Group 1-85,text,false,,1258,234,41,41,https://www.imdb.com/,71,0,39
+1675792485345,71,imdb-0,301,Moved Permanently,Thread Group 1-85,text,true,,592,117,41,41,http://www.imdb.com/,71,0,39
+1675792485417,234,imdb-1,403,Forbidden,Thread Group 1-85,text,false,,666,117,41,41,https://www.imdb.com/,234,0,87
+1675792485445,248,imdb,403,Forbidden,Thread Group 1-86,text,false,,1258,234,41,41,https://www.imdb.com/,73,0,42
+1675792485445,73,imdb-0,301,Moved Permanently,Thread Group 1-86,text,true,,592,117,41,41,http://www.imdb.com/,73,0,42
+1675792485518,175,imdb-1,403,Forbidden,Thread Group 1-86,text,false,,666,117,41,41,https://www.imdb.com/,175,0,45
+1675792485419,276,djmag,200,OK,Thread Group 1-76,text,true,,93138,232,41,41,https://djmag.com/,90,0,38
+1675792485419,90,djmag-0,301,Moved Permanently,Thread Group 1-76,,true,,652,118,41,41,http://www.djmag.com/,90,0,38
+1675792485509,186,djmag-1,200,OK,Thread Group 1-76,text,true,,92486,114,41,41,https://djmag.com/,143,0,78
+1675792484754,963,wikipedia,200,OK,Thread Group 1-55,text,true,,77212,244,41,41,https://www.wikipedia.org/,138,0,77
+1675792484754,138,wikipedia-0,301,TLS Redirect,Thread Group 1-55,,true,,595,122,41,41,http://www.wikipedia.org/,138,0,77
+1675792484892,825,wikipedia-1,200,OK,Thread Group 1-55,text,true,,76617,122,41,41,https://www.wikipedia.org/,750,0,634
+1675792485414,314,djmag,200,OK,Thread Group 1-74,text,true,,93140,232,41,41,https://djmag.com/,102,0,43
+1675792485414,102,djmag-0,301,Moved Permanently,Thread Group 1-74,,true,,650,118,41,41,http://www.djmag.com/,102,0,43
+1675792485516,212,djmag-1,200,OK,Thread Group 1-74,text,true,,92490,114,41,41,https://djmag.com/,150,0,64
+1675792485336,436,wikipedia,200,OK,Thread Group 1-59,text,true,,77212,244,42,42,https://www.wikipedia.org/,122,0,65
+1675792485336,122,wikipedia-0,301,TLS Redirect,Thread Group 1-59,,true,,595,122,42,42,http://www.wikipedia.org/,122,0,65
+1675792485458,314,wikipedia-1,200,OK,Thread Group 1-59,text,true,,76617,122,42,42,https://www.wikipedia.org/,195,0,121
+1675792485194,608,pinterest,200,OK,Thread Group 1-80,text,true,,216075,244,42,42,https://www.pinterest.com/,114,0,62
+1675792485194,114,pinterest-0,301,Moved Permanently,Thread Group 1-80,,true,,210,122,42,42,http://www.pinterest.com/,114,0,62
+1675792485308,494,pinterest-1,200,OK,Thread Group 1-80,text,true,,215865,122,42,42,https://www.pinterest.com/,365,0,106
+1675792485361,447,wikipedia,200,OK,Thread Group 1-58,text,true,,77212,244,42,42,https://www.wikipedia.org/,126,0,61
+1675792485361,126,wikipedia-0,301,TLS Redirect,Thread Group 1-58,,true,,595,122,42,42,http://www.wikipedia.org/,126,0,61
+1675792485487,321,wikipedia-1,200,OK,Thread Group 1-58,text,true,,76617,122,42,42,https://www.wikipedia.org/,182,0,121
+1675792485359,459,wikipedia,200,OK,Thread Group 1-53,text,true,,77212,244,42,42,https://www.wikipedia.org/,128,0,63
+1675792485359,128,wikipedia-0,301,TLS Redirect,Thread Group 1-53,,true,,595,122,42,42,http://www.wikipedia.org/,128,0,63
+1675792485487,331,wikipedia-1,200,OK,Thread Group 1-53,text,true,,76617,122,42,42,https://www.wikipedia.org/,182,0,122
+1675792485357,466,wikipedia,200,OK,Thread Group 1-70,text,true,,77212,244,42,42,https://www.wikipedia.org/,130,0,60
+1675792485357,130,wikipedia-0,301,TLS Redirect,Thread Group 1-70,,true,,595,122,42,42,http://www.wikipedia.org/,130,0,60
+1675792485490,333,wikipedia-1,200,OK,Thread Group 1-70,text,true,,76617,122,42,42,https://www.wikipedia.org/,185,0,129
+1675792484985,838,topgear,200,OK,Thread Group 1-47,text,true,,388755,240,42,42,https://www.topgear.com/,106,0,62
+1675792484985,106,topgear-0,301,Moved Permanently,Thread Group 1-47,,true,,319,120,42,42,http://www.topgear.com/,106,0,62
+1675792485092,731,topgear-1,200,OK,Thread Group 1-47,text,true,,388436,120,42,42,https://www.topgear.com/,497,0,88
+1675792485372,453,wikipedia,200,OK,Thread Group 1-69,text,true,,77212,244,41,41,https://www.wikipedia.org/,131,0,62
+1675792485372,131,wikipedia-0,301,TLS Redirect,Thread Group 1-69,,true,,595,122,41,41,http://www.wikipedia.org/,131,0,62
+1675792485503,322,wikipedia-1,200,OK,Thread Group 1-69,text,true,,76617,122,41,41,https://www.wikipedia.org/,188,0,130
+1675792485544,292,imdb,403,Forbidden,Thread Group 1-87,text,false,,1258,234,41,41,https://www.imdb.com/,52,0,23
+1675792485544,52,imdb-0,301,Moved Permanently,Thread Group 1-87,text,true,,592,117,41,41,http://www.imdb.com/,52,0,23
+1675792485597,239,imdb-1,403,Forbidden,Thread Group 1-87,text,false,,666,117,41,41,https://www.imdb.com/,239,0,76
+1675792485502,335,djmag,200,OK,Thread Group 1-77,text,true,,93144,232,41,41,https://djmag.com/,79,0,26
+1675792485502,79,djmag-0,301,Moved Permanently,Thread Group 1-77,,true,,656,118,41,41,http://www.djmag.com/,79,0,26
+1675792485581,256,djmag-1,200,OK,Thread Group 1-77,text,true,,92488,114,41,41,https://djmag.com/,184,0,97
+1675792485123,727,wikipedia,200,OK,Thread Group 1-68,text,true,,77212,244,42,42,https://www.wikipedia.org/,397,0,57
+1675792485123,397,wikipedia-0,301,TLS Redirect,Thread Group 1-68,,true,,595,122,42,42,http://www.wikipedia.org/,397,0,57
+1675792485520,330,wikipedia-1,200,OK,Thread Group 1-68,text,true,,76617,122,42,42,https://www.wikipedia.org/,209,0,135
+1675792485286,617,pinterest,200,OK,Thread Group 1-71,text,true,,216702,244,42,42,https://www.pinterest.com/,92,0,51
+1675792485286,92,pinterest-0,301,Moved Permanently,Thread Group 1-71,,true,,211,122,42,42,http://www.pinterest.com/,92,0,51
+1675792485378,525,pinterest-1,200,OK,Thread Group 1-71,text,true,,216491,122,42,42,https://www.pinterest.com/,392,0,118
+1675792485647,260,imdb,403,Forbidden,Thread Group 1-88,text,false,,1258,234,42,42,https://www.imdb.com/,35,0,21
+1675792485647,35,imdb-0,301,Moved Permanently,Thread Group 1-88,text,true,,592,117,42,42,http://www.imdb.com/,35,0,21
+1675792485683,224,imdb-1,403,Forbidden,Thread Group 1-88,text,false,,666,117,42,42,https://www.imdb.com/,224,0,73
+1675792485358,560,pinterest,200,OK,Thread Group 1-82,text,true,,216112,244,42,42,https://www.pinterest.com/,83,0,43
+1675792485358,83,pinterest-0,301,Moved Permanently,Thread Group 1-82,,true,,211,122,42,42,http://www.pinterest.com/,83,0,43
+1675792485441,477,pinterest-1,200,OK,Thread Group 1-82,text,true,,215901,122,42,42,https://www.pinterest.com/,344,0,91
+1675792485499,437,wikipedia,200,OK,Thread Group 1-73,text,true,,77212,244,42,42,https://www.wikipedia.org/,103,0,47
+1675792485499,103,wikipedia-0,301,TLS Redirect,Thread Group 1-73,,true,,595,122,42,42,http://www.wikipedia.org/,103,0,47
+1675792485603,333,wikipedia-1,200,OK,Thread Group 1-73,text,true,,76617,122,42,42,https://www.wikipedia.org/,201,0,113
+1675792485636,320,djmag,200,OK,Thread Group 1-79,text,true,,93136,232,43,43,https://djmag.com/,62,0,32
+1675792485636,62,djmag-0,301,Moved Permanently,Thread Group 1-79,,true,,654,118,43,43,http://www.djmag.com/,62,0,32
+1675792485699,257,djmag-1,200,OK,Thread Group 1-79,text,true,,92482,114,43,43,https://djmag.com/,186,0,121
+1675792485509,452,wikipedia,200,OK,Thread Group 1-72,text,true,,77212,244,43,43,https://www.wikipedia.org/,112,0,50
+1675792485509,112,wikipedia-0,301,TLS Redirect,Thread Group 1-72,,true,,595,122,43,43,http://www.wikipedia.org/,112,0,50
+1675792485621,340,wikipedia-1,200,OK,Thread Group 1-72,text,true,,76617,122,43,43,https://www.wikipedia.org/,213,0,123
+1675792485294,688,pinterest,200,OK,Thread Group 1-81,text,true,,221487,244,43,43,https://www.pinterest.com/,90,0,51
+1675792485294,90,pinterest-0,301,Moved Permanently,Thread Group 1-81,,true,,211,122,43,43,http://www.pinterest.com/,90,0,51
+1675792485385,597,pinterest-1,200,OK,Thread Group 1-81,text,true,,221276,122,43,43,https://www.pinterest.com/,464,0,92
+1675792485649,344,djmag,200,OK,Thread Group 1-57,text,true,,93134,232,43,43,https://djmag.com/,77,0,25
+1675792485649,77,djmag-0,301,Moved Permanently,Thread Group 1-57,,true,,656,118,43,43,http://www.djmag.com/,77,0,25
+1675792485727,266,djmag-1,200,OK,Thread Group 1-57,text,true,,92478,114,43,43,https://djmag.com/,192,0,116
+1675792485622,382,djmag,200,OK,Thread Group 1-78,text,true,,93140,232,43,43,https://djmag.com/,76,0,41
+1675792485622,76,djmag-0,301,Moved Permanently,Thread Group 1-78,,true,,652,118,43,43,http://www.djmag.com/,76,0,41
+1675792485699,305,djmag-1,200,OK,Thread Group 1-78,text,true,,92488,114,43,43,https://djmag.com/,216,0,125
+1675792485744,305,imdb,403,Forbidden,Thread Group 1-89,text,false,,1258,234,44,44,https://www.imdb.com/,92,0,51
+1675792485744,92,imdb-0,301,Moved Permanently,Thread Group 1-89,text,true,,592,117,44,44,http://www.imdb.com/,92,0,51
+1675792485837,212,imdb-1,403,Forbidden,Thread Group 1-89,text,false,,666,117,44,44,https://www.imdb.com/,212,0,58
+1675792485249,809,topgear,200,OK,Thread Group 1-62,text,true,,388820,240,44,44,https://www.topgear.com/,103,0,54
+1675792485249,103,topgear-0,301,Moved Permanently,Thread Group 1-62,,true,,319,120,44,44,http://www.topgear.com/,103,0,54
+1675792485352,706,topgear-1,200,OK,Thread Group 1-62,text,true,,388501,120,44,44,https://www.topgear.com/,491,0,94
+1675792485603,464,wikipedia,200,OK,Thread Group 1-75,text,true,,77212,244,43,43,https://www.wikipedia.org/,95,0,49
+1675792485603,95,wikipedia-0,301,TLS Redirect,Thread Group 1-75,,true,,595,122,43,43,http://www.wikipedia.org/,95,0,49
+1675792485699,368,wikipedia-1,200,OK,Thread Group 1-75,text,true,,76617,122,43,43,https://www.wikipedia.org/,229,0,149
+1675792485497,626,pinterest,200,OK,Thread Group 1-83,text,true,,216169,244,43,43,https://www.pinterest.com/,58,0,29
+1675792485497,58,pinterest-0,301,Moved Permanently,Thread Group 1-83,,true,,209,122,43,43,http://www.pinterest.com/,58,0,29
+1675792485555,568,pinterest-1,200,OK,Thread Group 1-83,text,true,,215960,122,43,43,https://www.pinterest.com/,423,0,93
+1675792485845,292,imdb,403,Forbidden,Thread Group 1-90,text,false,,1258,234,43,43,https://www.imdb.com/,40,0,19
+1675792485845,40,imdb-0,301,Moved Permanently,Thread Group 1-90,text,true,,592,117,43,43,http://www.imdb.com/,40,0,19
+1675792485885,252,imdb-1,403,Forbidden,Thread Group 1-90,text,false,,666,117,43,43,https://www.imdb.com/,252,0,83
+1675792485695,545,wikipedia,200,OK,Thread Group 1-76,text,true,,77212,244,44,44,https://www.wikipedia.org/,132,0,58
+1675792485695,132,wikipedia-0,301,TLS Redirect,Thread Group 1-76,,true,,595,122,44,44,http://www.wikipedia.org/,132,0,58
+1675792485828,412,wikipedia-1,200,OK,Thread Group 1-76,text,true,,76617,122,44,44,https://www.wikipedia.org/,207,0,130
+1675792485557,691,pinterest,200,OK,Thread Group 1-84,text,true,,215998,244,45,45,https://www.pinterest.com/,83,0,40
+1675792485557,83,pinterest-0,301,Moved Permanently,Thread Group 1-84,,true,,210,122,45,45,http://www.pinterest.com/,83,0,40
+1675792485640,608,pinterest-1,200,OK,Thread Group 1-84,text,true,,215788,122,45,45,https://www.pinterest.com/,388,0,73
+1675792485359,896,topgear,200,OK,Thread Group 1-61,text,true,,388820,240,45,45,https://www.topgear.com/,88,0,44
+1675792485359,88,topgear-0,301,Moved Permanently,Thread Group 1-61,,true,,319,120,45,45,http://www.topgear.com/,88,0,44
+1675792485448,807,topgear-1,200,OK,Thread Group 1-61,text,true,,388501,120,45,45,https://www.topgear.com/,489,0,86
+1675792485802,471,djmag,200,OK,Thread Group 1-80,text,true,,93137,232,44,44,https://djmag.com/,90,0,45
+1675792485802,90,djmag-0,301,Moved Permanently,Thread Group 1-80,,true,,652,118,44,44,http://www.djmag.com/,90,0,45
+1675792485892,381,djmag-1,200,OK,Thread Group 1-80,text,true,,92485,114,44,44,https://djmag.com/,312,0,124
+1675792485945,348,imdb,403,Forbidden,Thread Group 1-91,text,false,,1258,234,44,44,https://www.imdb.com/,89,0,54
+1675792485945,89,imdb-0,301,Moved Permanently,Thread Group 1-91,text,true,,592,117,44,44,http://www.imdb.com/,89,0,54
+1675792486034,259,imdb-1,403,Forbidden,Thread Group 1-91,text,false,,666,117,44,44,https://www.imdb.com/,258,0,85
+1675792485496,832,topgear,200,OK,Thread Group 1-50,text,true,,388755,240,44,44,https://www.topgear.com/,60,0,30
+1675792485496,60,topgear-0,301,Moved Permanently,Thread Group 1-50,,true,,319,120,44,44,http://www.topgear.com/,60,0,30
+1675792485556,772,topgear-1,200,OK,Thread Group 1-50,text,true,,388436,120,44,44,https://www.topgear.com/,437,0,90
+1675792485903,432,djmag,200,OK,Thread Group 1-71,text,true,,93143,232,43,43,https://djmag.com/,108,0,49
+1675792485903,108,djmag-0,301,Moved Permanently,Thread Group 1-71,,true,,658,118,43,43,http://www.djmag.com/,108,0,49
+1675792486011,324,djmag-1,200,OK,Thread Group 1-71,text,true,,92485,114,43,43,https://djmag.com/,198,0,107
+1675792485918,435,djmag,200,OK,Thread Group 1-82,text,true,,93129,232,44,44,https://djmag.com/,103,0,52
+1675792485918,103,djmag-0,301,Moved Permanently,Thread Group 1-82,,true,,650,118,44,44,http://www.djmag.com/,103,0,52
+1675792486022,331,djmag-1,200,OK,Thread Group 1-82,text,true,,92479,114,44,44,https://djmag.com/,221,0,111
+1675792485652,711,pinterest,200,OK,Thread Group 1-85,text,true,,216806,244,44,44,https://www.pinterest.com/,74,0,29
+1675792485652,74,pinterest-0,301,Moved Permanently,Thread Group 1-85,,true,,211,122,44,44,http://www.pinterest.com/,74,0,29
+1675792485727,636,pinterest-1,200,OK,Thread Group 1-85,text,true,,216595,122,44,44,https://www.pinterest.com/,400,0,108
+1675792485351,1077,topgear,200,OK,Thread Group 1-54,text,true,,388762,240,44,44,https://www.topgear.com/,83,0,43
+1675792485351,83,topgear-0,301,Moved Permanently,Thread Group 1-54,,true,,319,120,44,44,http://www.topgear.com/,83,0,43
+1675792485435,993,topgear-1,200,OK,Thread Group 1-54,text,true,,388443,120,44,44,https://www.topgear.com/,688,0,90
+1675792485366,1069,topgear,200,OK,Thread Group 1-63,text,true,,388755,240,43,43,https://www.topgear.com/,81,0,37
+1675792485366,81,topgear-0,301,Moved Permanently,Thread Group 1-63,,true,,319,120,43,43,http://www.topgear.com/,81,0,37
+1675792485448,987,topgear-1,200,OK,Thread Group 1-63,text,true,,388436,120,43,43,https://www.topgear.com/,527,0,85
+1675792485837,707,wikipedia,200,OK,Thread Group 1-77,text,true,,77212,244,44,44,https://www.wikipedia.org/,108,0,44
+1675792485837,108,wikipedia-0,301,TLS Redirect,Thread Group 1-77,,true,,595,122,44,44,http://www.wikipedia.org/,108,0,44
+1675792485945,599,wikipedia-1,200,OK,Thread Group 1-77,text,true,,76617,122,44,44,https://www.wikipedia.org/,322,0,153
+1675792485718,845,topgear,200,OK,Thread Group 1-55,text,true,,388755,240,44,44,https://www.topgear.com/,98,0,46
+1675792485718,98,topgear-0,301,Moved Permanently,Thread Group 1-55,,true,,319,120,44,44,http://www.topgear.com/,98,0,46
+1675792485817,746,topgear-1,200,OK,Thread Group 1-55,text,true,,388436,120,44,44,https://www.topgear.com/,391,0,79
+1675792485956,630,wikipedia,200,OK,Thread Group 1-79,text,true,,77212,244,43,43,https://www.wikipedia.org/,135,0,71
+1675792485956,135,wikipedia-0,301,TLS Redirect,Thread Group 1-79,,true,,595,122,43,43,http://www.wikipedia.org/,135,0,71
+1675792486091,495,wikipedia-1,200,OK,Thread Group 1-79,text,true,,76617,122,43,43,https://www.wikipedia.org/,252,0,167
+1675792486246,349,imdb,403,Forbidden,Thread Group 1-94,text,false,,1258,234,43,43,https://www.imdb.com/,83,0,52
+1675792486246,83,imdb-0,301,Moved Permanently,Thread Group 1-94,text,true,,592,117,43,43,http://www.imdb.com/,83,0,52
+1675792486329,266,imdb-1,403,Forbidden,Thread Group 1-94,text,false,,666,117,43,43,https://www.imdb.com/,266,0,105
+1675792486004,597,wikipedia,200,OK,Thread Group 1-78,text,true,,77212,244,43,43,https://www.wikipedia.org/,142,0,62
+1675792486004,142,wikipedia-0,301,TLS Redirect,Thread Group 1-78,,true,,595,122,43,43,http://www.wikipedia.org/,142,0,62
+1675792486146,455,wikipedia-1,200,OK,Thread Group 1-78,text,true,,76617,122,43,43,https://www.wikipedia.org/,259,0,166
+1675792485908,696,pinterest,200,OK,Thread Group 1-88,text,true,,216746,244,43,43,https://www.pinterest.com/,105,0,50
+1675792485908,105,pinterest-0,301,Moved Permanently,Thread Group 1-88,,true,,211,122,43,43,http://www.pinterest.com/,105,0,50
+1675792486013,591,pinterest-1,200,OK,Thread Group 1-88,text,true,,216535,122,43,43,https://www.pinterest.com/,376,0,97
+1675792485650,956,topgear,200,OK,Thread Group 1-64,text,true,,388762,240,43,43,https://www.topgear.com/,76,0,31
+1675792485650,76,topgear-0,301,Moved Permanently,Thread Group 1-64,,true,,319,120,43,43,http://www.topgear.com/,76,0,31
+1675792485727,879,topgear-1,200,OK,Thread Group 1-64,text,true,,388443,120,43,43,https://www.topgear.com/,572,0,111
+1675792485836,789,pinterest,200,OK,Thread Group 1-87,text,true,,216367,244,42,42,https://www.pinterest.com/,65,0,28
+1675792485836,65,pinterest-0,301,Moved Permanently,Thread Group 1-87,,true,,209,122,42,42,http://www.pinterest.com/,65,0,28
+1675792485901,724,pinterest-1,200,OK,Thread Group 1-87,text,true,,216158,122,42,42,https://www.pinterest.com/,486,0,109
+1675792486045,587,imdb,403,Forbidden,Thread Group 1-92,text,false,,1258,234,42,42,https://www.imdb.com/,321,0,39
+1675792486045,321,imdb-0,301,Moved Permanently,Thread Group 1-92,text,true,,592,117,42,42,http://www.imdb.com/,321,0,39
+1675792486366,266,imdb-1,403,Forbidden,Thread Group 1-92,text,false,,666,117,42,42,https://www.imdb.com/,266,0,109
+1675792485728,974,wikipedia,200,OK,Thread Group 1-74,text,true,,77212,244,43,43,https://www.wikipedia.org/,127,0,77
+1675792485728,127,wikipedia-0,301,TLS Redirect,Thread Group 1-74,,true,,595,122,43,43,http://www.wikipedia.org/,127,0,77
+1675792485855,847,wikipedia-1,200,OK,Thread Group 1-74,text,true,,76617,122,43,43,https://www.wikipedia.org/,233,0,156
+1675792485353,1399,topgear,200,OK,Thread Group 1-51,text,true,,388755,240,44,44,https://www.topgear.com/,81,0,43
+1675792485353,81,topgear-0,301,Moved Permanently,Thread Group 1-51,,true,,319,120,44,44,http://www.topgear.com/,81,0,43
+1675792485435,1317,topgear-1,200,OK,Thread Group 1-51,text,true,,388436,120,44,44,https://www.topgear.com/,908,0,94
+1675792485651,1158,topgear,200,OK,Thread Group 1-67,text,true,,388820,240,43,43,https://www.topgear.com/,75,0,30
+1675792485651,75,topgear-0,301,Moved Permanently,Thread Group 1-67,,true,,319,120,43,43,http://www.topgear.com/,75,0,30
+1675792485727,1082,topgear-1,200,OK,Thread Group 1-67,text,true,,388501,120,43,43,https://www.topgear.com/,621,0,108
+1675792485693,1133,pinterest,200,OK,Thread Group 1-86,text,true,,221772,244,42,42,https://www.pinterest.com/,84,0,40
+1675792485693,84,pinterest-0,301,Moved Permanently,Thread Group 1-86,,true,,211,122,42,42,http://www.pinterest.com/,84,0,40
+1675792485777,1049,pinterest-1,200,OK,Thread Group 1-86,text,true,,221561,122,42,42,https://www.pinterest.com/,388,0,95
+1675792486050,815,pinterest,200,OK,Thread Group 1-89,text,true,,215925,244,43,43,https://www.pinterest.com/,104,0,45
+1675792486050,104,pinterest-0,301,Moved Permanently,Thread Group 1-89,,true,,210,122,43,43,http://www.pinterest.com/,104,0,45
+1675792486155,710,pinterest-1,200,OK,Thread Group 1-89,text,true,,215715,122,43,43,https://www.pinterest.com/,432,0,128
+1675792486544,356,imdb,403,Forbidden,Thread Group 1-97,text,false,,1258,234,43,43,https://www.imdb.com/,87,0,45
+1675792486544,87,imdb-0,301,Moved Permanently,Thread Group 1-97,text,true,,592,117,43,43,http://www.imdb.com/,87,0,45
+1675792486631,269,imdb-1,403,Forbidden,Thread Group 1-97,text,false,,666,117,43,43,https://www.imdb.com/,269,0,106
+1675792486137,787,pinterest,200,OK,Thread Group 1-90,text,true,,215833,244,43,43,https://www.pinterest.com/,110,0,63
+1675792486137,110,pinterest-0,301,Moved Permanently,Thread Group 1-90,,true,,210,122,43,43,http://www.pinterest.com/,110,0,63
+1675792486248,676,pinterest-1,200,OK,Thread Group 1-90,text,true,,215623,122,43,43,https://www.pinterest.com/,359,0,119
+1675792485937,991,topgear,200,OK,Thread Group 1-73,text,true,,388755,240,43,43,https://www.topgear.com/,116,0,67
+1675792485937,116,topgear-0,301,Moved Permanently,Thread Group 1-73,,true,,319,120,43,43,http://www.topgear.com/,116,0,67
+1675792486054,874,topgear-1,200,OK,Thread Group 1-73,text,true,,388436,120,43,43,https://www.topgear.com/,435,0,118
+1675792485225,1710,topgear,200,OK,Thread Group 1-52,text,true,,388755,240,42,42,https://www.topgear.com/,112,0,60
+1675792485225,112,topgear-0,301,Moved Permanently,Thread Group 1-52,,true,,319,120,42,42,http://www.topgear.com/,112,0,60
+1675792485338,1597,topgear-1,200,OK,Thread Group 1-52,text,true,,388436,120,42,42,https://www.topgear.com/,1181,0,95
+1675792485825,1115,topgear,200,OK,Thread Group 1-69,text,true,,388762,240,41,41,https://www.topgear.com/,67,0,30
+1675792485825,67,topgear-0,301,Moved Permanently,Thread Group 1-69,,true,,319,120,41,41,http://www.topgear.com/,67,0,30
+1675792485893,1047,topgear-1,200,OK,Thread Group 1-69,text,true,,388443,120,41,41,https://www.topgear.com/,660,0,110
+1675792486274,678,wikipedia,200,OK,Thread Group 1-80,text,true,,77212,244,40,40,https://www.wikipedia.org/,135,0,60
+1675792486274,135,wikipedia-0,301,TLS Redirect,Thread Group 1-80,,true,,595,122,40,40,http://www.wikipedia.org/,135,0,60
+1675792486409,543,wikipedia-1,200,OK,Thread Group 1-80,text,true,,76617,122,40,40,https://www.wikipedia.org/,399,0,171
+1675792486353,619,wikipedia,200,OK,Thread Group 1-82,text,true,,77212,244,40,40,https://www.wikipedia.org/,163,0,82
+1675792486353,163,wikipedia-0,301,TLS Redirect,Thread Group 1-82,,true,,595,122,40,40,http://www.wikipedia.org/,163,0,82
+1675792486516,456,wikipedia-1,200,OK,Thread Group 1-82,text,true,,76617,122,40,40,https://www.wikipedia.org/,312,0,156
+1675792485465,1528,topgear,200,OK,Thread Group 1-56,text,true,,388820,240,40,40,https://www.topgear.com/,75,0,45
+1675792485465,75,topgear-0,301,Moved Permanently,Thread Group 1-56,,true,,319,120,40,40,http://www.topgear.com/,75,0,45
+1675792485540,1453,topgear-1,200,OK,Thread Group 1-56,text,true,,388501,120,40,40,https://www.topgear.com/,1067,0,88
+1675792485993,1021,wikipedia,200,OK,Thread Group 1-57,text,true,,77212,244,39,39,https://www.wikipedia.org/,484,0,68
+1675792485993,484,wikipedia-0,301,TLS Redirect,Thread Group 1-57,,true,,595,122,39,39,http://www.wikipedia.org/,484,0,68
+1675792486477,537,wikipedia-1,200,OK,Thread Group 1-57,text,true,,76617,122,39,39,https://www.wikipedia.org/,255,0,158
+1675792485649,1380,topgear,200,OK,Thread Group 1-66,text,true,,388762,240,39,39,https://www.topgear.com/,58,0,25
+1675792485649,58,topgear-0,301,Moved Permanently,Thread Group 1-66,,true,,319,120,39,39,http://www.topgear.com/,58,0,25
+1675792485708,1321,topgear-1,200,OK,Thread Group 1-66,text,true,,388443,120,39,39,https://www.topgear.com/,1009,0,111
+1675792486745,363,imdb,403,Forbidden,Thread Group 1-99,text,false,,1258,234,38,38,https://www.imdb.com/,101,0,52
+1675792486745,101,imdb-0,301,Moved Permanently,Thread Group 1-99,text,true,,592,117,38,38,http://www.imdb.com/,101,0,52
+1675792486846,262,imdb-1,403,Forbidden,Thread Group 1-99,text,false,,666,117,38,38,https://www.imdb.com/,262,0,106
+1675792486364,773,djmag,200,OK,Thread Group 1-85,text,true,,93127,232,38,38,https://djmag.com/,400,0,63
+1675792486364,400,djmag-0,301,Moved Permanently,Thread Group 1-85,,true,,650,118,38,38,http://www.djmag.com/,400,0,63
+1675792486765,372,djmag-1,200,OK,Thread Group 1-85,text,true,,92477,114,38,38,https://djmag.com/,246,0,132
+1675792486249,901,djmag,200,OK,Thread Group 1-84,text,true,,93134,232,38,38,https://djmag.com/,142,0,59
+1675792486249,142,djmag-0,301,Moved Permanently,Thread Group 1-84,,true,,654,118,38,38,http://www.djmag.com/,142,0,59
+1675792486391,759,djmag-1,200,OK,Thread Group 1-84,text,true,,92480,114,38,38,https://djmag.com/,674,0,549
+1675792486068,1084,topgear,200,OK,Thread Group 1-75,text,true,,388755,240,38,38,https://www.topgear.com/,125,0,56
+1675792486068,125,topgear-0,301,Moved Permanently,Thread Group 1-75,,true,,319,120,38,38,http://www.topgear.com/,125,0,56
+1675792486193,959,topgear-1,200,OK,Thread Group 1-75,text,true,,388436,120,38,38,https://www.topgear.com/,584,0,113
+1675792486293,861,pinterest,200,OK,Thread Group 1-91,text,true,,215471,244,37,37,https://www.pinterest.com/,106,0,47
+1675792486293,106,pinterest-0,301,Moved Permanently,Thread Group 1-91,,true,,210,122,37,37,http://www.pinterest.com/,106,0,47
+1675792486400,754,pinterest-1,200,OK,Thread Group 1-91,text,true,,215261,122,37,37,https://www.pinterest.com/,543,0,124
+1675792485455,1737,topgear,200,OK,Thread Group 1-65,text,true,,388755,240,37,37,https://www.topgear.com/,73,0,46
+1675792485455,73,topgear-0,301,Moved Permanently,Thread Group 1-65,,true,,319,120,37,37,http://www.topgear.com/,73,0,46
+1675792485528,1664,topgear-1,200,OK,Thread Group 1-65,text,true,,388436,120,37,37,https://www.topgear.com/,1341,0,72
+1675792485850,1345,topgear,200,OK,Thread Group 1-68,text,true,,388755,240,36,36,https://www.topgear.com/,58,0,22
+1675792485850,58,topgear-0,301,Moved Permanently,Thread Group 1-68,,true,,319,120,36,36,http://www.topgear.com/,58,0,22
+1675792485908,1287,topgear-1,200,OK,Thread Group 1-68,text,true,,388436,120,36,36,https://www.topgear.com/,917,0,110
+1675792485343,1889,topgear,200,OK,Thread Group 1-49,text,true,,388755,240,35,35,https://www.topgear.com/,82,0,42
+1675792485343,82,topgear-0,301,Moved Permanently,Thread Group 1-49,,true,,319,120,35,35,http://www.topgear.com/,82,0,42
+1675792485425,1807,topgear-1,200,OK,Thread Group 1-49,text,true,,388436,120,35,35,https://www.topgear.com/,1503,0,92
+1675792486826,441,djmag,200,OK,Thread Group 1-86,text,true,,93133,232,34,34,https://djmag.com/,123,0,59
+1675792486826,123,djmag-0,301,Moved Permanently,Thread Group 1-86,,true,,650,118,34,34,http://www.djmag.com/,123,0,59
+1675792486950,317,djmag-1,200,OK,Thread Group 1-86,text,true,,92483,114,34,34,https://djmag.com/,244,0,132
+1675792486845,422,imdb,403,Forbidden,Thread Group 1-100,text,false,,1258,234,34,34,https://www.imdb.com/,92,0,47
+1675792486845,92,imdb-0,301,Moved Permanently,Thread Group 1-100,text,true,,592,117,34,34,http://www.imdb.com/,92,0,47
+1675792486938,329,imdb-1,403,Forbidden,Thread Group 1-100,text,false,,666,117,34,34,https://www.imdb.com/,329,0,172
+1675792486596,682,pinterest,200,OK,Thread Group 1-94,text,true,,216367,244,34,34,https://www.pinterest.com/,101,0,49
+1675792486596,101,pinterest-0,301,Moved Permanently,Thread Group 1-94,,true,,211,122,34,34,http://www.pinterest.com/,101,0,49
+1675792486698,580,pinterest-1,200,OK,Thread Group 1-94,text,true,,216156,122,34,34,https://www.pinterest.com/,423,0,131
+1675792486865,414,djmag,200,OK,Thread Group 1-89,text,true,,93135,232,34,34,https://djmag.com/,98,0,51
+1675792486865,98,djmag-0,301,Moved Permanently,Thread Group 1-89,,true,,654,118,34,34,http://www.djmag.com/,98,0,51
+1675792486963,316,djmag-1,200,OK,Thread Group 1-89,text,true,,92481,114,34,34,https://djmag.com/,242,0,133
+1675792486604,686,djmag,200,OK,Thread Group 1-88,text,true,,93138,232,34,34,https://djmag.com/,358,0,53
+1675792486604,358,djmag-0,301,Moved Permanently,Thread Group 1-88,,true,,660,118,34,34,http://www.djmag.com/,358,0,53
+1675792486963,327,djmag-1,200,OK,Thread Group 1-88,text,true,,92478,114,34,34,https://djmag.com/,239,0,132
+1675792486545,786,topgear,200,OK,Thread Group 1-77,text,true,,388762,240,34,34,https://www.topgear.com/,98,0,50
+1675792486545,98,topgear-0,301,Moved Permanently,Thread Group 1-77,,true,,319,120,34,34,http://www.topgear.com/,98,0,50
+1675792486643,688,topgear-1,200,OK,Thread Group 1-77,text,true,,388443,120,34,34,https://www.topgear.com/,454,0,127
+1675792486925,426,djmag,200,OK,Thread Group 1-90,text,true,,93137,232,33,33,https://djmag.com/,116,0,48
+1675792486925,116,djmag-0,301,Moved Permanently,Thread Group 1-90,,true,,656,118,33,33,http://www.djmag.com/,116,0,48
+1675792487042,309,djmag-1,200,OK,Thread Group 1-90,text,true,,92481,114,33,33,https://djmag.com/,231,0,108
+1675792485982,1376,djmag,200,OK,Thread Group 1-81,text,true,,93137,232,33,33,https://djmag.com/,100,0,49
+1675792485982,100,djmag-0,301,Moved Permanently,Thread Group 1-81,,true,,654,118,33,33,http://www.djmag.com/,100,0,49
+1675792486082,1276,djmag-1,200,OK,Thread Group 1-81,text,true,,92483,114,33,33,https://djmag.com/,1214,0,1126
+1675792485543,1827,topgear,200,OK,Thread Group 1-60,text,true,,388820,240,33,33,https://www.topgear.com/,69,0,25
+1675792485543,69,topgear-0,301,Moved Permanently,Thread Group 1-60,,true,,319,120,33,33,http://www.topgear.com/,69,0,25
+1675792485613,1757,topgear-1,200,OK,Thread Group 1-60,text,true,,388501,120,33,33,https://www.topgear.com/,1535,0,74
+1675792486645,781,imdb,403,Forbidden,Thread Group 1-98,text,false,,1258,234,32,32,https://www.imdb.com/,101,0,52
+1675792486645,101,imdb-0,301,Moved Permanently,Thread Group 1-98,text,true,,592,117,32,32,http://www.imdb.com/,101,0,52
+1675792486746,680,imdb-1,403,Forbidden,Thread Group 1-98,text,false,,666,117,32,32,https://www.imdb.com/,679,0,106
+1675792486124,1467,djmag,200,OK,Thread Group 1-83,text,true,,93133,232,32,32,https://djmag.com/,1111,0,1034
+1675792486124,1111,djmag-0,301,Moved Permanently,Thread Group 1-83,,true,,650,118,32,32,http://www.djmag.com/,1111,0,1034
+1675792487235,356,djmag-1,200,OK,Thread Group 1-83,text,true,,92483,114,32,32,https://djmag.com/,222,0,105
+1675792486241,1411,topgear,200,OK,Thread Group 1-76,text,true,,388820,240,32,32,https://www.topgear.com/,108,0,61
+1675792486241,108,topgear-0,301,Moved Permanently,Thread Group 1-76,,true,,319,120,32,32,http://www.topgear.com/,108,0,61
+1675792486349,1303,topgear-1,200,OK,Thread Group 1-76,text,true,,388501,120,32,32,https://www.topgear.com/,947,0,120
+1675792485808,1853,topgear,200,OK,Thread Group 1-58,text,true,,388762,240,31,31,https://www.topgear.com/,82,0,41
+1675792485808,82,topgear-0,301,Moved Permanently,Thread Group 1-58,,true,,319,120,31,31,http://www.topgear.com/,82,0,41
+1675792485891,1770,topgear-1,200,OK,Thread Group 1-58,text,true,,388443,120,31,31,https://www.topgear.com/,1442,0,1127
+1675792487154,507,djmag,200,OK,Thread Group 1-91,text,true,,93126,232,31,31,https://djmag.com/,107,0,46
+1675792487154,107,djmag-0,301,Moved Permanently,Thread Group 1-91,,true,,648,118,31,31,http://www.djmag.com/,107,0,46
+1675792487262,399,djmag-1,200,OK,Thread Group 1-91,text,true,,92478,114,31,31,https://djmag.com/,273,0,116
+1675792487278,397,djmag,200,OK,Thread Group 1-94,text,true,,93139,232,30,30,https://djmag.com/,88,0,39
+1675792487278,88,djmag-0,301,Moved Permanently,Thread Group 1-94,,true,,652,118,30,30,http://www.djmag.com/,88,0,39
+1675792487366,309,djmag-1,200,OK,Thread Group 1-94,text,true,,92487,114,30,30,https://djmag.com/,182,0,84
+1675792485823,1874,topgear,200,OK,Thread Group 1-70,text,true,,388820,240,30,30,https://www.topgear.com/,67,0,30
+1675792485823,67,topgear-0,301,Moved Permanently,Thread Group 1-70,,true,,319,120,30,30,http://www.topgear.com/,67,0,30
+1675792485891,1806,topgear-1,200,OK,Thread Group 1-70,text,true,,388501,120,30,30,https://www.topgear.com/,1454,0,106
+1675792487138,560,wikipedia,200,OK,Thread Group 1-85,text,true,,77212,244,30,30,https://www.wikipedia.org/,146,0,84
+1675792487138,146,wikipedia-0,301,TLS Redirect,Thread Group 1-85,,true,,595,122,30,30,http://www.wikipedia.org/,146,0,84
+1675792487285,413,wikipedia-1,200,OK,Thread Group 1-85,text,true,,76617,122,30,30,https://www.wikipedia.org/,213,0,123
+1675792486900,807,pinterest,200,OK,Thread Group 1-97,text,true,,216729,244,29,29,https://www.pinterest.com/,100,0,51
+1675792486900,100,pinterest-0,301,Moved Permanently,Thread Group 1-97,,true,,211,122,29,29,http://www.pinterest.com/,100,0,51
+1675792487000,707,pinterest-1,200,OK,Thread Group 1-97,text,true,,216518,122,29,29,https://www.pinterest.com/,374,0,111
+1675792486702,1028,topgear,200,OK,Thread Group 1-74,text,true,,388762,240,29,29,https://www.topgear.com/,119,0,58
+1675792486702,119,topgear-0,301,Moved Permanently,Thread Group 1-74,,true,,319,120,29,29,http://www.topgear.com/,119,0,58
+1675792486821,909,topgear-1,200,OK,Thread Group 1-74,text,true,,388443,120,29,29,https://www.topgear.com/,539,0,121
+1675792487151,585,wikipedia,200,OK,Thread Group 1-84,text,true,,77212,244,28,28,https://www.wikipedia.org/,141,0,74
+1675792487151,141,wikipedia-0,301,TLS Redirect,Thread Group 1-84,,true,,595,122,28,28,http://www.wikipedia.org/,141,0,74
+1675792487293,443,wikipedia-1,200,OK,Thread Group 1-84,text,true,,76617,122,28,28,https://www.wikipedia.org/,238,0,141
+1675792486345,1396,imdb,403,Forbidden,Thread Group 1-95,text,false,,1258,234,28,28,https://www.imdb.com/,100,0,48
+1675792486345,100,imdb-0,301,Moved Permanently,Thread Group 1-95,text,true,,592,117,28,28,http://www.imdb.com/,100,0,48
+1675792486445,1296,imdb-1,403,Forbidden,Thread Group 1-95,text,false,,666,117,28,28,https://www.imdb.com/,1295,0,1127
+1675792487279,533,wikipedia,200,OK,Thread Group 1-89,text,true,,77212,244,28,28,https://www.wikipedia.org/,112,0,65
+1675792487279,112,wikipedia-0,301,TLS Redirect,Thread Group 1-89,,true,,595,122,28,28,http://www.wikipedia.org/,112,0,65
+1675792487392,420,wikipedia-1,200,OK,Thread Group 1-89,text,true,,76617,122,28,28,https://www.wikipedia.org/,264,0,166
+1675792486586,1256,topgear,200,OK,Thread Group 1-79,text,true,,388820,240,28,28,https://www.topgear.com/,111,0,52
+1675792486586,111,topgear-0,301,Moved Permanently,Thread Group 1-79,,true,,319,120,28,28,http://www.topgear.com/,111,0,52
+1675792486698,1144,topgear-1,200,OK,Thread Group 1-79,text,true,,388501,120,28,28,https://www.topgear.com/,788,0,131
+1675792485962,1881,topgear,200,OK,Thread Group 1-72,text,true,,388820,240,27,27,https://www.topgear.com/,99,0,51
+1675792485962,99,topgear-0,301,Moved Permanently,Thread Group 1-72,,true,,319,120,27,27,http://www.topgear.com/,99,0,51
+1675792486061,1782,topgear-1,200,OK,Thread Group 1-72,text,true,,388501,120,27,27,https://www.topgear.com/,1331,0,234
+1675792486444,1402,imdb,403,Forbidden,Thread Group 1-96,text,false,,1258,234,26,26,https://www.imdb.com/,1115,0,1065
+1675792486444,1115,imdb-0,301,Moved Permanently,Thread Group 1-96,text,true,,592,117,26,26,http://www.imdb.com/,1115,0,1065
+1675792487560,286,imdb-1,403,Forbidden,Thread Group 1-96,text,false,,666,117,26,26,https://www.imdb.com/,285,0,118
+1675792486633,1215,pinterest,200,OK,Thread Group 1-92,text,true,,215608,244,26,26,https://www.pinterest.com/,122,0,61
+1675792486633,122,pinterest-0,301,Moved Permanently,Thread Group 1-92,,true,,211,122,26,26,http://www.pinterest.com/,122,0,61
+1675792486756,1092,pinterest-1,200,OK,Thread Group 1-92,text,true,,215397,122,26,26,https://www.pinterest.com/,886,0,613
+1675792487291,561,wikipedia,200,OK,Thread Group 1-88,text,true,,77212,244,26,26,https://www.wikipedia.org/,115,0,67
+1675792487291,115,wikipedia-0,301,TLS Redirect,Thread Group 1-88,,true,,595,122,26,26,http://www.wikipedia.org/,115,0,67
+1675792487406,446,wikipedia-1,200,OK,Thread Group 1-88,text,true,,76617,122,26,26,https://www.wikipedia.org/,271,0,173
+1675792487268,585,wikipedia,200,OK,Thread Group 1-86,text,true,,77212,244,26,26,https://www.wikipedia.org/,109,0,63
+1675792487268,109,wikipedia-0,301,TLS Redirect,Thread Group 1-86,,true,,595,122,26,26,http://www.wikipedia.org/,109,0,63
+1675792487378,475,wikipedia-1,200,OK,Thread Group 1-86,text,true,,76617,122,26,26,https://www.wikipedia.org/,255,0,161
+1675792487109,752,pinterest,200,OK,Thread Group 1-99,text,true,,215977,244,26,26,https://www.pinterest.com/,69,0,30
+1675792487109,69,pinterest-0,301,Moved Permanently,Thread Group 1-99,,true,,210,122,26,26,http://www.pinterest.com/,69,0,30
+1675792487179,682,pinterest-1,200,OK,Thread Group 1-99,text,true,,215767,122,26,26,https://www.pinterest.com/,495,0,117
+1675792487351,519,wikipedia,200,OK,Thread Group 1-90,text,true,,77212,244,26,26,https://www.wikipedia.org/,98,0,44
+1675792487351,98,wikipedia-0,301,TLS Redirect,Thread Group 1-90,,true,,595,122,26,26,http://www.wikipedia.org/,98,0,44
+1675792487449,421,wikipedia-1,200,OK,Thread Group 1-90,text,true,,76617,122,26,26,https://www.wikipedia.org/,265,0,177
+1675792485818,2060,topgear,200,OK,Thread Group 1-53,text,true,,388755,240,26,26,https://www.topgear.com/,1145,0,1098
+1675792485818,1145,topgear-0,301,Moved Permanently,Thread Group 1-53,,true,,319,120,26,26,http://www.topgear.com/,1145,0,1098
+1675792486963,915,topgear-1,200,OK,Thread Group 1-53,text,true,,388436,120,26,26,https://www.topgear.com/,615,0,129
+1675792486953,983,topgear,200,OK,Thread Group 1-80,text,true,,388755,240,25,25,https://www.topgear.com/,112,0,49
+1675792486953,112,topgear-0,301,Moved Permanently,Thread Group 1-80,,true,,319,120,25,25,http://www.topgear.com/,112,0,49
+1675792487066,870,topgear-1,200,OK,Thread Group 1-80,text,true,,388436,120,25,25,https://www.topgear.com/,627,0,85
+1675792487268,668,pinterest,200,OK,Thread Group 1-100,text,true,,216963,244,25,25,https://www.pinterest.com/,90,0,44
+1675792487268,90,pinterest-0,301,Moved Permanently,Thread Group 1-100,,true,,211,122,25,25,http://www.pinterest.com/,90,0,44
+1675792487358,578,pinterest-1,200,OK,Thread Group 1-100,text,true,,216752,122,25,25,https://www.pinterest.com/,411,0,88
+1675792486602,1430,topgear,200,OK,Thread Group 1-78,text,true,,388820,240,24,24,https://www.topgear.com/,106,0,50
+1675792486602,106,topgear-0,301,Moved Permanently,Thread Group 1-78,,true,,319,120,24,24,http://www.topgear.com/,106,0,50
+1675792486709,1323,topgear-1,200,OK,Thread Group 1-78,text,true,,388501,120,24,24,https://www.topgear.com/,1150,0,127
+1675792486625,1424,djmag,200,OK,Thread Group 1-87,text,true,,93141,232,23,23,https://djmag.com/,1126,0,1062
+1675792486625,1126,djmag-0,301,Moved Permanently,Thread Group 1-87,,true,,654,118,23,23,http://www.djmag.com/,1126,0,1062
+1675792487751,298,djmag-1,200,OK,Thread Group 1-87,text,true,,92487,114,23,23,https://djmag.com/,220,0,119
+1675792485772,2286,topgear,200,OK,Thread Group 1-59,text,true,,388820,240,23,23,https://www.topgear.com/,1125,0,1069
+1675792485772,1125,topgear-0,301,Moved Permanently,Thread Group 1-59,,true,,319,120,23,23,http://www.topgear.com/,1125,0,1069
+1675792486897,1161,topgear-1,200,OK,Thread Group 1-59,text,true,,388501,120,23,23,https://www.topgear.com/,1002,0,112
+1675792487426,646,pinterest,200,OK,Thread Group 1-98,text,true,,216139,244,22,22,https://www.pinterest.com/,126,0,62
+1675792487426,126,pinterest-0,301,Moved Permanently,Thread Group 1-98,,true,,211,122,22,22,http://www.pinterest.com/,126,0,62
+1675792487552,520,pinterest-1,200,OK,Thread Group 1-98,text,true,,215928,122,22,22,https://www.pinterest.com/,386,0,135
+1675792487591,483,wikipedia,200,OK,Thread Group 1-83,text,true,,77212,244,22,22,https://www.wikipedia.org/,160,0,85
+1675792487591,160,wikipedia-0,301,TLS Redirect,Thread Group 1-83,,true,,595,122,22,22,http://www.wikipedia.org/,160,0,85
+1675792487751,323,wikipedia-1,200,OK,Thread Group 1-83,text,true,,76617,122,22,22,https://www.wikipedia.org/,207,0,138
+1675792487849,263,djmag,200,OK,Thread Group 1-92,text,true,,93135,232,22,22,https://djmag.com/,74,0,31
+1675792487849,74,djmag-0,301,Moved Permanently,Thread Group 1-92,,true,,652,118,22,22,http://www.djmag.com/,74,0,31
+1675792487923,189,djmag-1,200,OK,Thread Group 1-92,text,true,,92483,114,22,22,https://djmag.com/,156,0,96
+1675792487662,453,wikipedia,200,OK,Thread Group 1-91,text,true,,77212,244,22,22,https://www.wikipedia.org/,158,0,78
+1675792487662,158,wikipedia-0,301,TLS Redirect,Thread Group 1-91,,true,,595,122,22,22,http://www.wikipedia.org/,158,0,78
+1675792487821,294,wikipedia-1,200,OK,Thread Group 1-91,text,true,,76617,122,22,22,https://www.wikipedia.org/,196,0,111
+1675792487707,413,djmag,200,OK,Thread Group 1-97,text,true,,93140,232,22,22,https://djmag.com/,122,0,57
+1675792487707,122,djmag-0,301,Moved Permanently,Thread Group 1-97,,true,,658,118,22,22,http://www.djmag.com/,122,0,57
+1675792487829,291,djmag-1,200,OK,Thread Group 1-97,text,true,,92482,114,22,22,https://djmag.com/,240,0,89
+1675792487359,773,wikipedia,200,OK,Thread Group 1-81,text,true,,77212,244,22,22,https://www.wikipedia.org/,426,0,65
+1675792487359,426,wikipedia-0,301,TLS Redirect,Thread Group 1-81,,true,,595,122,22,22,http://www.wikipedia.org/,426,0,65
+1675792487785,347,wikipedia-1,200,OK,Thread Group 1-81,text,true,,76617,122,22,22,https://www.wikipedia.org/,249,0,159
+1675792487676,464,wikipedia,200,OK,Thread Group 1-94,text,true,,77212,244,22,22,https://www.wikipedia.org/,153,0,77
+1675792487676,153,wikipedia-0,301,TLS Redirect,Thread Group 1-94,,true,,595,122,22,22,http://www.wikipedia.org/,153,0,77
+1675792487830,310,wikipedia-1,200,OK,Thread Group 1-94,text,true,,76617,122,22,22,https://www.wikipedia.org/,211,0,125
+1675792486335,1808,wikipedia,200,OK,Thread Group 1-71,text,true,,77212,244,22,22,https://www.wikipedia.org/,460,0,75
+1675792486335,460,wikipedia-0,301,TLS Redirect,Thread Group 1-71,,true,,595,122,22,22,http://www.wikipedia.org/,460,0,75
+1675792486796,1347,wikipedia-1,200,OK,Thread Group 1-71,text,true,,76617,122,22,22,https://www.wikipedia.org/,1254,0,1165
+1675792487861,310,djmag,200,OK,Thread Group 1-99,text,true,,93130,232,22,22,https://djmag.com/,74,0,35
+1675792487861,74,djmag-0,301,Moved Permanently,Thread Group 1-99,,true,,648,118,22,22,http://www.djmag.com/,74,0,35
+1675792487935,236,djmag-1,200,OK,Thread Group 1-99,text,true,,92482,114,22,22,https://djmag.com/,181,0,96
+1675792486972,1237,topgear,200,OK,Thread Group 1-82,text,true,,388820,240,22,22,https://www.topgear.com/,142,0,102
+1675792486972,142,topgear-0,301,Moved Permanently,Thread Group 1-82,,true,,319,120,22,22,http://www.topgear.com/,142,0,102
+1675792487114,1095,topgear-1,200,OK,Thread Group 1-82,text,true,,388501,120,22,22,https://www.topgear.com/,996,0,89
+1675792487936,295,djmag,200,OK,Thread Group 1-100,text,true,,93141,232,21,21,https://djmag.com/,75,0,25
+1675792487936,75,djmag-0,301,Moved Permanently,Thread Group 1-100,,true,,650,118,21,21,http://www.djmag.com/,75,0,25
+1675792488011,220,djmag-1,200,OK,Thread Group 1-100,text,true,,92491,114,21,21,https://djmag.com/,173,0,87
+1675792487741,534,pinterest,200,OK,Thread Group 1-95,text,true,,216552,244,21,21,https://www.pinterest.com/,106,0,56
+1675792487741,106,pinterest-0,301,Moved Permanently,Thread Group 1-95,,true,,211,122,21,21,http://www.pinterest.com/,106,0,56
+1675792487848,427,pinterest-1,200,OK,Thread Group 1-95,text,true,,216341,122,21,21,https://www.pinterest.com/,351,0,69
+1675792488073,247,djmag,200,OK,Thread Group 1-98,text,true,,93126,232,21,21,https://djmag.com/,52,0,21
+1675792488073,52,djmag-0,301,Moved Permanently,Thread Group 1-98,,true,,648,118,21,21,http://www.djmag.com/,52,0,21
+1675792488126,194,djmag-1,200,OK,Thread Group 1-98,text,true,,92478,114,21,21,https://djmag.com/,136,0,65
+1675792487846,484,pinterest,200,OK,Thread Group 1-96,text,true,,216290,244,21,21,https://www.pinterest.com/,58,0,31
+1675792487846,58,pinterest-0,301,Moved Permanently,Thread Group 1-96,,true,,211,122,21,21,http://www.pinterest.com/,58,0,31
+1675792487904,426,pinterest-1,200,OK,Thread Group 1-96,text,true,,216079,122,21,21,https://www.pinterest.com/,317,0,78
+1675792487014,1346,topgear,200,OK,Thread Group 1-57,text,true,,388820,240,21,21,https://www.topgear.com/,100,0,60
+1675792487014,100,topgear-0,301,Moved Permanently,Thread Group 1-57,,true,,319,120,21,21,http://www.topgear.com/,100,0,60
+1675792487114,1246,topgear-1,200,OK,Thread Group 1-57,text,true,,388501,120,21,21,https://www.topgear.com/,1097,0,90
+1675792487812,601,topgear,200,OK,Thread Group 1-89,text,true,,388755,240,20,20,https://www.topgear.com/,84,0,46
+1675792487812,84,topgear-0,301,Moved Permanently,Thread Group 1-89,,true,,319,120,20,20,http://www.topgear.com/,84,0,46
+1675792487896,517,topgear-1,200,OK,Thread Group 1-89,text,true,,388436,120,20,20,https://www.topgear.com/,351,0,67
+1675792488050,365,wikipedia,200,OK,Thread Group 1-87,text,true,,77212,244,19,19,https://www.wikipedia.org/,80,0,41
+1675792488050,80,wikipedia-0,301,TLS Redirect,Thread Group 1-87,,true,,595,122,19,19,http://www.wikipedia.org/,80,0,41
+1675792488131,284,wikipedia-1,200,OK,Thread Group 1-87,text,true,,76617,122,19,19,https://www.wikipedia.org/,177,0,96
+1675792487736,713,topgear,200,OK,Thread Group 1-84,text,true,,388762,240,19,19,https://www.topgear.com/,111,0,61
+1675792487736,111,topgear-0,301,Moved Permanently,Thread Group 1-84,,true,,319,120,19,19,http://www.topgear.com/,111,0,61
+1675792487848,601,topgear-1,200,OK,Thread Group 1-84,text,true,,388443,120,19,19,https://www.topgear.com/,440,0,64
+1675792488120,354,wikipedia,200,OK,Thread Group 1-97,text,true,,77212,244,18,18,https://www.wikipedia.org/,85,0,39
+1675792488120,85,wikipedia-0,301,TLS Redirect,Thread Group 1-97,,true,,595,122,18,18,http://www.wikipedia.org/,85,0,39
+1675792488205,269,wikipedia-1,200,OK,Thread Group 1-97,text,true,,76617,122,18,18,https://www.wikipedia.org/,185,0,121
+1675792488112,380,wikipedia,200,OK,Thread Group 1-92,text,true,,77212,244,18,18,https://www.wikipedia.org/,85,0,39
+1675792488112,85,wikipedia-0,301,TLS Redirect,Thread Group 1-92,,true,,595,122,18,18,http://www.wikipedia.org/,85,0,39
+1675792488198,294,wikipedia-1,200,OK,Thread Group 1-92,text,true,,76617,122,18,18,https://www.wikipedia.org/,206,0,123
+1675792486144,2357,imdb,403,Forbidden,Thread Group 1-93,text,false,,1258,234,18,18,https://www.imdb.com/,89,0,52
+1675792486144,89,imdb-0,301,Moved Permanently,Thread Group 1-93,text,true,,592,117,18,18,http://www.imdb.com/,89,0,52
+1675792486234,2267,imdb-1,403,Forbidden,Thread Group 1-93,text,false,,666,117,18,18,https://www.imdb.com/,2267,0,94
+1675792488171,375,wikipedia,200,OK,Thread Group 1-99,text,true,,77212,244,18,18,https://www.wikipedia.org/,86,0,42
+1675792488171,86,wikipedia-0,301,TLS Redirect,Thread Group 1-99,,true,,595,122,18,18,http://www.wikipedia.org/,86,0,42
+1675792488258,288,wikipedia-1,200,OK,Thread Group 1-99,text,true,,76617,122,18,18,https://www.wikipedia.org/,196,0,136
+1675792488276,304,djmag,200,OK,Thread Group 1-95,text,true,,93134,232,18,18,https://djmag.com/,82,0,43
+1675792488276,82,djmag-0,301,Moved Permanently,Thread Group 1-95,,true,,648,118,18,18,http://www.djmag.com/,82,0,43
+1675792488358,222,djmag-1,200,OK,Thread Group 1-95,text,true,,92486,114,18,18,https://djmag.com/,144,0,62
+1675792487852,740,topgear,200,OK,Thread Group 1-88,text,true,,388762,240,18,18,https://www.topgear.com/,59,0,28
+1675792487853,739,topgear,200,OK,Thread Group 1-86,text,true,,388820,240,18,18,https://www.topgear.com/,58,0,27
+1675792487852,59,topgear-0,301,Moved Permanently,Thread Group 1-88,,true,,319,120,18,18,http://www.topgear.com/,59,0,28
+1675792487853,58,topgear-0,301,Moved Permanently,Thread Group 1-86,,true,,319,120,18,18,http://www.topgear.com/,58,0,27
+1675792487912,680,topgear-1,200,OK,Thread Group 1-88,text,true,,388443,120,18,18,https://www.topgear.com/,539,0,76
+1675792487912,680,topgear-1,200,OK,Thread Group 1-86,text,true,,388501,120,18,18,https://www.topgear.com/,535,0,76
+1675792488231,378,wikipedia,200,OK,Thread Group 1-100,text,true,,77212,244,16,16,https://www.wikipedia.org/,115,0,56
+1675792488231,115,wikipedia-0,301,TLS Redirect,Thread Group 1-100,,true,,595,122,16,16,http://www.wikipedia.org/,115,0,56
+1675792488346,263,wikipedia-1,200,OK,Thread Group 1-100,text,true,,76617,122,16,16,https://www.wikipedia.org/,154,0,102
+1675792488330,292,djmag,200,OK,Thread Group 1-96,text,true,,93153,232,16,16,https://djmag.com/,59,0,28
+1675792488330,59,djmag-0,301,Moved Permanently,Thread Group 1-96,,true,,660,118,16,16,http://www.djmag.com/,59,0,28
+1675792488390,232,djmag-1,200,OK,Thread Group 1-96,text,true,,92493,114,16,16,https://djmag.com/,191,0,73
+1675792488320,358,wikipedia,200,OK,Thread Group 1-98,text,true,,77212,244,16,16,https://www.wikipedia.org/,91,0,45
+1675792488320,91,wikipedia-0,301,TLS Redirect,Thread Group 1-98,,true,,595,122,16,16,http://www.wikipedia.org/,91,0,45
+1675792488411,267,wikipedia-1,200,OK,Thread Group 1-98,text,true,,76617,122,16,16,https://www.wikipedia.org/,170,0,93
+1675792488115,586,topgear,200,OK,Thread Group 1-91,text,true,,388755,240,16,16,https://www.topgear.com/,43,0,19
+1675792488115,43,topgear-0,301,Moved Permanently,Thread Group 1-91,,true,,319,120,16,16,http://www.topgear.com/,43,0,19
+1675792488158,543,topgear-1,200,OK,Thread Group 1-91,text,true,,388436,120,16,16,https://www.topgear.com/,404,0,61
+1675792488074,658,topgear,200,OK,Thread Group 1-83,text,true,,388762,240,15,15,https://www.topgear.com/,51,0,25
+1675792488074,51,topgear-0,301,Moved Permanently,Thread Group 1-83,,true,,319,120,15,15,http://www.topgear.com/,51,0,25
+1675792488126,606,topgear-1,200,OK,Thread Group 1-83,text,true,,388443,120,15,15,https://www.topgear.com/,484,0,50
+1675792487698,1090,topgear,200,OK,Thread Group 1-85,text,true,,388820,240,14,14,https://www.topgear.com/,113,0,55
+1675792487698,113,topgear-0,301,Moved Permanently,Thread Group 1-85,,true,,319,120,14,14,http://www.topgear.com/,113,0,55
+1675792487811,977,topgear-1,200,OK,Thread Group 1-85,text,true,,388501,120,14,14,https://www.topgear.com/,846,0,89
+1675792488132,704,topgear,200,OK,Thread Group 1-81,text,true,,388820,240,13,13,https://www.topgear.com/,46,0,23
+1675792488132,46,topgear-0,301,Moved Permanently,Thread Group 1-81,,true,,319,120,13,13,http://www.topgear.com/,46,0,23
+1675792488179,657,topgear-1,200,OK,Thread Group 1-81,text,true,,388501,120,13,13,https://www.topgear.com/,562,0,57
+1675792487871,1031,topgear,200,OK,Thread Group 1-90,text,true,,388820,240,12,12,https://www.topgear.com/,56,0,27
+1675792487871,56,topgear-0,301,Moved Permanently,Thread Group 1-90,,true,,319,120,12,12,http://www.topgear.com/,56,0,27
+1675792487928,974,topgear-1,200,OK,Thread Group 1-90,text,true,,388501,120,12,12,https://www.topgear.com/,876,0,77
+1675792488501,452,pinterest,200,OK,Thread Group 1-93,text,true,,216126,244,11,11,https://www.pinterest.com/,78,0,30
+1675792488501,78,pinterest-0,301,Moved Permanently,Thread Group 1-93,,true,,211,122,11,11,http://www.pinterest.com/,78,0,30
+1675792488580,373,pinterest-1,200,OK,Thread Group 1-93,text,true,,215915,122,11,11,https://www.pinterest.com/,293,0,62
+1675792488581,397,wikipedia,200,OK,Thread Group 1-95,text,true,,77212,244,11,11,https://www.wikipedia.org/,85,0,43
+1675792488581,85,wikipedia-0,301,TLS Redirect,Thread Group 1-95,,true,,595,122,11,11,http://www.wikipedia.org/,85,0,43
+1675792488666,312,wikipedia-1,200,OK,Thread Group 1-95,text,true,,76617,122,11,11,https://www.wikipedia.org/,220,0,131
+1675792488623,356,wikipedia,200,OK,Thread Group 1-96,text,true,,77212,244,11,11,https://www.wikipedia.org/,104,0,54
+1675792488623,104,wikipedia-0,301,TLS Redirect,Thread Group 1-96,,true,,595,122,11,11,http://www.wikipedia.org/,104,0,54
+1675792488728,251,wikipedia-1,200,OK,Thread Group 1-96,text,true,,76617,122,11,11,https://www.wikipedia.org/,158,0,98
+1675792488416,673,topgear,200,OK,Thread Group 1-87,text,true,,388755,240,11,11,https://www.topgear.com/,43,0,21
+1675792488416,43,topgear-0,301,Moved Permanently,Thread Group 1-87,,true,,319,120,11,11,http://www.topgear.com/,43,0,21
+1675792488459,630,topgear-1,200,OK,Thread Group 1-87,text,true,,388436,120,11,11,https://www.topgear.com/,493,0,52
+1675792488143,982,topgear,200,OK,Thread Group 1-71,text,true,,388762,240,10,10,https://www.topgear.com/,53,0,21
+1675792488143,53,topgear-0,301,Moved Permanently,Thread Group 1-71,,true,,319,120,10,10,http://www.topgear.com/,53,0,21
+1675792488197,928,topgear-1,200,OK,Thread Group 1-71,text,true,,388443,120,10,10,https://www.topgear.com/,797,0,61
+1675792488493,653,topgear,200,OK,Thread Group 1-92,text,true,,388820,240,9,9,https://www.topgear.com/,75,0,29
+1675792488493,75,topgear-0,301,Moved Permanently,Thread Group 1-92,,true,,319,120,9,9,http://www.topgear.com/,75,0,29
+1675792488568,578,topgear-1,200,OK,Thread Group 1-92,text,true,,388501,120,9,9,https://www.topgear.com/,444,0,67
+1675792488546,669,topgear,200,OK,Thread Group 1-99,text,true,,388820,240,8,8,https://www.topgear.com/,68,0,46
+1675792488546,68,topgear-0,301,Moved Permanently,Thread Group 1-99,,true,,319,120,8,8,http://www.topgear.com/,68,0,46
+1675792488614,601,topgear-1,200,OK,Thread Group 1-99,text,true,,388501,120,8,8,https://www.topgear.com/,488,0,69
+1675792488953,280,djmag,200,OK,Thread Group 1-93,text,true,,93137,232,7,7,https://djmag.com/,61,0,31
+1675792488953,61,djmag-0,301,Moved Permanently,Thread Group 1-93,,true,,662,118,7,7,http://www.djmag.com/,61,0,31
+1675792489015,218,djmag-1,200,OK,Thread Group 1-93,text,true,,92475,114,7,7,https://djmag.com/,164,0,87
+1675792488474,921,topgear,200,OK,Thread Group 1-97,text,true,,388762,240,7,7,https://www.topgear.com/,49,0,20
+1675792488474,49,topgear-0,301,Moved Permanently,Thread Group 1-97,,true,,319,120,7,7,http://www.topgear.com/,49,0,20
+1675792488523,872,topgear-1,200,OK,Thread Group 1-97,text,true,,388443,120,7,7,https://www.topgear.com/,784,0,82
+1675792489233,303,wikipedia,200,OK,Thread Group 1-93,text,true,,77212,244,6,6,https://www.wikipedia.org/,79,0,40
+1675792489233,79,wikipedia-0,301,TLS Redirect,Thread Group 1-93,,true,,595,122,6,6,http://www.wikipedia.org/,79,0,40
+1675792489313,223,wikipedia-1,200,OK,Thread Group 1-93,text,true,,76617,122,6,6,https://www.wikipedia.org/,145,0,91
+1675792488679,860,topgear,200,OK,Thread Group 1-98,text,true,,388755,240,6,6,https://www.topgear.com/,54,0,27
+1675792488679,54,topgear-0,301,Moved Permanently,Thread Group 1-98,,true,,319,120,6,6,http://www.topgear.com/,54,0,27
+1675792488734,805,topgear-1,200,OK,Thread Group 1-98,text,true,,388436,120,6,6,https://www.topgear.com/,710,0,51
+1675792488140,1489,topgear,200,OK,Thread Group 1-94,text,true,,388820,240,5,5,https://www.topgear.com/,56,0,24
+1675792488140,56,topgear-0,301,Moved Permanently,Thread Group 1-94,,true,,319,120,5,5,http://www.topgear.com/,56,0,24
+1675792488197,1432,topgear-1,200,OK,Thread Group 1-94,text,true,,388501,120,5,5,https://www.topgear.com/,1337,0,58
+1675792488979,825,topgear,200,OK,Thread Group 1-95,text,true,,388755,240,4,4,https://www.topgear.com/,47,0,21
+1675792488979,47,topgear-0,301,Moved Permanently,Thread Group 1-95,,true,,319,120,4,4,http://www.topgear.com/,47,0,21
+1675792489026,778,topgear-1,200,OK,Thread Group 1-95,text,true,,388436,120,4,4,https://www.topgear.com/,684,0,79
+1675792488609,1372,topgear,200,OK,Thread Group 1-100,text,true,,388820,240,3,3,https://www.topgear.com/,43,0,20
+1675792488609,43,topgear-0,301,Moved Permanently,Thread Group 1-100,,true,,319,120,3,3,http://www.topgear.com/,43,0,20
+1675792488652,1329,topgear-1,200,OK,Thread Group 1-100,text,true,,388501,120,3,3,https://www.topgear.com/,1236,0,68
+1675792488980,1280,topgear,200,OK,Thread Group 1-96,text,true,,388820,240,2,2,https://www.topgear.com/,58,0,25
+1675792488980,58,topgear-0,301,Moved Permanently,Thread Group 1-96,,true,,319,120,2,2,http://www.topgear.com/,58,0,25
+1675792489039,1221,topgear-1,200,OK,Thread Group 1-96,text,true,,388501,120,2,2,https://www.topgear.com/,1125,0,75
+1675792489537,833,topgear,200,OK,Thread Group 1-93,text,true,,388762,240,1,1,https://www.topgear.com/,41,0,18
+1675792489537,41,topgear-0,301,Moved Permanently,Thread Group 1-93,,true,,319,120,1,1,http://www.topgear.com/,41,0,18
+1675792489579,791,topgear-1,200,OK,Thread Group 1-93,text,true,,388443,120,1,1,https://www.topgear.com/,688,0,55

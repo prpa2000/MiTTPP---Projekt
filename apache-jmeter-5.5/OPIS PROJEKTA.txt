@@ -1,0 +1,12 @@
+Projekt je napravljen prema petoj laboratorijskoj vježbi iz kolegija. Koristeći program jmeter testirano je pet različitih web stranica.
+Nakon što sam preuzeo jmeter na računalo, preko cmd sam pokrenio program naredbom zadanom u predlošku.
+Kada se program otvori, od elemanata imamo samo TestPlan te sam na njega nadodao ThreadGroup, a unutar njega još pet HTTP Requesta gdje svaki predstavlja po jednu stranicu. U protokol upisujemo http, a u Server Name or IP adresu stranice, npr. www.wikipedia.org
+Osim toga, dodao sam još View Results Tree, Graph Results, Aggregate Report i Aggregate Graph.
+
+Kada se sve doda, spremio sam napravljeno u LoadTest po nazivom projekt.jmx. Nakon toga sam pokrenio test.
+Kada se test izvršio, mogli smo vidjeti greške, grafove i slično.
+
+Na kraju je još napravljen HTML report koji se također radi prema naredbi koja se nalazi u predlošku.
+
+- Verzija jmetera 5.5
+- Number of Threads: 100, Ramp-Up Period: 10, Loop Count: 1
